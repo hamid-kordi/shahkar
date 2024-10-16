@@ -5,7 +5,7 @@ from django.core.exceptions import ValidationError
 
 
 class User(models.Model):
-    phonenumber = models.CharField()
+    phonenumber = models.CharField(max_length=11)
     nathinal_id = models.CharField(max_length=10)
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
@@ -15,3 +15,8 @@ class User(models.Model):
     def clean_phonenumber(self):
         if len(self.phonenumber) != 11:
             raise ValidationError(message="phone number must be 11 integer")
+
+
+class Analyzer(models.Model):
+    name = models.CharField(max_length=50)
+    
