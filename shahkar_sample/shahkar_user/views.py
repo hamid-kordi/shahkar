@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from drf_spectacular.utils import extend_schema
+from drf_spectacular.utils import extend_schema, OpenApiParameter
 from .serializers import RequestSerializer, ResponseSerializer
 from .tasks import find_user_by_phone
 from celery.result import AsyncResult
@@ -9,27 +9,59 @@ from celery.result import AsyncResult
 
 class ViewUserData(APIView):
     @extend_schema(
-        request=RequestSerializer,
-        responses={202, ResponseSerializer},
+        responses={202: ResponseSerializer},
+        parameters=[
+            OpenApiParameter(
+                name="phone_number",
+                description="Phone number of the user",
+                required=True,
+                type=str,
+            ),
+            OpenApiParameter(
+                name="analyzer_id", description="Analyzer ID", required=False, type=str
+            ),
+            OpenApiParameter(
+                name="user_agent",
+                description="User Agent",
+                required=False,
+                type=str,
+                enum=["Desktop", "Mobile"],
+            ),
+            OpenApiParameter(
+                name="source_ip", description="Source IP", required=False, type=str
+            ),
+            OpenApiParameter(
+                name="request_id", description="RequestId", required=False, type=str
+            ),
+        ],
         description="Get user data",
     )
     def get(self, request):
-        analyzer_id = request.GET.get("analyzer_id")
+        phone_number = request.GET.get("phone_number")
+
         if not phone_number:
             return Response({"error": "Phone number is required."}, status=400)
-        phone_number = request.GET.get("phone_number")
+
         task = find_user_by_phone.delay(phone_number)
         return Response({"task_id": task.id}, status=202)
 
 
 class GetTaskResult(APIView):
-    def get(self, reqest, task_id):
+    @extend_schema(
+        parameters=[
+            OpenApiParameter(
+                name="task_id", description="celery task id", required=True, type=str
+            )
+        ]
+    )
+    def get(self, request, task_id):
         result = AsyncResult(id=task_id)
+
         if result.state == "PENDING":
             return Response({"status": "Pending"}, status=202)
-        if result.state == "SUCCESS":
+        elif result.state == "SUCCESS":
             return Response(result.result, status=200)
-        if result.state == "STARTED":
+        elif result.state == "STARTED":
             return Response({"status": "Started"}, status=202)
         else:
             return Response(
