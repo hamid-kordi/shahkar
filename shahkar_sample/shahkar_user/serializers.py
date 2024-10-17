@@ -23,9 +23,11 @@ class ResponseSerializer(serializers.ModelSerializer):
         model = User
         fields = (
             "natoinal_id",
+            "request_id",
             "phonenumber",
             "first_name",
             "last_name",
             "birthday",
             "address",
+            "message"
         )
