@@ -6,6 +6,5 @@ gunicorn>=20.0.4
 pyspark
 faker
 django-celery-results
-django-rest-framwork
-drf_spectacular
-
+djangorestframework
+drf-spectacular
