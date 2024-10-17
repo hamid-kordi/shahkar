@@ -5,7 +5,7 @@ import uuid
 # Create your models here.
 
 
-class User(models.Model):
+class UserProfile(models.Model):
     phonenumber = models.CharField(max_length=11, db_index=True)
     natoinal_id = models.CharField(max_length=10)
     first_name = models.CharField(max_length=50)
