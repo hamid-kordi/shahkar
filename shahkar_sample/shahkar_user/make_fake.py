@@ -45,3 +45,4 @@ properties = {
 }
 
 spark_df.write.jdbc(url=jdbc_url, table="user", mode="append", properties=properties)
+df.write.json("/data/backup.json", mode="append")
