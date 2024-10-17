@@ -9,7 +9,7 @@ spark = (
 )
 
 
-fake = Faker()
+fake = Faker("fa_IR")
 
 data = [
     (
