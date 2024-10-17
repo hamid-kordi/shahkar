@@ -1,0 +1,82 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+*.log
+*.pot
+*.py~ 
+*.orig
+*.swp
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.db
+*.sqlite3
+media/
+staticfiles/
+.env
+*.env
+local_settings.py
+db.sqlite3
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage
+.coverage
+coverage.xml
+*.cover
+
+# Testing
+pytest_cache/
+nosetests.xml
+coverage/
+*.coverage
+*.cover
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# Docker
+**/docker-compose.override.yml
+**/Dockerfile
