@@ -1,22 +1,35 @@
 version: '3.8'
 services:
+
+  django:
+    build:
+      context: ./app
+    container_name: django_app
+    environment:
+      - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+    networks:
+      - app-network
   spark-master:
     image: bitnami/spark:latest
-    container_name: spark-master
+    container_name: shahkar_spark-master
     environment:
       - SPARK_MODE=master
     ports:
-      - "7077:7077"  # پورت برای ارتباطات Spark
-      - "8080:8080"  # پورت برای رابط کاربری
+      - "7077:7077"  
+      - "8080:8080"  
     networks:
       - spark-network
 
   spark-worker:
     image: bitnami/spark:latest
-    container_name: spark-worker
+    container_name: shahkar_spark-worker
     environment:
       - SPARK_MODE=worker
-      - SPARK_MASTER_URL=spark://spark-master:7077  # اتصال به master
+      - SPARK_MASTER_URL=spark://spark-master:7077  
     depends_on:
       - spark-master
     networks:
@@ -24,13 +37,13 @@ services:
 
   postgres:
     image: postgres:latest
-    container_name: postgres
+    container_name: shahkar_postgres
     environment:
-      POSTGRES_USER: your_username
-      POSTGRES_PASSWORD: your_password
-      POSTGRES_DB: your_db
+      POSTGRES_USER: username
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: shahkar
     ports:
-      - "5432:5432"  # پورت برای PostgreSQL
+      - "5432:5432"  
     networks:
       - spark-network
 
