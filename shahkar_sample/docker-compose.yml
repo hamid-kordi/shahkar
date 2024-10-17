@@ -12,7 +12,20 @@ services:
     depends_on:
       - postgres
     networks:
-      - app-network
+      - spark-network
+
+  celery:
+    build:
+      context: ./app
+    container_name: celery_worker
+    command: celery -A myproject worker --concurrency=4
+    depends_on:
+      - django
+      - redis
+    networks:
+      - spark-network
+
+  
   spark-master:
     image: spark_image
     container_name: shahkar_spark-master
