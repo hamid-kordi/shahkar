@@ -1,11 +1,12 @@
 from django.db import models
 from django.core.exceptions import ValidationError
 import uuid
+
 # Create your models here.
 
 
 class User(models.Model):
-    phonenumber = models.CharField(max_length=11)
+    phonenumber = models.CharField(max_length=11, unique=True)
     natoinal_id = models.CharField(max_length=10)
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
@@ -18,7 +19,5 @@ class User(models.Model):
 
 
 class Analyzer(models.Model):
-    id = models.UUIDField(primary_key=True,default=uuid.uuid4,editable=False)
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     name = models.CharField(max_length=50)
-
-    
