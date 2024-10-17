@@ -4,7 +4,7 @@ from .models import User, Analyzer
 # Register your models here.
 
 
-@admin.site(User)
+@admin.register(User)
 class AdminUser(admin.ModelAdmin):
     list_display = [
         "id",
@@ -17,6 +17,6 @@ class AdminUser(admin.ModelAdmin):
     ]
 
 
-@admin.site(Analyzer)
+@admin.register(Analyzer)
 class AdminAnalyzer(admin.ModelAdmin):
     list_display = ["id", "name"]

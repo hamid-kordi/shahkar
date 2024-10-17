@@ -14,7 +14,7 @@ services:
     networks:
       - app-network
   spark-master:
-    image: bitnami/spark:latest
+    image: spark_image
     container_name: shahkar_spark-master
     environment:
       - SPARK_MODE=master
@@ -25,7 +25,7 @@ services:
       - spark-network
 
   spark-worker:
-    image: bitnami/spark:latest
+    image: spark_image
     container_name: shahkar_spark-worker
     environment:
       - SPARK_MODE=worker
@@ -36,7 +36,7 @@ services:
       - spark-network
 
   postgres:
-    image: postgres:latest
+    image: postgres
     container_name: shahkar_postgres
     environment:
       POSTGRES_USER: username

@@ -36,7 +36,8 @@ df = pd.DataFrame(
 )
 
 spark_df = spark.createDataFrame(df)
-jdbc_url = "jdbc:postgresql://postgres:5432/your_db"
+jdbc_url = "jdbc:postgresql://shahkar_postgres:5432/shahkar?user=username&password=1234"
+
 properties = {
     "user": "your_username",
     "password": "your_password",
