@@ -7,26 +7,21 @@ services:
     image: postgres
     container_name: shahkar-postgres
     environment:
-      POSTGRES_USER: username
-      POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: shahkar
+      - POSTGRES_USER=username
+      - POSTGRES_PASSWORD=1234
+      - POSTGRES_DB=shahkar
     ports:
-      - "5433:5432"  
+      - "5432:5432"  
     networks:
       - spark-network
 
-  redis:
-    image: redis:alpine
-    ports:
-      - "6379:6379"
-    networks:
-      - spark-network
+
 
   django:
     build: .
     container_name: django_app
-    environment:
-      - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
+    # environment:
+    #   - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
     ports:
       - "8000:8000"
     depends_on:
@@ -35,6 +30,19 @@ services:
       - .:/app
     networks:
       - spark-network
+
+
+
+
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - spark-network
+
+
 
   celery:
     build: . 
