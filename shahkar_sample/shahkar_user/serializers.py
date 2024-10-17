@@ -1,4 +1,4 @@
-from .models import User, Analyzer
+from .models import UserProfile, Analyzer
 from rest_framework import serializers
 import uuid
 
@@ -20,7 +20,7 @@ class ResponseSerializer(serializers.ModelSerializer):
     message = serializers.CharField(default="Success")
 
     class Meta:
-        model = User
+        model = UserProfile
         fields = (
             "natoinal_id",
             "request_id",
