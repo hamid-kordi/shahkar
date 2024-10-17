@@ -6,7 +6,7 @@ import uuid
 
 class User(models.Model):
     phonenumber = models.CharField(max_length=11)
-    nathinal_id = models.CharField(max_length=10)
+    natoinal_id = models.CharField(max_length=10)
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
     birthday = models.DateTimeField()
