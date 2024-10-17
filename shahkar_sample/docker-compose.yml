@@ -1,9 +1,29 @@
 version: '3.8'
 services:
 
+
+
+  postgres:
+    image: postgres
+    container_name: shahkar-postgres
+    environment:
+      POSTGRES_USER: username
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: shahkar
+    ports:
+      - "5433:5432"  
+    networks:
+      - spark-network
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - spark-network
+
   django:
-    build:
-      context: ./app
+    build: .
     container_name: django_app
     environment:
       - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
@@ -11,14 +31,16 @@ services:
       - "8000:8000"
     depends_on:
       - postgres
+    volumes:
+      - .:/app
     networks:
       - spark-network
 
   celery:
-    build:
-      context: ./app
+    build: . 
+    image: celery
     container_name: celery_worker
-    command: celery -A myproject worker --concurrency=4
+    command: celery --app shahkar_sample worker --concurrency=4
     depends_on:
       - django
       - redis
@@ -49,26 +71,8 @@ services:
       - spark-network
 
 
-  redis:
-    image: redis:alpine
-    ports:
-      - "6379:6379"
-    networks:
-      - spark-network
-
-
-  postgres:
-    image: postgres
-    container_name: shahkar_postgres
-    environment:
-      POSTGRES_USER: username
-      POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: shahkar
-    ports:
-      - "5432:5432"  
-    networks:
-      - spark-network
 
 networks:
   spark-network:
     driver: bridge
+
