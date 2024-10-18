@@ -1,5 +1,5 @@
 from celery import shared_task
-from .models import User
+from .models import UserProfile
 from pyspark.sql import SparkSession
 
 

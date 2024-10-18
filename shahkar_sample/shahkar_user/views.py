@@ -48,11 +48,12 @@ class ViewUserData(APIView):
 
 class GetTaskResult(APIView):
     @extend_schema(
+        responses={202: ResponseSerializer},
         parameters=[
             OpenApiParameter(
                 name="task_id", description="celery task id", required=True, type=str
             )
-        ]
+        ],
     )
     def get(self, request, task_id):
         result = AsyncResult(id=task_id)

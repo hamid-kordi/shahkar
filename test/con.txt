@@ -1,0 +1,6 @@
+docker-compose logs -f django
+docker-compose logs -f celery
+docker-compose logs -f redis
+docker-compose logs -f postgres
+docker-compose logs -f spark-master
+docker-compose logs -f spart-worker
