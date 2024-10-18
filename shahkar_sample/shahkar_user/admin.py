@@ -1,10 +1,10 @@
 from django.contrib import admin
-from .models import User, Analyzer
+from .models import UserProfile, Analyzer
 
 # Register your models here.
 
 
-@admin.register(User)
+@admin.register(UserProfile)
 class AdminUser(admin.ModelAdmin):
     list_display = [
         "id",
@@ -19,4 +19,4 @@ class AdminUser(admin.ModelAdmin):
 
 @admin.register(Analyzer)
 class AdminAnalyzer(admin.ModelAdmin):
-    list_display = ["id", "name"]
+    list_display = ["analyzer_id", "name"]
