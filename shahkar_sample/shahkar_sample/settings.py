@@ -84,7 +84,7 @@ DATABASES = {
         "NAME": os.environ.get("POSTGRES_DB", "shahkar"),
         "USER": os.environ.get("POSTGRES_USER", "username"),
         "PASSWORD": os.environ.get("POSTGRES_PASSWORD", "1234"),
-        "HOST": os.environ.get("POSTGRES_HOST", "127.0.0.1"),
+        "HOST": os.environ.get("POSTGRES_HOST", "postgres"),
         "PORT": os.environ.get("POSTGRES_PORT", "5432"),
     }
 }
@@ -98,7 +98,7 @@ SPECTACULAR_SETTINGS = {
     "DESCRIPTION": "Shahkar system API design with high traffic management",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": False,
-    'COMPONENT_SPLIT_REQUEST': True, 
+    "COMPONENT_SPLIT_REQUEST": True,
     # OTHER SETTINGS
 }
 
@@ -142,9 +142,12 @@ STATIC_URL = "static/"
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
+
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
-CELERY_BROKER_URL = "redis://127.0.0.1:6379/0"
-CELERY_RESULT_BACKEND = "django-db"
+CELERY_BROKER_URL = os.environ.get("REDIS_URL", "redis://localhost:6379/0")
+CELERY_RESULT_BACKEND = os.environ.get("REDIS_URL", "redis://localhost:6379/0")
+# CELERY_RESULT_BACKEND = "django-db"
 CELERY_TASK_SERIALIZER = "json"
+CELERY_RESULT_SERIALIZER = "json"
 CELERY_TIMEZONE = "Asia/Tehran"
 CELERY_TRACK_STARTED = True
