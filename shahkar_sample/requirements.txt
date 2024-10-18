@@ -8,3 +8,4 @@ faker
 django-celery-results
 djangorestframework
 drf-spectacular
+pandas
