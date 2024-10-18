@@ -1,46 +1,39 @@
 version: '3.8'
 services:
 
-
-
   postgres:
-    image: postgres
+    image: postgres:16
     container_name: shahkar-postgres
     environment:
       - POSTGRES_USER=username
       - POSTGRES_PASSWORD=1234
       - POSTGRES_DB=shahkar
     ports:
-      - "5432:5432"  
-    networks:
-      - spark-network
+      - "5433:5432"  
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+
+  redis:
+    image: redis:alpine
 
 
 
   django:
     build: .
     container_name: django_app
-    # environment:
-    #   - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
+    command: python manage.py runserver 0.0.0.0:8000
+    environment:
+      - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
     ports:
       - "8000:8000"
     depends_on:
       - postgres
     volumes:
       - .:/app
-    networks:
-      - spark-network
 
 
 
-
-
-  redis:
-    image: redis:alpine
-    ports:
-      - "6379:6379"
-    networks:
-      - spark-network
 
 
 
@@ -49,38 +42,40 @@ services:
     image: celery
     container_name: celery_worker
     command: celery --app shahkar_sample worker --concurrency=4
+    environment:
+      - DATABASE_URL=postgres://username:1234@db:5432/shahkar
+      - REDIS_URL=redis://redis:6379/0
     depends_on:
       - django
       - redis
-    networks:
-      - spark-network
 
-  
-  spark-master:
-    image: spark_image
-    container_name: shahkar_spark-master
-    environment:
-      - SPARK_MODE=master
-    ports:
-      - "7077:7077"  
-      - "8080:8080"  
-    networks:
-      - spark-network
+  # spark-master:
+  #   image: spark
+  #   container_name: shahkar_spark-master
+  #   environment:
+  #     - SPARK_MODE=master
+  #     - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+  #     - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
+  #   command: >
+  #     /bin/bash -c "chmod 644 /opt/bitnami/spark/jars/postgresql-42.2.23.jar &&
+  #                    /opt/bitnami/spark/bin/spark-submit --class your.main.Class your.jar"
+  #   ports:
+  #     - "7077:7077"  
+  #     - "8080:8080"  
+ 
 
-  spark-worker:
-    image: spark_image
-    container_name: shahkar_spark-worker
-    environment:
-      - SPARK_MODE=worker
-      - SPARK_MASTER_URL=spark://spark-master:7077  
-    depends_on:
-      - spark-master
-    networks:
-      - spark-network
+  # spark-worker:
+  #   image: spark
+  #   container_name: shahkar_spark-worker
+  #   environment:
+  #     - SPARK_MODE=worker
+  #     - SPARK_MASTER_URL=spark://spark-master:7077  
+  #     - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+  #     - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
+  #   depends_on:
+  #     - spark-master
 
 
 
-networks:
-  spark-network:
-    driver: bridge
-
+volumes:
+  postgres_data:
