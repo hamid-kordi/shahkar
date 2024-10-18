@@ -9,3 +9,4 @@ django-celery-results
 djangorestframework
 drf-spectacular
 pandas
+logging
