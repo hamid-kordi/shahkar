@@ -18,7 +18,10 @@ class ViewUserData(APIView):
                 type=str,
             ),
             OpenApiParameter(
-                name="analyzer_id", description="Analyzer ID", required=False, type=str
+                name="analyzer_id",
+                description="UserAnalyzer ID",
+                required=False,
+                type=str,
             ),
             OpenApiParameter(
                 name="user_agent",
