@@ -6,7 +6,7 @@ import uuid
 
 
 class UserProfile(models.Model):
-    phonenumber = models.CharField(max_length=11, db_index=True)
+    phonenumber = models.CharField(max_length=13, db_index=True)
     natoinal_id = models.CharField(max_length=10)
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
@@ -18,6 +18,6 @@ class UserProfile(models.Model):
             raise ValidationError(message="phone number must be 11 integer")
 
 
-class Analyzer(models.Model):
+class UserAnalyzer(models.Model):
     analyzer_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     name = models.CharField(max_length=50)
