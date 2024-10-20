@@ -3,11 +3,11 @@ services:
 
   postgres:
     image: postgres:16
-    container_name: shahkar-postgres
+    container_name: shahkar-postgres1.2
     environment:
       - POSTGRES_USER=username
       - POSTGRES_PASSWORD=1234
-      - POSTGRES_DB=shahkar
+      - POSTGRES_DB=postgres
     ports:
       - "5433:5432"  
     volumes:
@@ -24,7 +24,7 @@ services:
     container_name: django_app
     command: python manage.py runserver 0.0.0.0:8000
     environment:
-      - DATABASE_URL=postgres://username:1234@postgres:5432/shahkar
+      - DATABASE_URL=postgres://username:1234@postgres:5432/postgres
     ports:
       - "8000:8000"
     depends_on:
@@ -43,7 +43,7 @@ services:
     container_name: celery_worker
     command: celery --app shahkar_sample worker --concurrency=4
     environment:
-      - DATABASE_URL=postgres://username:1234@db:5432/shahkar
+      - DATABASE_URL=postgres://username:1234@db:5432/postgres
       - REDIS_URL=redis://redis:6379/0
     depends_on:
       - django
