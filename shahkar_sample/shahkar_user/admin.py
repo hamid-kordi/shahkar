@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import UserProfile, Analyzer
+from .models import UserProfile, UserAnalyzer
 
 # Register your models here.
 
@@ -17,6 +17,6 @@ class AdminUser(admin.ModelAdmin):
     ]
 
 
-@admin.register(Analyzer)
-class AdminAnalyzer(admin.ModelAdmin):
+@admin.register(UserAnalyzer)
+class AdminUserAnalyzer(admin.ModelAdmin):
     list_display = ["analyzer_id", "name"]
