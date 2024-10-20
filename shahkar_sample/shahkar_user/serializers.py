@@ -1,4 +1,4 @@
-from .models import UserProfile, Analyzer
+from .models import UserProfile, UserAnalyzer
 from rest_framework import serializers
 import uuid
 
@@ -29,5 +29,5 @@ class ResponseSerializer(serializers.ModelSerializer):
             "last_name",
             "birthday",
             "address",
-            "message"
+            "message",
         )
