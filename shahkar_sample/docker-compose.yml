@@ -41,7 +41,7 @@ services:
     build: . 
     image: celery
     container_name: celery_worker
-    command: celery --app shahkar_sample worker --concurrency=4
+    command: celery --app shahkar_sample worker --pool=prefork --concurrency=8 -E
     environment:
       - DATABASE_URL=postgres://username:1234@db:5432/postgres
       - REDIS_URL=redis://redis:6379/0

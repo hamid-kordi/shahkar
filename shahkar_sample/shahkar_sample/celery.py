@@ -18,4 +18,4 @@ app.conf.result_serializer = settings.CELERY_RESULT_SERIALIZER
 app.conf.accept_content = ["json"]
 app.conf.result_expires = timedelta(days=1)
 app.conf.task_always_eager = False
-app.conf.worker_prefetch_multiplier = 8
+app.conf.worker_prefetch_multiplier = 2

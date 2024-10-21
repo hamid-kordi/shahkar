@@ -31,8 +31,8 @@ from django.core.exceptions import ObjectDoesNotExist
 
 @shared_task
 def find_user_by_phone(phone_number):
-    try:
-        user = UserProfile.objects.get(phonenumber=phone_number)
+    user = UserProfile.objects.filter(phonenumber=phone_number).first()
+    if user:
         return {
             "national_id": user.natoinal_id,
             "first_name": user.first_name,
@@ -41,5 +41,5 @@ def find_user_by_phone(phone_number):
             "address": user.address,
             "message": "Success",
         }
-    except ObjectDoesNotExist:
+    else:
         return {"message": "User not found"}

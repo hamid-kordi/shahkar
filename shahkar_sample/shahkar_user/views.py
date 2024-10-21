@@ -5,6 +5,7 @@ from drf_spectacular.utils import extend_schema, OpenApiParameter
 from .serializers import RequestSerializer, ResponseSerializer
 from .tasks import find_user_by_phone
 from celery.result import AsyncResult
+from rest_framework import status
 
 
 class ViewUserData(APIView):
@@ -20,7 +21,7 @@ class ViewUserData(APIView):
             OpenApiParameter(
                 name="analyzer_id",
                 description="UserAnalyzer ID",
-                required=False,
+                required=True,
                 type=str,
             ),
             OpenApiParameter(
@@ -58,16 +59,18 @@ class GetTaskResult(APIView):
             )
         ],
     )
-    def get(self, request, task_id):
+    def get(self, request):
+        task_id = request.query_params.get("task_id")
         result = AsyncResult(id=task_id)
 
         if result.state == "PENDING":
-            return Response({"status": "Pending"}, status=202)
+            return Response({"status": "Pending"}, status=status.HTTP_302_FOUND)
         elif result.state == "SUCCESS":
-            return Response(result.result, status=200)
+            return Response(result.result, status=status.HTTP_200_OK)
         elif result.state == "STARTED":
-            return Response({"status": "Started"}, status=202)
+            return Response({"status": "Started"}, status=status.HTTP_202_ACCEPTED)
         else:
             return Response(
-                {"status": result.state, "message": str(result.info)}, status=400
+                {"status": result.state, "message": str(result.info)},
+                status=status.HTTP_400_BAD_REQUEST,
             )
