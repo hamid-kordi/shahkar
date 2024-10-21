@@ -11,6 +11,7 @@ from sqlalchemy import create_engine
 
 """
 
+
 engine = create_engine("postgresql://username:1234@127.0.0.1:5433/postgres")
 for i in range(11):
     query = f"SELECT * FROM shahkar_user_userprofile LIMIT 1000000 OFFSET {i*1000000}"
