@@ -3,9 +3,12 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from drf_spectacular.utils import extend_schema, OpenApiParameter
 from .serializers import RequestSerializer, ResponseSerializer
-from .tasks import find_user_by_phone
+from .tasks import find_user_by_phone,log_into_db
 from celery.result import AsyncResult
 from rest_framework import status
+from .models import ApiLog
+import time
+from django.utils import timezone
 
 
 class ViewUserData(APIView):
@@ -41,12 +44,28 @@ class ViewUserData(APIView):
         description="Get user data",
     )
     def get(self, request):
+        start_time = time.time()
         phone_number = request.GET.get("phone_number")
+        analyzer_id = request.GET.get("analyzer_id")
 
         if not phone_number:
             return Response({"error": "Phone number is required."}, status=400)
 
         task = find_user_by_phone.delay(phone_number)
+        response_time = time.time() - start_time
+
+
+        ApiLog.objects.create(
+            analyzer_id=analyzer_id,
+            phonenumber=phone_number,
+            request_size=(
+                request.META["CONTENT_LENGTH"]
+                if "CONTENT_LENGTH" in request.META
+                else 0
+            ),
+            response_time=response_time,
+        )
+
         return Response({"task_id": task.id}, status=202)
 
 
@@ -63,6 +82,8 @@ class GetTaskResult(APIView):
         task_id = request.query_params.get("task_id")
         result = AsyncResult(id=task_id)
 
+        # compelete data log in db
+        log_into_db.delay(task_id = task_id,state =result.state,tm = timezone.now())
         if result.state == "PENDING":
             return Response({"status": "Pending"}, status=status.HTTP_302_FOUND)
         elif result.state == "SUCCESS":

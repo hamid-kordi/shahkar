@@ -1,7 +1,8 @@
 from celery import shared_task
-from .models import UserProfile
+from .models import UserProfile, ApiLog
 from pyspark.sql import SparkSession
 from django.core.exceptions import ObjectDoesNotExist
+import time
 
 # @shared_task
 # def find_user_by_phone_spark(phone_number):
@@ -43,3 +44,12 @@ def find_user_by_phone(phone_number):
         }
     else:
         return {"message": "User not found"}
+
+
+@shared_task
+def log_into_db(task_id, state, tm):
+    api_log = ApiLog.objects.filter(task_id=task_id).first()
+    if api_log:
+        api_log.status = state
+        api_log.result_time = tm
+        api_log.save()
