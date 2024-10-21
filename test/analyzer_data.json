@@ -1,0 +1,8002 @@
+[
+  {
+    "analyzer_id": "a5d0026f-6e57-40e7-ac81-f71a39fd2816",
+    "name": "درایو"
+  },
+  {
+    "analyzer_id": "3b2b49c7-b864-43a3-849e-19696c40efc2",
+    "name": "گفت"
+  },
+  {
+    "analyzer_id": "2ab5b353-aa65-4803-b9f3-9d261e08c16a",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "32ad19ae-1a67-4b8a-a7ad-39bc3498c534",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "08be7528-3501-41e3-8659-6dcda3e9941c",
+    "name": "به‌عنوان"
+  },
+  {
+    "analyzer_id": "f635b5f2-d55e-4c76-b933-69ac0f15e635",
+    "name": "شستشو"
+  },
+  {
+    "analyzer_id": "cd45077d-b34b-45ba-aa8a-05dce27b4280",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "2097f4c2-eded-4929-a90f-ec9b885ad5d8",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "60cd6e1b-7be3-46ab-a3a9-7193e1732ec2",
+    "name": "طلا"
+  },
+  {
+    "analyzer_id": "5c39b6c3-34cf-4927-a71a-734f3791dafa",
+    "name": "بازار"
+  },
+  {
+    "analyzer_id": "54e404e4-eba3-4e25-8fb5-9e06330e8f2f",
+    "name": "تعجب"
+  },
+  {
+    "analyzer_id": "3ecf42ad-b3ce-4d68-9b94-781e57536000",
+    "name": "کافی"
+  },
+  {
+    "analyzer_id": "3d88142b-bf38-4e77-ad77-41e3d6b90c23",
+    "name": "گردن"
+  },
+  {
+    "analyzer_id": "22e42529-deed-42be-9936-5aed801d595e",
+    "name": "نقشه"
+  },
+  {
+    "analyzer_id": "bc111273-6283-47a0-8ed7-a331ae6e05b6",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "f102f8b0-a241-4d8a-bf66-e6dfdf9b8e8f",
+    "name": "ناگهانی"
+  },
+  {
+    "analyzer_id": "e2f270d4-46f3-489c-b5f3-fff8980165ad",
+    "name": "فعل"
+  },
+  {
+    "analyzer_id": "f7fa6c3f-afe2-4c80-aede-674bd3349313",
+    "name": "خاک"
+  },
+  {
+    "analyzer_id": "7574248d-2c0c-469a-bbb3-048bf5c5c68a",
+    "name": "می‌خواهم"
+  },
+  {
+    "analyzer_id": "00f50205-8409-4b26-a387-e8755cab6030",
+    "name": "کشور"
+  },
+  {
+    "analyzer_id": "deabb0cd-db79-4720-94ba-fa4ed1920775",
+    "name": "معامله"
+  },
+  {
+    "analyzer_id": "26205bd8-733f-40e2-9143-4f3045186bbb",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "cbed3ace-899b-4121-b703-29023449d547",
+    "name": "کم"
+  },
+  {
+    "analyzer_id": "d57ba837-d87b-4b00-a819-9aa8785032da",
+    "name": "روشن"
+  },
+  {
+    "analyzer_id": "dc09f444-1d43-484c-9e90-3cda28404018",
+    "name": "حرارت"
+  },
+  {
+    "analyzer_id": "9e9fb9f1-8e6b-4862-9e6d-1c88b586582d",
+    "name": "مالیدن"
+  },
+  {
+    "analyzer_id": "63d1962f-438d-492f-8bb6-4a51e2a16645",
+    "name": "کوتاه"
+  },
+  {
+    "analyzer_id": "a98f2742-9b00-4b82-95b1-3072b2cfce09",
+    "name": "امن"
+  },
+  {
+    "analyzer_id": "4ebdfc39-9c6f-4090-be00-e623e890d023",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "440e0927-ce36-4a51-bbfb-82a8511b99e6",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "52385253-30b2-412f-bdc2-4a2ff4fb9b78",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "8af862c3-2d0a-4d24-9fde-fc700cf68c7f",
+    "name": "چوب"
+  },
+  {
+    "analyzer_id": "eed8808d-90f0-4c8d-a141-980146b6eabf",
+    "name": "معمول"
+  },
+  {
+    "analyzer_id": "e4e04c78-022c-4ab9-b8d8-a3b883468d66",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "60c1eae6-8a6f-4239-bafd-beed643cac82",
+    "name": "دکتر"
+  },
+  {
+    "analyzer_id": "77763b12-6f6b-4056-9210-3463c3a5d1b8",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "4f07ca7c-3b31-4c6c-b3a4-b5df3fa3005d",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "04a19964-c681-4386-b2dc-ba147c50959d",
+    "name": "طلسم"
+  },
+  {
+    "analyzer_id": "4cfaa36e-9452-4bf6-b205-f6165ac89b0f",
+    "name": "استخوان"
+  },
+  {
+    "analyzer_id": "93f13686-7336-410c-a9e0-0258e28faea2",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "8078b1d7-7dc7-412c-9051-ab936bd826c4",
+    "name": "گسترده"
+  },
+  {
+    "analyzer_id": "4f5790d1-8f8a-4b95-bb2b-11ef7f955d1b",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "970ad298-6cf5-4a0a-b584-291b9f38dd33",
+    "name": "و"
+  },
+  {
+    "analyzer_id": "7e714030-1ee8-42ad-bb4a-a020ab0536c5",
+    "name": "سرمایه"
+  },
+  {
+    "analyzer_id": "67271205-a019-4269-919f-671870385519",
+    "name": "شاید"
+  },
+  {
+    "analyzer_id": "b566d5dd-6714-4a2e-b65b-42eeb7ad91dc",
+    "name": "بلند"
+  },
+  {
+    "analyzer_id": "d69575bf-9c63-4234-bdc7-2d204bb1bb27",
+    "name": "حرارت"
+  },
+  {
+    "analyzer_id": "5a4f282f-6191-41ec-a96a-a15432705665",
+    "name": "بیست"
+  },
+  {
+    "analyzer_id": "8d146831-bb04-45ef-9a2c-edc94bb85e88",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "d98228d3-d4fd-49cc-85a2-1ea1275e0025",
+    "name": "جز"
+  },
+  {
+    "analyzer_id": "59c685fe-6aa2-454f-a828-8e441ada7335",
+    "name": "شاد"
+  },
+  {
+    "analyzer_id": "12a9a8c9-ca8b-4699-ad40-51f9161a6e3a",
+    "name": "عادلانه"
+  },
+  {
+    "analyzer_id": "257d5141-bc0f-41de-bd60-b7454356d513",
+    "name": "بعدی"
+  },
+  {
+    "analyzer_id": "80a81002-dbc0-4b9e-8d01-8aa69d827b03",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "99e2adc6-6351-4914-be97-f79d016ad478",
+    "name": "قاره"
+  },
+  {
+    "analyzer_id": "0bd3d922-c6ee-42b4-8daf-aea36a2057f8",
+    "name": "صحبت"
+  },
+  {
+    "analyzer_id": "94b05332-81e2-4a24-9451-f614c10b0738",
+    "name": "باید"
+  },
+  {
+    "analyzer_id": "f224d3f5-eaae-4f93-b2e3-f309f16c3136",
+    "name": "من"
+  },
+  {
+    "analyzer_id": "dcca7211-d08d-4c0f-9d0c-12f0966b5d84",
+    "name": "متولد"
+  },
+  {
+    "analyzer_id": "96ed2eac-04f1-4d32-82a6-b8eb4c951eeb",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "c3f8580b-98a5-45f5-9e1d-5d63af7bdf6c",
+    "name": "شکل"
+  },
+  {
+    "analyzer_id": "aee57986-d5c9-4cd3-8b71-d5a8314816fe",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "9f8b592b-8358-46ad-b69c-0e28e8fa2b75",
+    "name": "سوار"
+  },
+  {
+    "analyzer_id": "a9520eeb-d7a8-4609-8622-ee61bdabc1dd",
+    "name": "دیگر"
+  },
+  {
+    "analyzer_id": "6833cbf5-8f23-47cf-84e8-55cc3ec02605",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "20ba5aa9-10d2-42c1-8aa4-172573430302",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "f08b095c-21e1-4564-91a1-6e12684fd5c6",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "7f01839b-569f-40fc-be8e-ae438331de17",
+    "name": "عضو"
+  },
+  {
+    "analyzer_id": "b9bd0141-7470-4fdf-9f02-f79304aff22e",
+    "name": "خریداری"
+  },
+  {
+    "analyzer_id": "5e651b01-9a95-4bfc-9e95-6f21aa23706d",
+    "name": "طلسم"
+  },
+  {
+    "analyzer_id": "87a76a21-4d0b-48cf-bec2-c60dd7444820",
+    "name": "مربع"
+  },
+  {
+    "analyzer_id": "8ae1cda8-28ff-4aae-92c3-5760770b1ead",
+    "name": "هفت"
+  },
+  {
+    "analyzer_id": "471e152c-7739-43c6-a1b2-d293714d121d",
+    "name": "بند"
+  },
+  {
+    "analyzer_id": "1048006e-ff56-423b-b13d-189b5ae9bb18",
+    "name": "ایده"
+  },
+  {
+    "analyzer_id": "0e368d00-2af1-4330-9365-34fba640e242",
+    "name": "برده"
+  },
+  {
+    "analyzer_id": "a0e16b06-fada-4756-b49b-cad64ce3a2b9",
+    "name": "لبخند"
+  },
+  {
+    "analyzer_id": "9310b974-51e2-40ff-8d24-3585a8b43b12",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "f466fc08-18d6-42b3-ade2-32172c83d6b9",
+    "name": "عمومی"
+  },
+  {
+    "analyzer_id": "e7cd89c5-d1eb-4aab-96e1-a67bde13528f",
+    "name": "کشور"
+  },
+  {
+    "analyzer_id": "05e4023a-5f8c-48ef-a58b-3d73b1499d0e",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "fbce79ad-0269-47e1-9d55-81cf4979fee5",
+    "name": "سطح"
+  },
+  {
+    "analyzer_id": "43b0a3c3-0edc-4f62-a3bb-79847b847333",
+    "name": "بازار"
+  },
+  {
+    "analyzer_id": "d998e2a7-d4ee-4f53-b3d5-3050c8c28916",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "ac6d0f60-3da8-434e-a34b-bf7e982a69e0",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "ddfe9a45-a334-47fa-9dcb-67075b334fdb",
+    "name": "یادداشت"
+  },
+  {
+    "analyzer_id": "ff5f5dd3-6d04-43d3-b483-e46ac7f2508b",
+    "name": "جوجه"
+  },
+  {
+    "analyzer_id": "0ed843e5-ab12-42ae-bf9a-3f7980f27267",
+    "name": "لبخند"
+  },
+  {
+    "analyzer_id": "b1ceaa0d-370d-4051-87fc-c7fb984a8cf1",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "180885cb-00bb-4773-b8d2-92969b050216",
+    "name": "فشار"
+  },
+  {
+    "analyzer_id": "fe309f9c-0863-4a7d-b271-a4d55680f55f",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "49bbcff5-1938-4c3b-ad06-2c4bbd37a1cd",
+    "name": "آسان"
+  },
+  {
+    "analyzer_id": "7a9630a5-3bd2-4980-ae42-9f7f1fd9fdf5",
+    "name": "گسترده"
+  },
+  {
+    "analyzer_id": "865d65cc-0efd-4f95-b0c3-6cc06ae7743f",
+    "name": "کودکان"
+  },
+  {
+    "analyzer_id": "ab48172f-dfe1-4e51-960f-5402692f93e6",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "a8254e98-f2db-4202-899e-c6cec67c5cc1",
+    "name": "حزب"
+  },
+  {
+    "analyzer_id": "d7505b7a-dbaf-40b8-b185-2a263914fc15",
+    "name": "قاره"
+  },
+  {
+    "analyzer_id": "61f3c1fc-a4c3-4e65-8e24-3115bb805ae8",
+    "name": "واقع"
+  },
+  {
+    "analyzer_id": "fa14b0c5-fea8-46b0-abbd-b3e7e24b8eab",
+    "name": "بعدی"
+  },
+  {
+    "analyzer_id": "1cb03d80-cc28-4a6b-8842-f1d4cc9fd01a",
+    "name": "لغزش"
+  },
+  {
+    "analyzer_id": "c85a9c79-cd37-4b1d-b319-351554a63495",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "3ba40663-579d-42f5-87df-117e1676211a",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "d81c8076-98d2-4aab-b3ac-2f4d9288a88d",
+    "name": "جرم"
+  },
+  {
+    "analyzer_id": "fe763a7c-1739-4745-b38d-f4f5a3f61972",
+    "name": "کم"
+  },
+  {
+    "analyzer_id": "461f1715-f078-43ff-b565-6b8cb2089811",
+    "name": "صعود"
+  },
+  {
+    "analyzer_id": "27baa57f-b593-4d4f-9dee-107eebbfd330",
+    "name": "روشن"
+  },
+  {
+    "analyzer_id": "058dee00-0f0c-4635-bdbd-e028d9ad811c",
+    "name": "پیشنهاد"
+  },
+  {
+    "analyzer_id": "84eef5cf-dda3-4b36-8a32-db111abe0430",
+    "name": "باید"
+  },
+  {
+    "analyzer_id": "a85df5c3-5c96-4be2-8fa4-c5213d6f28f3",
+    "name": "خواهد‌شد"
+  },
+  {
+    "analyzer_id": "b482d338-7397-4989-ad62-17a80fb29069",
+    "name": "قرار"
+  },
+  {
+    "analyzer_id": "10cdd634-bd28-4ee0-bf75-67025826ff67",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "ab0f5525-a4ff-49dd-abbb-5a8c3a549101",
+    "name": "جدید"
+  },
+  {
+    "analyzer_id": "9faedf3b-f0cd-4110-a47f-fada61c5b19f",
+    "name": "رو"
+  },
+  {
+    "analyzer_id": "d3ea32ac-40ec-43b6-a643-f0f2340321e4",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "b88cd69f-66b2-4f0a-9324-13a398bd18af",
+    "name": "ذرت"
+  },
+  {
+    "analyzer_id": "26f4c79d-ef06-454a-a97b-bac060b5c22b",
+    "name": "بیابان"
+  },
+  {
+    "analyzer_id": "9464455b-3f84-4cf5-8589-bfdc4d496011",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "50c30c00-b13d-4343-aa59-6a50de024fb6",
+    "name": "تابستان"
+  },
+  {
+    "analyzer_id": "589187cc-9639-484a-aadb-f3c798bb4ee0",
+    "name": "وزن"
+  },
+  {
+    "analyzer_id": "4175a5ca-9706-48de-a78a-6f61c1749717",
+    "name": "درایو"
+  },
+  {
+    "analyzer_id": "48f757c7-a025-48ca-971a-b7ad92b3b639",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "5ae4ea76-2b76-4781-8328-b8d4a1fc8a41",
+    "name": "تا"
+  },
+  {
+    "analyzer_id": "5b18d565-d554-4a12-9129-b5d021971149",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "e24c6f46-e02f-47da-92eb-560e7e8ba04e",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "3fce70c6-bc00-4708-ba54-2fdd61f3d862",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "6e643cb8-29fd-433f-888c-e16141e46c32",
+    "name": "بینی"
+  },
+  {
+    "analyzer_id": "d671d2a8-bb1c-43fb-87ec-33cc55acde6b",
+    "name": "کتاب"
+  },
+  {
+    "analyzer_id": "03268230-eeb5-4d48-8a31-9821ba9c4aa4",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "cfdeb70b-4aaa-4b60-8bf3-725b9cd6686e",
+    "name": "جدول"
+  },
+  {
+    "analyzer_id": "204714ab-5ace-4260-966f-220c9de89cc4",
+    "name": "بله"
+  },
+  {
+    "analyzer_id": "1543fc56-8bb6-4caa-8d8a-5f3af42cb68b",
+    "name": "صلیب"
+  },
+  {
+    "analyzer_id": "a7a98e8d-4c69-40a4-9149-125a2934a219",
+    "name": "مانند"
+  },
+  {
+    "analyzer_id": "6d6af237-df94-4a51-8f9c-b233ce681361",
+    "name": "آه"
+  },
+  {
+    "analyzer_id": "64153f01-4c2f-4ae4-9826-94e4a1e69b37",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "10e39569-1582-43c7-88b4-f3ddaa87664a",
+    "name": "است"
+  },
+  {
+    "analyzer_id": "8f202dbe-e622-4aec-b2e5-c6cb67383c11",
+    "name": "زمستان"
+  },
+  {
+    "analyzer_id": "b4d99ffc-60d0-4825-aa7f-4f1402a79626",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "79f400ac-9799-4b61-9b72-f36b2ad368d8",
+    "name": "محافظت"
+  },
+  {
+    "analyzer_id": "38f5c7dc-5329-4c9b-9752-d7d250fafb74",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "88bbb80e-a606-480d-bace-8f0ec0479dec",
+    "name": "جدید"
+  },
+  {
+    "analyzer_id": "bc4d9859-77a0-421b-8f1b-a3700a23f869",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "50d565ef-074f-4c92-b10e-719782c644a6",
+    "name": "گسترش"
+  },
+  {
+    "analyzer_id": "b86393c2-fa2e-4b09-b54c-9b8ed9432b4b",
+    "name": "جمعیت"
+  },
+  {
+    "analyzer_id": "760d77d4-623c-4638-b07a-9755de661d97",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "cd6789c5-5140-4e79-a53b-85caa55725a5",
+    "name": "دیگر"
+  },
+  {
+    "analyzer_id": "e997cbc5-ddbe-4788-b199-5d77bf4b8f48",
+    "name": "بال"
+  },
+  {
+    "analyzer_id": "cccef1a3-185b-44b5-a2ab-3e53218e2982",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "e63ef84d-6371-4a8f-8ab8-11d878400a0a",
+    "name": "اقامت"
+  },
+  {
+    "analyzer_id": "1dc4ad6f-eea1-4992-ae75-d6c6e48b80d6",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "14f5c440-0cd6-4af1-8ed5-9b54ab10d345",
+    "name": "گسترده"
+  },
+  {
+    "analyzer_id": "2029cc51-2b32-4e11-b0e5-28e6ecc510c1",
+    "name": "مولکول"
+  },
+  {
+    "analyzer_id": "0000f07f-ad60-4f5b-b94d-ed31ab6d9ea3",
+    "name": "بوده"
+  },
+  {
+    "analyzer_id": "40a72f12-042c-410a-8e66-409b2bac20b5",
+    "name": "زن"
+  },
+  {
+    "analyzer_id": "fbd4cb5d-7e27-452b-8e8a-30a831a0c98a",
+    "name": "پوند"
+  },
+  {
+    "analyzer_id": "6ace2abc-7258-4fdc-95b3-677661291b42",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "a01606b8-9320-4156-8531-43779d48d4fd",
+    "name": "سن"
+  },
+  {
+    "analyzer_id": "e08740f0-3c30-4257-b6cb-49bc1029bd36",
+    "name": "اشتباه"
+  },
+  {
+    "analyzer_id": "8bc683d4-4bb9-4de4-88b6-fba9874c222d",
+    "name": "ماهی"
+  },
+  {
+    "analyzer_id": "d0d3e116-c544-4324-87a9-a1ae42323171",
+    "name": "شرایط"
+  },
+  {
+    "analyzer_id": "33e568fd-2135-4611-b3b2-846f5244c8a3",
+    "name": "بزودی"
+  },
+  {
+    "analyzer_id": "866fe21a-53b0-4e39-a77d-fc6c77b940a8",
+    "name": "مثلث"
+  },
+  {
+    "analyzer_id": "d9a4809a-2b26-4f3f-92d5-6cfd87751dcb",
+    "name": "بالا"
+  },
+  {
+    "analyzer_id": "2034d174-a289-47b9-8cc9-93a91cacc333",
+    "name": "سگ"
+  },
+  {
+    "analyzer_id": "290cf415-4fad-4798-9403-8686aeaaae11",
+    "name": "هجاز"
+  },
+  {
+    "analyzer_id": "48f06c5a-1fe0-4d03-9f55-55d37fac3a8a",
+    "name": "چند"
+  },
+  {
+    "analyzer_id": "b6174a27-f508-4a00-b141-f7a42055753d",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "e6f3a2c5-c205-4cf2-933a-62ee8e178626",
+    "name": "صحبت"
+  },
+  {
+    "analyzer_id": "8cbb25c8-2cb0-4699-ab97-0aa170fd3d59",
+    "name": "رول"
+  },
+  {
+    "analyzer_id": "122f48d3-5c5f-4b91-b573-7f10abb2304f",
+    "name": "کاپیتان"
+  },
+  {
+    "analyzer_id": "5101e26a-4de9-4aa2-81e3-9fb2da90b998",
+    "name": "جدول"
+  },
+  {
+    "analyzer_id": "32ff122b-4010-4403-b8f0-c003469ac3d3",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "6c91cba0-5a92-4a49-b042-e1ee6c714cbf",
+    "name": "آرزو"
+  },
+  {
+    "analyzer_id": "d1dec163-3383-48fd-8b55-3c3c1c26d975",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "84a93b6e-7d5a-4d82-8041-7dca08f0249d",
+    "name": "متوسط"
+  },
+  {
+    "analyzer_id": "c74ed26a-7c59-4b9e-872e-9bc385115c33",
+    "name": "آرام"
+  },
+  {
+    "analyzer_id": "a0836e66-5770-4b50-8c83-4b0ce54166cd",
+    "name": "استفاده"
+  },
+  {
+    "analyzer_id": "98a2f19a-26a1-4b8a-973b-9267938f6ed9",
+    "name": "ذخیره"
+  },
+  {
+    "analyzer_id": "afd52591-ccfa-4566-beac-1def521cc2a6",
+    "name": "دروغ"
+  },
+  {
+    "analyzer_id": "87db7774-efe3-462a-93ad-89001116d439",
+    "name": "احساس"
+  },
+  {
+    "analyzer_id": "9df35dc9-4cb6-45d9-8e4b-b7a4c507afde",
+    "name": "شنا"
+  },
+  {
+    "analyzer_id": "179aaca8-4942-4125-a713-4fb7225b5510",
+    "name": "سهم"
+  },
+  {
+    "analyzer_id": "f67ca31b-a9ee-4ab4-b18a-b0f3d751f400",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "6360d26f-0bc8-4e87-9c54-3b0b817053c5",
+    "name": "خریداری"
+  },
+  {
+    "analyzer_id": "8267263a-d650-43ac-8670-ede281cdfc6c",
+    "name": "بودن"
+  },
+  {
+    "analyzer_id": "9e8485f1-2fa3-47f5-b93d-9c018dbef361",
+    "name": "هیچ"
+  },
+  {
+    "analyzer_id": "b5099767-c291-4f95-9ea8-b2a07ca68878",
+    "name": "شستشو"
+  },
+  {
+    "analyzer_id": "67e4c5ee-fece-42a6-bf50-516c14de643e",
+    "name": "احتمالی"
+  },
+  {
+    "analyzer_id": "65dc4c77-407e-442e-847a-417f721d49c0",
+    "name": "خوردن"
+  },
+  {
+    "analyzer_id": "deef3a9a-057b-4fed-8049-c15e1e6b6f6c",
+    "name": "دندانها"
+  },
+  {
+    "analyzer_id": "d249816d-76c8-4f8e-a89c-0bf30c0566e5",
+    "name": "طلا"
+  },
+  {
+    "analyzer_id": "0bfbbf70-a9cf-4e25-b165-183b33ce779b",
+    "name": "خشم"
+  },
+  {
+    "analyzer_id": "2b27951e-0001-4f84-bb71-a0f00e48903b",
+    "name": "پیش"
+  },
+  {
+    "analyzer_id": "d760668d-f466-4c8b-aead-71cb92bc78e9",
+    "name": "دارد"
+  },
+  {
+    "analyzer_id": "94a7bb6d-3b2f-441f-947c-35ed207659e3",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "fee441b2-7ce2-4084-81fb-274d87e29c9b",
+    "name": "آماده"
+  },
+  {
+    "analyzer_id": "538d47e8-734c-44df-92c0-4eb5df8478fd",
+    "name": "برش"
+  },
+  {
+    "analyzer_id": "88d81b17-05ad-41d7-bb6e-8b912b5f0899",
+    "name": "صحبت"
+  },
+  {
+    "analyzer_id": "323617dc-144f-4722-8633-4548d1c463d0",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "927c94fa-4f82-46a7-9f45-bf0ada4da415",
+    "name": "راه"
+  },
+  {
+    "analyzer_id": "4100b83e-b3fb-4dd8-99a3-67ef25e20dbb",
+    "name": "افزایش"
+  },
+  {
+    "analyzer_id": "e2670ec7-867b-47f5-a896-794425d0f0e7",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "bf961c0e-1e86-4e1d-ad38-283e63fe2930",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "2353f295-48a2-4fd6-9415-d03fb9fbdd54",
+    "name": "مراقبت"
+  },
+  {
+    "analyzer_id": "dd83693f-ac55-4378-bc84-adb2f8329ed1",
+    "name": "کوارت"
+  },
+  {
+    "analyzer_id": "88321af0-7394-4846-8bd9-6c13235e9147",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "2439d5dd-6365-4c7d-95b0-dae0cdceb88c",
+    "name": "کوچک"
+  },
+  {
+    "analyzer_id": "816fab53-8005-43b3-addf-20f09568ed66",
+    "name": "قلب"
+  },
+  {
+    "analyzer_id": "3aaaabda-d87c-4376-9f1d-16c00e5eae9e",
+    "name": "دریافت"
+  },
+  {
+    "analyzer_id": "685dfed8-48f0-4069-9b2a-265ff7bf290f",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "7c78349c-b633-45fb-8cc2-8a7aedb6c5bc",
+    "name": "کت"
+  },
+  {
+    "analyzer_id": "6c14e1c7-19c4-47bf-b96c-b7bb84c98e5e",
+    "name": "تپه"
+  },
+  {
+    "analyzer_id": "2a84e34f-5296-4b95-8dc9-dfea4a6848ea",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "620845b8-0ee5-4c71-a4d4-db867070f018",
+    "name": "به‌عنوان"
+  },
+  {
+    "analyzer_id": "c78c610b-c54d-4132-a995-487dd2715fce",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "74058962-9472-432d-8290-32fc184fbf73",
+    "name": "تماس"
+  },
+  {
+    "analyzer_id": "ded3edd1-e934-4482-9f38-6c8793969bfc",
+    "name": "پیش"
+  },
+  {
+    "analyzer_id": "97028173-3ced-4ee1-b7a9-0740f5a39ba0",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "b7e5d562-2c71-4355-9b8f-bdc682bc0be8",
+    "name": "اواخر"
+  },
+  {
+    "analyzer_id": "d5319647-1b48-443b-8df6-9c5cd9bcd131",
+    "name": "مستعمره"
+  },
+  {
+    "analyzer_id": "869129e3-9d0f-4c10-8279-b3729e34f3bd",
+    "name": "کم"
+  },
+  {
+    "analyzer_id": "d7530060-8f29-4870-968d-2eccab24c3ed",
+    "name": "چه"
+  },
+  {
+    "analyzer_id": "eaf80d88-cfb6-4b8a-8f6f-4a5fc93e2d66",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "ad157417-a5a6-47ba-9227-9d51d90fe59e",
+    "name": "نازک"
+  },
+  {
+    "analyzer_id": "44f50617-4859-410b-a680-7df1130ab8e8",
+    "name": "ماه"
+  },
+  {
+    "analyzer_id": "d6d7f9b0-c7ca-4fe8-a231-0aec1f72e7de",
+    "name": "ضرب"
+  },
+  {
+    "analyzer_id": "ebf3aeb4-2dad-4c8a-8a8c-36b1918a8e1b",
+    "name": "اواخر"
+  },
+  {
+    "analyzer_id": "5c44d6f6-6c19-4cf2-8834-21480b5cacce",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "51c227a0-b2ff-4a1e-9c62-9a4e92544535",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "708017c8-2e0c-4e60-9a5d-d1c767cf5fcb",
+    "name": "شب"
+  },
+  {
+    "analyzer_id": "7e58e1f9-0c01-497c-ba70-842aeb76ba3a",
+    "name": "کلمه"
+  },
+  {
+    "analyzer_id": "d0e19bfc-a2e7-4585-9126-ea6d4f98bc30",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "c7a52027-81d2-4a27-9588-86d9cc5a8123",
+    "name": "رشته"
+  },
+  {
+    "analyzer_id": "2456722a-b664-4a56-8591-b8568df461b9",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "df507e8b-865a-4e6b-813d-30dc629387d6",
+    "name": "پنبه"
+  },
+  {
+    "analyzer_id": "f4079d85-a14f-4731-ac98-45c60d6dcee1",
+    "name": "سخنرانی"
+  },
+  {
+    "analyzer_id": "a7e274b4-0114-48c0-984d-d0267d0e40e4",
+    "name": "برخی"
+  },
+  {
+    "analyzer_id": "96e8e782-b242-485b-b5ad-8973a5033797",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "84fc425e-cead-4044-94e0-ef21d170ebcc",
+    "name": "علاقه"
+  },
+  {
+    "analyzer_id": "0df3bcc3-2962-46f1-9626-832dcab2328c",
+    "name": "همیشه"
+  },
+  {
+    "analyzer_id": "c67286c9-7711-43c8-9094-31610e449205",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "10285ce6-9331-41c0-bd95-f71e0cefa09e",
+    "name": "ممکن"
+  },
+  {
+    "analyzer_id": "bb2c30ce-c842-4ec3-9758-4c4f992c2b7d",
+    "name": "کارخانه"
+  },
+  {
+    "analyzer_id": "65d302be-9888-438e-bae4-9fa02f41683e",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "58a4bda3-46e6-4dcf-bc06-e229cf0f60f4",
+    "name": "قایق"
+  },
+  {
+    "analyzer_id": "6be7a029-5bf4-4325-8235-9ce3044f4f5f",
+    "name": "دختر"
+  },
+  {
+    "analyzer_id": "95cac527-4881-4b7c-9318-1361fb9aff94",
+    "name": "صفحه"
+  },
+  {
+    "analyzer_id": "aaf6166f-5432-4459-acb9-cbf1ecdc9979",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "8091a4f0-3d86-4f15-9600-e89e1986b249",
+    "name": "زیبایی"
+  },
+  {
+    "analyzer_id": "127181ac-35db-4aea-ae1e-31effa55026b",
+    "name": "شنا"
+  },
+  {
+    "analyzer_id": "1312d5e1-839b-44f9-89b2-38731286ab62",
+    "name": "کشور"
+  },
+  {
+    "analyzer_id": "3f4a93ba-7cce-4a06-977a-ebae70901ae6",
+    "name": "لباس"
+  },
+  {
+    "analyzer_id": "1e35dbcb-ffe4-42d8-9eb5-ba315c563dd3",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "eed8cc24-2dc6-4cec-8c75-4eeccf5fabac",
+    "name": "بیابان"
+  },
+  {
+    "analyzer_id": "446a85d7-3b0e-452c-a425-476299da62ac",
+    "name": "ابر"
+  },
+  {
+    "analyzer_id": "ff16a019-393f-4aba-8cf0-d5171216a2ca",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "997703a3-6abe-4435-8d00-d9dfb2450659",
+    "name": "میوه"
+  },
+  {
+    "analyzer_id": "ecafb662-9e36-447a-8011-f4b3ff884aa8",
+    "name": "همچنین"
+  },
+  {
+    "analyzer_id": "c1d50bac-de9a-4a48-a96f-f2ccd63d388e",
+    "name": "ارزش"
+  },
+  {
+    "analyzer_id": "3339a6ad-bf0a-465c-8572-2b5ad734848b",
+    "name": "تماس"
+  },
+  {
+    "analyzer_id": "4f977d1e-542e-43fc-ac99-7bf70048289e",
+    "name": "آه"
+  },
+  {
+    "analyzer_id": "ea364618-abb3-4842-8878-a6e53d51c471",
+    "name": "دروغ"
+  },
+  {
+    "analyzer_id": "d2fb54bd-f6e8-44d4-add4-9daecd12491c",
+    "name": "بحث"
+  },
+  {
+    "analyzer_id": "4f7533cc-bca5-4c55-acaa-a1639f65c36e",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "64bccb6c-0fd3-464b-948e-97855e482e23",
+    "name": "مردم"
+  },
+  {
+    "analyzer_id": "3d0719d9-3a50-429a-9efe-e858c6b39d35",
+    "name": "حکم"
+  },
+  {
+    "analyzer_id": "7b146b19-5e05-4918-80ee-e4cce2267b4d",
+    "name": "میوه"
+  },
+  {
+    "analyzer_id": "fdcffc6e-c7dd-4053-991a-807fef64acab",
+    "name": "یافت"
+  },
+  {
+    "analyzer_id": "96722df1-1c60-40bb-a474-64b3f506b471",
+    "name": "کوه"
+  },
+  {
+    "analyzer_id": "e2c3fd39-5061-4ed0-9d54-1d3758d99997",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "9ef0df91-9ea7-4364-8c27-7a8f6560b016",
+    "name": "قدرت"
+  },
+  {
+    "analyzer_id": "5355b4e7-61ab-4069-b0ad-365eeb769752",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "43fa1d27-becf-4a75-bbff-7125804f2741",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "af35d705-346f-4b8f-abc8-9c5af4fcc040",
+    "name": "معامله"
+  },
+  {
+    "analyzer_id": "659eb548-0d5f-4d39-a68d-4862644d718a",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "e2c23b75-27d9-488d-a1c4-f3aa28a87da2",
+    "name": "کودک"
+  },
+  {
+    "analyzer_id": "87b9366d-2d47-42fb-8df9-32fc3fe64fbe",
+    "name": "ماشین"
+  },
+  {
+    "analyzer_id": "8e6c4d52-4013-44de-becd-aa9a731d9b2a",
+    "name": "طولانی"
+  },
+  {
+    "analyzer_id": "36adfa83-921d-4330-91a9-0980c9969868",
+    "name": "هفته"
+  },
+  {
+    "analyzer_id": "2be9f040-6ceb-40dd-904a-487c5b8ca0b2",
+    "name": "دوره"
+  },
+  {
+    "analyzer_id": "93802288-9d64-4486-b1b8-04a348dab810",
+    "name": "البته"
+  },
+  {
+    "analyzer_id": "451a9490-3985-4168-9860-d8d72b140349",
+    "name": "سال"
+  },
+  {
+    "analyzer_id": "8da8e1c7-3330-4ff1-a25e-0f486ab30fd7",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "830364ef-46e1-461e-a520-fd6ed77e74be",
+    "name": "دولت"
+  },
+  {
+    "analyzer_id": "bd36235d-d19e-4e97-89b6-287a936d5153",
+    "name": "شنا"
+  },
+  {
+    "analyzer_id": "ad722fdc-7ee8-4b56-8612-ea04a526348f",
+    "name": "اتم"
+  },
+  {
+    "analyzer_id": "6faaf430-34a2-475e-940a-6b0091b86118",
+    "name": "لباس"
+  },
+  {
+    "analyzer_id": "65516419-8363-4e8d-b6c6-938e7e306e07",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "e2375959-4871-4ab4-b25a-f482ee694c06",
+    "name": "تر"
+  },
+  {
+    "analyzer_id": "e6f9be6c-682d-4f67-b426-0e7e93458f54",
+    "name": "فرار"
+  },
+  {
+    "analyzer_id": "66436f50-936a-46b2-8c96-3dcca1471d4a",
+    "name": "دهان"
+  },
+  {
+    "analyzer_id": "51131a16-7844-4852-9875-e5c570397f62",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "8b7c6d9e-655b-4eff-a7be-7eb3789401e4",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "11e5734b-22de-46e4-a9b2-216fe9a9b928",
+    "name": "پنج"
+  },
+  {
+    "analyzer_id": "f98e0406-434b-468f-922e-5909b5cbb6b6",
+    "name": "سن"
+  },
+  {
+    "analyzer_id": "e8fc28a6-6b2d-41d6-a3e9-7949035496ca",
+    "name": "کوه"
+  },
+  {
+    "analyzer_id": "6747a048-de48-423d-9ea7-46e940885c76",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "3b6854bb-79bd-4029-896d-572ddc99b107",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "428f6138-f9f6-4d20-a2d2-2c5f35081c54",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "d5d1bee8-eb17-492a-9616-16b5d9e29ade",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "24c7c136-6a5c-4d69-a882-1ba7733b00d6",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "d347437e-6bb6-4aa4-8e67-e1b82a2d2cb6",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "7e7eb541-f717-4b11-8c57-778622220bd1",
+    "name": "جنوب"
+  },
+  {
+    "analyzer_id": "8b0035b9-b08a-4ce7-9c7b-d11f360dcd68",
+    "name": "رفت"
+  },
+  {
+    "analyzer_id": "f0e84d02-c545-4133-aa98-e8f63ef0a90a",
+    "name": "دایره"
+  },
+  {
+    "analyzer_id": "bb1e4d2a-3940-4046-9b0f-845176147a9d",
+    "name": "پست"
+  },
+  {
+    "analyzer_id": "b03af467-5acc-441b-9d37-6204ee55e826",
+    "name": "حوزه"
+  },
+  {
+    "analyzer_id": "9a01c769-91f9-45fd-a9e8-7a4c9d654788",
+    "name": "خدمت"
+  },
+  {
+    "analyzer_id": "6f3922b8-5332-4c89-98eb-851603acb62b",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "abc1e819-2925-441b-8b9c-9e48964f567d",
+    "name": "تابستان"
+  },
+  {
+    "analyzer_id": "e9d2ca2a-061e-46cf-be17-57594427eac2",
+    "name": "بودن"
+  },
+  {
+    "analyzer_id": "d4f0effc-1836-4271-9f89-9212025ddf83",
+    "name": "آهنگ"
+  },
+  {
+    "analyzer_id": "ebcfd4b2-e959-4eca-97bd-c07b4c5a4c41",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "a24ff9ad-27f9-417f-ab33-be3b9f99d877",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "452edd8d-8d70-4f61-b34a-9409f2969f30",
+    "name": "بال"
+  },
+  {
+    "analyzer_id": "6ca2d5b8-4dd2-48b2-9ae1-9b7e9f8e0c31",
+    "name": "خطر"
+  },
+  {
+    "analyzer_id": "7937b7e8-ab54-4e5b-8dc0-cd61e17878a8",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "f5463428-08ce-4e7b-805b-9f2db5e6c2ea",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "aca45815-c1e2-4b37-93f0-b942080b7d8b",
+    "name": "ضربه"
+  },
+  {
+    "analyzer_id": "f8b997b7-b192-405e-9f14-5fd0feeb40a9",
+    "name": "همخوان"
+  },
+  {
+    "analyzer_id": "fa8b6e90-d5ac-435e-b5d4-c7b784c1b90d",
+    "name": "شنیده"
+  },
+  {
+    "analyzer_id": "ba34769a-25ac-4f26-9d03-39e0283ec704",
+    "name": "نیروی"
+  },
+  {
+    "analyzer_id": "89b2a10c-8976-4f5f-b4bb-0b0ccf59764f",
+    "name": "نان"
+  },
+  {
+    "analyzer_id": "8db4e558-35ac-41f0-8bba-9b9e380a0751",
+    "name": "چرخ"
+  },
+  {
+    "analyzer_id": "4d2c39d0-ca14-47b4-9639-1d4f3cf76f4b",
+    "name": "خاص"
+  },
+  {
+    "analyzer_id": "fe2e58f7-3a5a-4d69-94df-2fd2808773d9",
+    "name": "درجه"
+  },
+  {
+    "analyzer_id": "a5107730-8454-484f-b7d7-47067bddc8a5",
+    "name": "نمودار"
+  },
+  {
+    "analyzer_id": "1b149aac-b4f8-43cc-ba25-74ddc75cf3b3",
+    "name": "دو"
+  },
+  {
+    "analyzer_id": "cc7f1ee0-572e-4a91-8ca9-79ed1f41778a",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "6c088f39-2021-4c9e-9a31-2338cc06bafc",
+    "name": "ماده"
+  },
+  {
+    "analyzer_id": "a2b3236b-7475-4124-acef-38aad7b7e382",
+    "name": "دوره"
+  },
+  {
+    "analyzer_id": "0f4bff01-14e6-4f27-a110-7b411619cef3",
+    "name": "سوم"
+  },
+  {
+    "analyzer_id": "baf825f7-0e48-453f-9259-b95a65f0b339",
+    "name": "استراحت"
+  },
+  {
+    "analyzer_id": "0d5674fb-fdef-4164-a807-2f5fbe4d859a",
+    "name": "لغزش"
+  },
+  {
+    "analyzer_id": "e9acb89c-1c39-4331-b093-2c2e861f5c71",
+    "name": "سمت"
+  },
+  {
+    "analyzer_id": "17a3addf-ac22-4683-a336-f428b8e1a6ef",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "1702650d-0f63-4ad2-8614-f9040d5d0737",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "012479be-69ed-4dc8-811d-30e35b0cdc24",
+    "name": "اقیانوس"
+  },
+  {
+    "analyzer_id": "74d5f95d-45d1-4e5a-bf4b-2559691136f8",
+    "name": "ادامه"
+  },
+  {
+    "analyzer_id": "0ece1c6c-9718-496a-8da3-7a1c141c438d",
+    "name": "بندر"
+  },
+  {
+    "analyzer_id": "81873e98-3eb9-4736-a27f-c9ba9bd9a575",
+    "name": "اشتباه"
+  },
+  {
+    "analyzer_id": "69064bf8-81b4-4a53-bc38-aa7cd6928726",
+    "name": "ارزش"
+  },
+  {
+    "analyzer_id": "9ca52a8b-d0fb-4350-845a-8509a403d3f0",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "19abe024-00fa-49dd-a2e8-fe83a38e7e1f",
+    "name": "ارزش"
+  },
+  {
+    "analyzer_id": "154bd2c2-f18e-470b-bf41-7e58ad2c7d69",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "5447f5fb-db5a-439e-adde-d6b02f6c4877",
+    "name": "دره"
+  },
+  {
+    "analyzer_id": "d95e2e67-d4d8-479c-8453-8f630cc467e9",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "b7d466c6-4cfc-48c4-ba68-ec782982575f",
+    "name": "نشستن"
+  },
+  {
+    "analyzer_id": "987a6c3f-e2f5-40e9-bd3e-a255d28f8a7b",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "b32e79ed-7c9c-4e4f-a2c4-664914d869c6",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "ae281de8-44cf-4d71-a59f-fec212cfa390",
+    "name": "اجازه"
+  },
+  {
+    "analyzer_id": "379585c6-eb74-4806-b9cb-c654f7d5020e",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "824dbc8b-1c1f-4a1e-880d-c4ff89293eb4",
+    "name": "نمودار"
+  },
+  {
+    "analyzer_id": "a4de32bf-15bf-4f04-8eb3-f8b842c9e794",
+    "name": "هم"
+  },
+  {
+    "analyzer_id": "57c9d0f1-eb65-4087-b448-05192fed2afd",
+    "name": "آمد"
+  },
+  {
+    "analyzer_id": "3bfb8822-f490-452a-93c9-d08dd42e0ca2",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "9457f545-14b8-4ac5-8d1e-f2cdd39fd0b9",
+    "name": "دوستان"
+  },
+  {
+    "analyzer_id": "8b189325-2576-41ec-8353-f25f0b7051d0",
+    "name": "سطح"
+  },
+  {
+    "analyzer_id": "6af63587-d57e-4ce1-9222-bc898076ad89",
+    "name": "معین"
+  },
+  {
+    "analyzer_id": "1a015cc9-3e80-4abf-8f40-f1c2cee7446e",
+    "name": "ماده"
+  },
+  {
+    "analyzer_id": "73231f77-c289-4bb2-8363-43d6e3a34293",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "fc04a96f-fff0-48f2-b43d-fcf3cfdd5d57",
+    "name": "عبور"
+  },
+  {
+    "analyzer_id": "cba3c958-04bc-44ff-afd9-8bc976002f6d",
+    "name": "رنگ"
+  },
+  {
+    "analyzer_id": "2a602058-0a72-4dd4-86cc-a9d0070fadc3",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "4062d689-69d5-422b-ae6c-179e005dcad9",
+    "name": "جداگانه"
+  },
+  {
+    "analyzer_id": "0f5824fd-86ac-4513-99dc-5edbdb3f0ca0",
+    "name": "زنده"
+  },
+  {
+    "analyzer_id": "1b776606-8f96-4b55-9e66-f81722102749",
+    "name": "اره"
+  },
+  {
+    "analyzer_id": "4b696c05-16a4-4993-b989-207291ad8ae7",
+    "name": "ساحل"
+  },
+  {
+    "analyzer_id": "7ee22514-aa1c-4426-b110-18be7bb9551e",
+    "name": "لغزش"
+  },
+  {
+    "analyzer_id": "60e3d463-2dc3-43db-b219-83d3af182a26",
+    "name": "رول"
+  },
+  {
+    "analyzer_id": "5802e317-a2fc-4270-b42b-78a4de956189",
+    "name": "کافی"
+  },
+  {
+    "analyzer_id": "92e175f4-3f02-4cd3-b9d8-0bdd7e7bf365",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "ae7093e8-7a01-4e61-9c69-72e7777633b7",
+    "name": "سرباز"
+  },
+  {
+    "analyzer_id": "d642f661-d2cf-4748-abae-a7ba6ae757a9",
+    "name": "گام"
+  },
+  {
+    "analyzer_id": "c49d4c5b-2f7d-408d-ac28-22c1e4ba0187",
+    "name": "کشش"
+  },
+  {
+    "analyzer_id": "73fa9125-61e4-49ef-a8c8-ddfc0aaf1075",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "53da7fcb-fcd3-44f0-8241-d02ea6f88929",
+    "name": "موسیقی"
+  },
+  {
+    "analyzer_id": "e7eb32fd-7ba9-4f4b-ab29-9a66fac3d07d",
+    "name": "جلو"
+  },
+  {
+    "analyzer_id": "86e00925-7f77-4d7e-bca6-ee0c953a7fca",
+    "name": "دلیل"
+  },
+  {
+    "analyzer_id": "fcf71e0e-1dea-498f-bcf5-d0c2153d9524",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "f229c7b2-1bed-4743-b71d-ea5085b984fe",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "8b28630e-6620-44f3-af8d-5fb09e481ad4",
+    "name": "نقره‌ای"
+  },
+  {
+    "analyzer_id": "72005cc4-070b-4063-a44d-0bf383baad3a",
+    "name": "تشکر"
+  },
+  {
+    "analyzer_id": "cdf877b9-3a9e-420e-b5b6-80d32d771ff7",
+    "name": "ببینید"
+  },
+  {
+    "analyzer_id": "6b0fadbc-45e8-4d05-a011-67d5a21b96a2",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "77a31ca5-1db4-49af-a179-f4fbb063ad5b",
+    "name": "هردو"
+  },
+  {
+    "analyzer_id": "ad8883fa-9931-49fc-b35e-e8f023156e09",
+    "name": "دقیقه"
+  },
+  {
+    "analyzer_id": "a0d7ed72-f2aa-4a0d-9f91-492a430ac867",
+    "name": "فریاد"
+  },
+  {
+    "analyzer_id": "9adf83f7-64e8-4270-8261-365d35b895a1",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "70c3d34b-ba76-4553-8a09-58e3da513783",
+    "name": "حشرات"
+  },
+  {
+    "analyzer_id": "efba4d67-d9d3-4026-9d61-6124676bff3c",
+    "name": "مانند"
+  },
+  {
+    "analyzer_id": "74d26932-8d73-4f5d-ac2c-ef1b2cce95c7",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "37f0a0d3-06fb-49e8-bb26-72cf2ce17cf3",
+    "name": "نکن"
+  },
+  {
+    "analyzer_id": "45306f7b-d9dd-4b7f-bfd1-bc2bdad62ba6",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "9392a517-c64e-4d1c-ab65-23bbd3293ccf",
+    "name": "معدن"
+  },
+  {
+    "analyzer_id": "e893c69b-bb7c-4a37-8105-d0ffe9bdc1aa",
+    "name": "تعیین"
+  },
+  {
+    "analyzer_id": "e5678f77-499f-4ad6-a376-40f356e377df",
+    "name": "اسب"
+  },
+  {
+    "analyzer_id": "6abe1d1e-5b9a-4c00-999b-c6e2fe475866",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "80d5300a-4455-4bd3-8642-97f98e2a4f95",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "f577ba67-033c-47e6-9677-e5a11554d9f2",
+    "name": "صفحه"
+  },
+  {
+    "analyzer_id": "69511cad-f161-4b4a-9c54-9bbe8ac41109",
+    "name": "عضویت"
+  },
+  {
+    "analyzer_id": "af1a7dbc-f5e5-4402-9111-a8c87d832a45",
+    "name": "توصیف"
+  },
+  {
+    "analyzer_id": "ffb093dc-b17f-4e5a-905b-13e7b9c9a5af",
+    "name": "نفت"
+  },
+  {
+    "analyzer_id": "56cdf35b-8790-46d2-bbc8-fd45023c22fb",
+    "name": "هرگز"
+  },
+  {
+    "analyzer_id": "6568165e-08a2-43f5-931f-da4d5019b3bc",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "8f28901d-55bb-469a-ad40-1a806f67a22c",
+    "name": "قدرت"
+  },
+  {
+    "analyzer_id": "0098bd8d-2f32-4474-a1a9-09dd70e8c748",
+    "name": "ایجاد"
+  },
+  {
+    "analyzer_id": "fa5945b9-14da-4698-b5a9-50b63c41c127",
+    "name": "واکه"
+  },
+  {
+    "analyzer_id": "b92d6f7c-531c-44b3-a88d-37c1c6b10aaa",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "9fbd263f-9479-442a-ad2d-4a9aef499a35",
+    "name": "اتم"
+  },
+  {
+    "analyzer_id": "a1cc02c5-7b18-416e-8827-c87e084cbb72",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "a25746e6-135a-4113-98d8-2c22c3883d30",
+    "name": "سگ"
+  },
+  {
+    "analyzer_id": "1e6e2e9c-eb30-46ff-be8d-0c56de714320",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "e91c0c7a-3f71-4bb8-bccd-fb0eb5fbc54a",
+    "name": "گسترش"
+  },
+  {
+    "analyzer_id": "f64eb145-e9fe-4880-b801-e4a0004cd0bc",
+    "name": "بودن"
+  },
+  {
+    "analyzer_id": "de434e34-b544-4175-9119-8d7b943e519c",
+    "name": "پادشاه"
+  },
+  {
+    "analyzer_id": "a05940b2-fb74-48bd-a21b-0d47a567cb98",
+    "name": "بلند"
+  },
+  {
+    "analyzer_id": "d4479aa7-41d1-4013-a4cc-4559b213b163",
+    "name": "جهان"
+  },
+  {
+    "analyzer_id": "a7710638-f2d9-4775-831c-227d83e78de8",
+    "name": "فقط"
+  },
+  {
+    "analyzer_id": "0b162968-2e2b-4444-9b87-bddf2a3ef5cd",
+    "name": "کمتر"
+  },
+  {
+    "analyzer_id": "e8d298ca-83fe-4b80-a4e9-c545a881752f",
+    "name": "ساحل"
+  },
+  {
+    "analyzer_id": "5233e901-64f1-4158-a9e7-0d6bdad77884",
+    "name": "انتظار"
+  },
+  {
+    "analyzer_id": "5de2fbed-31d8-42b7-91b0-c88d18596b5f",
+    "name": "کشیدن"
+  },
+  {
+    "analyzer_id": "b37538ad-b65b-453c-a7bc-57b9ce42f30e",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "23382288-3bca-4065-a6a6-61ad7d296d83",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "8779f64c-f46b-425c-9724-e2eae1ec6eed",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "fd40f77e-8748-46ef-b0e5-70d78313b9e6",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "b6115aee-ebde-4024-9bfc-91272545e70f",
+    "name": "در‌صد"
+  },
+  {
+    "analyzer_id": "7add78c6-0346-4623-ae42-7c40d56556a4",
+    "name": "زن"
+  },
+  {
+    "analyzer_id": "cf40b979-0dc8-4b32-9c78-5bd732470de7",
+    "name": "زنده"
+  },
+  {
+    "analyzer_id": "557e9f06-ba0d-4b03-86e1-50525627affd",
+    "name": "بهترین"
+  },
+  {
+    "analyzer_id": "9c361b77-abe3-4831-90be-d6203cb295a1",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "a23a06be-83b4-4091-8bc3-b4f712cb22b6",
+    "name": "زمان"
+  },
+  {
+    "analyzer_id": "a44a6b20-01c5-4997-9998-29bd66bf0d1c",
+    "name": "چه"
+  },
+  {
+    "analyzer_id": "f486ecc5-e9cb-433a-bc44-4fe03d89f79c",
+    "name": "تعداد"
+  },
+  {
+    "analyzer_id": "19d4739f-14d3-4a08-9ba4-dd83d070bbe0",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "fb2ee5f7-ae9b-4366-9fa7-da4e719ea4c7",
+    "name": "گوشت"
+  },
+  {
+    "analyzer_id": "c0b12500-d722-486c-b846-1f65f6dd5f37",
+    "name": "پوند"
+  },
+  {
+    "analyzer_id": "761af4c8-4107-443f-a1e3-7ca7fca8f32d",
+    "name": "خانه"
+  },
+  {
+    "analyzer_id": "564dea44-52f0-40d7-98b1-4062d1ab582d",
+    "name": "کنند"
+  },
+  {
+    "analyzer_id": "4bca7d5d-bd94-46ba-830b-caf480cdedb8",
+    "name": "شکست"
+  },
+  {
+    "analyzer_id": "96a5247d-e15b-406b-83cc-ccc5f177831b",
+    "name": "شمال"
+  },
+  {
+    "analyzer_id": "291aee49-8c03-4a56-aac6-e6cbaebbd5ed",
+    "name": "ذرت"
+  },
+  {
+    "analyzer_id": "d379239c-74aa-427c-8c3f-307df300ec0e",
+    "name": "مورد"
+  },
+  {
+    "analyzer_id": "9674e8aa-f0a7-477f-ae87-5a89f5c78b5b",
+    "name": "درب"
+  },
+  {
+    "analyzer_id": "bf4dfe21-dd7c-459b-b859-3801bd258a8f",
+    "name": "گاز"
+  },
+  {
+    "analyzer_id": "db3e1280-dd8b-4525-b559-93b25665ca0b",
+    "name": "بازدید"
+  },
+  {
+    "analyzer_id": "db4c6be6-ed0a-4a81-bd73-c0e3dbad716b",
+    "name": "رئیس"
+  },
+  {
+    "analyzer_id": "ac63f4d2-f43e-4cf9-a97f-d26ac2a1aa3b",
+    "name": "پوست"
+  },
+  {
+    "analyzer_id": "2bc175a3-0d2c-4b82-88b7-808a4de6ca85",
+    "name": "زمان"
+  },
+  {
+    "analyzer_id": "5ad49ddc-5be6-4501-8dae-5ba0eab988a2",
+    "name": "دوره"
+  },
+  {
+    "analyzer_id": "80f45a7b-b014-43ba-9804-b57e403fd4ed",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "66dca424-016e-40cd-83e1-214144824630",
+    "name": "چوب"
+  },
+  {
+    "analyzer_id": "7bc9631f-13f8-40aa-bf99-9b829b18c9d4",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "6a7b8257-720f-4bab-9cff-985c8b552400",
+    "name": "راه"
+  },
+  {
+    "analyzer_id": "d605bfac-7407-4814-9e92-1c30e0fb1373",
+    "name": "تیز"
+  },
+  {
+    "analyzer_id": "8b543650-941f-4406-827b-43b5231fa5b8",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "7c842e70-a6d0-4089-82c2-37bcde0c7ad7",
+    "name": "بالابردن"
+  },
+  {
+    "analyzer_id": "465ba222-4048-46f1-b45f-e3316474007b",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "1492959b-5da3-45b1-a7ef-67da00df4555",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "d33de67a-b8b3-4619-97e3-da7443c20feb",
+    "name": "ضخامت"
+  },
+  {
+    "analyzer_id": "54efa419-1502-417c-8c62-b5475c35a2f3",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "644b9015-0e41-4597-9bf5-56135b193c6e",
+    "name": "واقعی"
+  },
+  {
+    "analyzer_id": "9d5d50fe-bdf0-458c-a50a-77f599f02d92",
+    "name": "طبیعت"
+  },
+  {
+    "analyzer_id": "859d21bd-2c48-4dbf-9f43-404883850d04",
+    "name": "هم"
+  },
+  {
+    "analyzer_id": "90f05cfa-9bee-420e-9112-5e566365989a",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "1bce4a7d-0966-4394-8e75-8ea34ca769c8",
+    "name": "پوند"
+  },
+  {
+    "analyzer_id": "f9da7866-2b20-403c-ae50-2ad3ee59d08d",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "7c43ae71-7d89-47ca-a62c-988065ec4fa1",
+    "name": "درست"
+  },
+  {
+    "analyzer_id": "8f9a4d7f-eb73-4f9d-b10d-3a3b5e667762",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "af4da66d-ef09-4fc0-914a-f36805342ba8",
+    "name": "افزایش"
+  },
+  {
+    "analyzer_id": "10ef9a78-7f12-42a7-b482-6fb17a5c3135",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "7c9a67b6-78a1-4833-8802-2f8ad045b92c",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "77e93eab-664f-46b9-887e-8b743c2ee250",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "4ebcc670-7168-43b1-8744-3bd6e13783cb",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "e75c43da-68b9-4b36-90fd-c7b143c14039",
+    "name": "رو"
+  },
+  {
+    "analyzer_id": "1deeda7c-8589-425e-82ad-763d4ca2b6b4",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "4b1ef2f3-9b65-4a78-824f-28b93fa2edce",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "5ad7ff51-3389-4103-b0ef-5f3d58cde153",
+    "name": "هرچند"
+  },
+  {
+    "analyzer_id": "107cdf78-d83a-4d63-9126-ad1a5c7be45a",
+    "name": "سه"
+  },
+  {
+    "analyzer_id": "f5a04e8b-99a4-49a7-a042-352ae03fda34",
+    "name": "نهایی"
+  },
+  {
+    "analyzer_id": "26d29ba8-c11b-4d6c-b7ce-d28345ae151f",
+    "name": "طلا"
+  },
+  {
+    "analyzer_id": "e679dd63-38ae-43db-853d-7f749b8f7d20",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "032fdd4a-df3c-45d2-958c-2e9032f557b1",
+    "name": "شی"
+  },
+  {
+    "analyzer_id": "f8294f24-934a-4036-acdd-748be644e7f1",
+    "name": "سنگین"
+  },
+  {
+    "analyzer_id": "96d4eebd-87e0-4661-8ebd-e9a33fabdeec",
+    "name": "خنده"
+  },
+  {
+    "analyzer_id": "be2b88c6-ee49-4f81-9f2d-a06aeed345bf",
+    "name": "کنترل"
+  },
+  {
+    "analyzer_id": "3aaee369-fd66-4843-881b-602c58e782e3",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "3c789109-0c2e-47a0-a097-08d06d7eebf8",
+    "name": "قایق"
+  },
+  {
+    "analyzer_id": "2154b643-4160-4ead-806d-b242844281d4",
+    "name": "ورزش"
+  },
+  {
+    "analyzer_id": "d9af1b48-2816-43e9-8e4d-7d33b2230988",
+    "name": "نمره"
+  },
+  {
+    "analyzer_id": "bd1979e0-86e8-48d2-85d0-c50667860626",
+    "name": "همان"
+  },
+  {
+    "analyzer_id": "ee553726-c7c1-4dde-b240-d5833e65468f",
+    "name": "ملودی"
+  },
+  {
+    "analyzer_id": "9dc00767-87f3-4d26-8655-e70813c665b9",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "58d9cc5a-db70-49b6-b8aa-5b1b6b7cd65e",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "2096077e-baed-4bf3-b5fe-6e08e9b01f5c",
+    "name": "جفت"
+  },
+  {
+    "analyzer_id": "31fd5289-dc4f-4904-ba0e-ab1b697c0723",
+    "name": "مجموعه"
+  },
+  {
+    "analyzer_id": "8f4283e3-8d32-4dca-853f-0194b207263d",
+    "name": "مناسب"
+  },
+  {
+    "analyzer_id": "d38f202c-621d-43e0-b27b-4857a6fba28f",
+    "name": "جنوب"
+  },
+  {
+    "analyzer_id": "f848b94a-17e3-4358-b206-e7bb9e13ea4f",
+    "name": "مزرعه"
+  },
+  {
+    "analyzer_id": "1f7ce33e-9fef-4f18-b147-a0e708731eac",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "02cdcd84-ec93-4729-812d-a71b340bbaa7",
+    "name": "فوری"
+  },
+  {
+    "analyzer_id": "39d18678-d65d-40ba-bb04-574b6c1140aa",
+    "name": "با"
+  },
+  {
+    "analyzer_id": "a64f4eb4-e468-4223-8c5b-21f602b66dba",
+    "name": "مو"
+  },
+  {
+    "analyzer_id": "ac43762c-1ced-4632-971f-1ac7584c2637",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "7de46af4-8917-4c57-848f-735feecdd55c",
+    "name": "حل"
+  },
+  {
+    "analyzer_id": "afbee89a-5420-4f7c-a896-81f659d6a3b7",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "28238d4e-7fd8-4dc3-b3dc-d6920e1f8a07",
+    "name": "می‌گویند"
+  },
+  {
+    "analyzer_id": "54e9df28-bb6e-41e3-b1e3-1458c010730f",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "3f6a89e9-7a3b-477c-9288-00b9d39f458f",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "8e14f485-9538-4098-80ff-2ff8b3a9a4c8",
+    "name": "طبیعت"
+  },
+  {
+    "analyzer_id": "718f3211-0b45-4235-86b3-2135d34f9b0f",
+    "name": "غالبا"
+  },
+  {
+    "analyzer_id": "49625afa-4317-484c-a57c-040d94f04696",
+    "name": "بازدید"
+  },
+  {
+    "analyzer_id": "d8326afa-c338-4e2d-a05a-b7c09f9e9593",
+    "name": "تصویر"
+  },
+  {
+    "analyzer_id": "5f78ae5a-e044-4f73-8010-38eae1c6ad1b",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "82cfe86b-1fa1-4c0d-92e0-46d110d7e3ce",
+    "name": "گسترده"
+  },
+  {
+    "analyzer_id": "d695113a-e454-49ee-ba4c-a2cfca6d0f21",
+    "name": "عجله‌ای"
+  },
+  {
+    "analyzer_id": "89eb8902-728c-4dec-8c21-f884165035eb",
+    "name": "رفته"
+  },
+  {
+    "analyzer_id": "9c3423af-15b3-43a8-8868-ea0b3e0a20f1",
+    "name": "ایجاد"
+  },
+  {
+    "analyzer_id": "72a227b6-4a15-400f-aa11-c735238d34b0",
+    "name": "ذخیره"
+  },
+  {
+    "analyzer_id": "0ba80ea8-3f6d-45ae-8274-181a761314b0",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "aa76cf6f-88d9-45a6-ba6a-c6da593a0316",
+    "name": "نمودار"
+  },
+  {
+    "analyzer_id": "f02b4006-954a-4b07-91c1-2f02319ec132",
+    "name": "اردک"
+  },
+  {
+    "analyzer_id": "967ef736-d038-4195-ac1a-b196de9c2ca9",
+    "name": "چینی"
+  },
+  {
+    "analyzer_id": "121da9df-8214-49fb-9716-27150cf29c49",
+    "name": "دشمن"
+  },
+  {
+    "analyzer_id": "621627af-a4f6-4364-9bf8-c874f6fe465f",
+    "name": "فکر"
+  },
+  {
+    "analyzer_id": "c568fa33-905f-4b5a-a477-a0880ba10cee",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "2aff33fe-203e-42fc-a5f8-c0b7872cfcea",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "302b1ee4-be66-418d-bc3a-33509fa1aadc",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "f5663f72-ca8d-4f92-9ce5-81968b104d3f",
+    "name": "لطفا"
+  },
+  {
+    "analyzer_id": "8db4d3f0-3c10-4020-b304-d14073970780",
+    "name": "اجرا"
+  },
+  {
+    "analyzer_id": "e89e1b65-f8fb-4388-b8df-5241477b8afa",
+    "name": "کوارت"
+  },
+  {
+    "analyzer_id": "6ac73327-f708-4a2c-a746-91cfeed31ae6",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "416dcad7-ff47-4f79-8d91-21ab9dc7e89f",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "bd841da4-edf0-4eaa-904f-d2a66fb649ec",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "42e16075-23b4-4657-8529-38e20518a288",
+    "name": "تر"
+  },
+  {
+    "analyzer_id": "6161d066-14ee-4250-a08b-3b9c09859d8b",
+    "name": "بحث"
+  },
+  {
+    "analyzer_id": "aaf8539e-ee12-465f-b9f7-9d778ba3f696",
+    "name": "ماده"
+  },
+  {
+    "analyzer_id": "0351738b-d61b-44c9-87ef-8187ad1d957a",
+    "name": "بیابان"
+  },
+  {
+    "analyzer_id": "53c4d224-9771-4405-b03a-49a6f3e51ca4",
+    "name": "رشد"
+  },
+  {
+    "analyzer_id": "7a24dbbe-fb0a-4ff1-a82f-d4665b69b13c",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "ceb4e81c-902b-4978-b294-7792575a357a",
+    "name": "اتصال"
+  },
+  {
+    "analyzer_id": "e8d34b22-c213-480e-9e16-c808d2d12fa0",
+    "name": "اتصال"
+  },
+  {
+    "analyzer_id": "0203b4fc-a1bd-43a3-b1f2-dd840f481128",
+    "name": "گفت"
+  },
+  {
+    "analyzer_id": "bc5ced0a-385c-4492-b942-5e8971063291",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "47a8bb08-e88f-4252-8c06-719c81ca27ad",
+    "name": "نمایندگی"
+  },
+  {
+    "analyzer_id": "9cb174ba-4564-4dce-86c0-49be7e802d3e",
+    "name": "قهوه‌ای"
+  },
+  {
+    "analyzer_id": "a33276af-6b6c-40da-88d9-305e7e428a62",
+    "name": "اجازه"
+  },
+  {
+    "analyzer_id": "3640e7bc-c437-4b5f-8e5a-10efc0301a2d",
+    "name": "سطح"
+  },
+  {
+    "analyzer_id": "a5fb770f-7f9f-4926-bfbf-5fc66e699b8a",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "4d757184-25db-41b2-b538-3384714e8346",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "8fa32fb1-3d28-49d0-9650-4e1cabd32fc5",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "228ed6f1-55db-458c-bd0a-3f1b6698ecf1",
+    "name": "ترتیب"
+  },
+  {
+    "analyzer_id": "f10dbfb9-2bef-48cd-a3c8-632590a9d63d",
+    "name": "خانه"
+  },
+  {
+    "analyzer_id": "d4ccdd84-d6d7-4658-a66f-17be39992387",
+    "name": "خفاش"
+  },
+  {
+    "analyzer_id": "d2bc62f7-238a-4236-afcb-3dab78856983",
+    "name": "درجه"
+  },
+  {
+    "analyzer_id": "e3771d41-6ab0-47bf-a65c-8975ebd28283",
+    "name": "مادر"
+  },
+  {
+    "analyzer_id": "7d9951dc-9e28-4b5f-943c-4a86deb6c279",
+    "name": "فلز"
+  },
+  {
+    "analyzer_id": "bb9acea2-66a7-4e68-9fe2-aa7cae67ddd6",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "d6340d68-acd4-4657-b598-55bbdeac3fa2",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "df74ca78-d5bb-474a-a45d-c9c99fb5496e",
+    "name": "ترک"
+  },
+  {
+    "analyzer_id": "05b7d30b-0e0f-4e4c-bc97-961a7784637a",
+    "name": "می‌گویند"
+  },
+  {
+    "analyzer_id": "c454d0a0-8372-4a52-be41-6614ed2f2374",
+    "name": "ورزش"
+  },
+  {
+    "analyzer_id": "3dd9b594-3338-4d7d-8ca2-ccd0b901de13",
+    "name": "مزرعه"
+  },
+  {
+    "analyzer_id": "eab6cc1c-4af8-4799-ba9c-afa2c0bc7abc",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "17691b5e-f162-4dc9-b05f-a9295f3f19f8",
+    "name": "برای"
+  },
+  {
+    "analyzer_id": "c13b33c2-ae6a-4506-9d86-779327bc0f95",
+    "name": "ماه"
+  },
+  {
+    "analyzer_id": "7a9ef6f2-7300-4faa-8c0b-69ae3a35dcdf",
+    "name": "تصویر"
+  },
+  {
+    "analyzer_id": "cbd1dfbd-4352-4f5b-82fe-163ed612a521",
+    "name": "ماه"
+  },
+  {
+    "analyzer_id": "31aeeb4a-f82e-4a53-a5d7-20271facd56f",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "db3af67d-df9d-4aed-a02a-185231a36d10",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "7e0664ef-7090-4e8c-ad77-e13c77c33450",
+    "name": "ستون"
+  },
+  {
+    "analyzer_id": "23a4b4df-c471-4a90-a2b0-44acd27962b3",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "76f6bde7-83e0-427f-9ba0-ba28f45502b1",
+    "name": "استفاده"
+  },
+  {
+    "analyzer_id": "3d5e0f63-2dc4-4de9-bb15-48a237a041c1",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "eb070372-5762-447e-a3d5-5998af877885",
+    "name": "جمعیت"
+  },
+  {
+    "analyzer_id": "05739850-a1dc-4ee3-8cd9-38e37fb901c2",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "5a8ab114-b0f9-4567-bce1-771146a6941a",
+    "name": "آتش"
+  },
+  {
+    "analyzer_id": "7d6a7210-7f1d-4675-9d46-7771bbdf1bbd",
+    "name": "می‌تواند"
+  },
+  {
+    "analyzer_id": "0ce36037-7251-4b97-bbaf-4d2ed05c2230",
+    "name": "اردک"
+  },
+  {
+    "analyzer_id": "5ab4deb1-b4b6-442a-8513-81e94490e93e",
+    "name": "سرگرم"
+  },
+  {
+    "analyzer_id": "90ea20af-2a3a-4518-9568-ace2e58e0bcb",
+    "name": "ساخته"
+  },
+  {
+    "analyzer_id": "db5af8aa-d4fa-4d82-96df-cdf3c5e784a7",
+    "name": "مرگ"
+  },
+  {
+    "analyzer_id": "eb5ad946-2e1d-49f2-b03b-a44ef3f56731",
+    "name": "مولکول"
+  },
+  {
+    "analyzer_id": "a9d82bf1-3b9b-4392-a569-7f21fe87a23f",
+    "name": "بالا"
+  },
+  {
+    "analyzer_id": "e19a7aed-40d7-4676-863b-5546623e20cf",
+    "name": "تمیز"
+  },
+  {
+    "analyzer_id": "6d7bfe21-df47-4687-baad-48121f4c1c04",
+    "name": "می‌تواند"
+  },
+  {
+    "analyzer_id": "6e0e1762-525a-4388-bb43-a355c2ca841e",
+    "name": "نشستن"
+  },
+  {
+    "analyzer_id": "e9e8c918-0d16-437b-b6d8-00ff79b6d712",
+    "name": "شارژ"
+  },
+  {
+    "analyzer_id": "1ac03060-9634-4e2a-8b68-15ca546ef58f",
+    "name": "انجیر"
+  },
+  {
+    "analyzer_id": "f4f4f603-ec62-4bb1-94bf-98e44b947efd",
+    "name": "اینجا"
+  },
+  {
+    "analyzer_id": "d2344626-2b41-43b3-b5ac-52cb2e9de58c",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "6ba37e2d-b92b-4b18-acbf-eb712e3aa928",
+    "name": "آموزش"
+  },
+  {
+    "analyzer_id": "e2bf3c92-8289-4016-a855-c5969e121a72",
+    "name": "زنان"
+  },
+  {
+    "analyzer_id": "d8ac1db3-7944-4598-8d0d-f683c125918c",
+    "name": "تیز"
+  },
+  {
+    "analyzer_id": "bb42ee9f-91d8-460f-9501-9b1d183ec3d4",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "4d59d20b-a457-4476-b867-b1f69114dc89",
+    "name": "کشور"
+  },
+  {
+    "analyzer_id": "8aef78fb-aa53-4788-b895-20b62c0bdd0f",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "77fe8647-b48c-46c4-b70c-1800e16a24cd",
+    "name": "توسعه"
+  },
+  {
+    "analyzer_id": "9db1df72-66cc-4dc0-94c8-7c42425abb02",
+    "name": "کشتن"
+  },
+  {
+    "analyzer_id": "ca0c2168-c488-4a0b-9231-c0c3cf763d64",
+    "name": "کشیدن"
+  },
+  {
+    "analyzer_id": "d3725fc2-937d-464c-abda-6ca2e11ac318",
+    "name": "سه"
+  },
+  {
+    "analyzer_id": "21f8697c-8270-4ea1-8811-7cb0e2343a55",
+    "name": "خریداری"
+  },
+  {
+    "analyzer_id": "410c0c74-0fd9-4544-a57d-f2c0f8ac5948",
+    "name": "زمستان"
+  },
+  {
+    "analyzer_id": "140bc7cc-b9cc-4063-89d2-745fd9178544",
+    "name": "مدت"
+  },
+  {
+    "analyzer_id": "82d64972-3091-4ff6-90bc-15598c47790e",
+    "name": "هفته"
+  },
+  {
+    "analyzer_id": "7e7303df-98c5-4fff-b7b0-b0224a42467d",
+    "name": "عنوان"
+  },
+  {
+    "analyzer_id": "bae81c23-81d6-47c3-842e-a65bab169f1f",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "8c85fc74-5fe8-4f15-b43e-0cd2c3c7f5fb",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "80eec2ac-7af1-4537-b6b9-3aa877088df6",
+    "name": "پوست"
+  },
+  {
+    "analyzer_id": "b457b01a-ee51-4120-b6ce-675bc7e97ffd",
+    "name": "لیست"
+  },
+  {
+    "analyzer_id": "eaae1683-f62a-4b4e-a7b9-c4ff0729953e",
+    "name": "راهنمایی"
+  },
+  {
+    "analyzer_id": "28916d3f-a9e5-44f1-9c8f-9b1ee36f0d24",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "fe5b29b5-a7dc-4356-83c2-5c88bcf2d27c",
+    "name": "توسعه"
+  },
+  {
+    "analyzer_id": "675662eb-e108-4c4e-b4b2-d10310c9f3c1",
+    "name": "لیست"
+  },
+  {
+    "analyzer_id": "98ae3e95-ae21-4ee3-ac70-dfd192cbc901",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "1ac01061-7c87-4ad3-ac7a-5c39f7faa8af",
+    "name": "باصدا"
+  },
+  {
+    "analyzer_id": "00e641c3-0632-4ee8-aa45-42a503610553",
+    "name": "نرده"
+  },
+  {
+    "analyzer_id": "572bface-6eaa-4285-81d6-59e582f037b7",
+    "name": "بوی"
+  },
+  {
+    "analyzer_id": "a399e1bd-593c-45d2-bd4a-eddc1713d0a6",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "2ec09cde-70af-46a4-8d1d-3f2020a12246",
+    "name": "همیشه"
+  },
+  {
+    "analyzer_id": "02d1f7da-b6e9-4241-aaf9-61faba1f2a35",
+    "name": "چشم"
+  },
+  {
+    "analyzer_id": "7cfe7544-e32f-4d64-8658-c1632ea89f3d",
+    "name": "چمن"
+  },
+  {
+    "analyzer_id": "1620a593-d41b-4d81-8df5-c92450bdd0d0",
+    "name": "هنر"
+  },
+  {
+    "analyzer_id": "638846d2-55ca-417c-aa99-363076e26632",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "9f37a589-6acd-4c33-935d-5ad999c22efb",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "72a23135-4c70-4148-8521-1e03601627ee",
+    "name": "پوند"
+  },
+  {
+    "analyzer_id": "8aa2fb4c-ed79-494d-8809-7a577cfb663c",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "f0facbe8-1fd8-4e6e-955a-c9f1f643f151",
+    "name": "بالا"
+  },
+  {
+    "analyzer_id": "b717f9e7-f10b-4d8c-963f-3845f9f20230",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "1da6d4a2-3bc3-4442-81a5-ef7298fd0ce3",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "b6d0e1ac-36f7-4bb2-a123-e0ed93fa176e",
+    "name": "رئیس"
+  },
+  {
+    "analyzer_id": "8382d8b3-5de4-4e6b-9d47-c255b0e0c31b",
+    "name": "نفت"
+  },
+  {
+    "analyzer_id": "9ab54c81-e331-47b3-b5fc-9d1898172f7a",
+    "name": "بانک"
+  },
+  {
+    "analyzer_id": "9e4a1ad7-4064-4573-bab5-4cff862aea59",
+    "name": "مرده"
+  },
+  {
+    "analyzer_id": "da6e3752-159a-4afe-8232-faaeb9c55419",
+    "name": "باور"
+  },
+  {
+    "analyzer_id": "26117519-28a9-40d8-8e9b-e3ae8cac9ff4",
+    "name": "تعیین"
+  },
+  {
+    "analyzer_id": "fa02523a-08fc-41b8-a2b2-4013cdfe7753",
+    "name": "ایستگاه"
+  },
+  {
+    "analyzer_id": "54d5abf0-0a16-4f82-9b4a-ba868b87afda",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "aadfce17-6486-4fc8-b587-0fcc453a3ce2",
+    "name": "سرعت"
+  },
+  {
+    "analyzer_id": "73a4e0c6-d8e2-428e-86d9-a35afd5a54f2",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "f48d1634-1b39-4036-9fde-bdc2048a128e",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "2b8570eb-a660-48cc-a21a-18824b622dc3",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "a8c29647-51d5-462f-9e6f-21f583b0baca",
+    "name": "برنده"
+  },
+  {
+    "analyzer_id": "60862c30-d807-43bb-ad01-2c9aa8aaac37",
+    "name": "آسانسور"
+  },
+  {
+    "analyzer_id": "6f906fdb-c230-4242-81a1-53087f14372a",
+    "name": "رشته"
+  },
+  {
+    "analyzer_id": "39edd5cf-88d0-4880-ba9e-ba6bd429381e",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "4bebab65-f453-4175-9797-c169171b1be9",
+    "name": "هزار"
+  },
+  {
+    "analyzer_id": "bb6b7a52-ed1d-4b20-a267-5b1cd1437fef",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "1795d802-5050-4d36-9346-9fe1ee843230",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "63be59bf-5dcf-4fe3-8e59-e3e64008f575",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "0354b21b-79dd-4152-8cd3-c66b85b27754",
+    "name": "تعداد"
+  },
+  {
+    "analyzer_id": "c7e9d073-c2bd-48b2-8795-498ed52e9b87",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "8ad9e488-96a3-4631-b9e7-1616f5d94819",
+    "name": "رو"
+  },
+  {
+    "analyzer_id": "5980f975-8e26-40c3-bf62-bb5e1d57214b",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "070cd681-2134-4bdc-8538-027ee908d89f",
+    "name": "خاموش"
+  },
+  {
+    "analyzer_id": "124a4053-7ec7-483c-85e6-182166fed91f",
+    "name": "مشغول"
+  },
+  {
+    "analyzer_id": "3d12de7c-413b-45ad-9a1d-fc0c187c83bc",
+    "name": "موقعیت"
+  },
+  {
+    "analyzer_id": "2ba6d79a-3f68-4ab1-b50f-421226b134e5",
+    "name": "استفاده"
+  },
+  {
+    "analyzer_id": "242c4fcc-4d0c-44b8-9d5a-f05cd353f330",
+    "name": "حکومت"
+  },
+  {
+    "analyzer_id": "9e88ec48-5221-4379-9145-4938928110ba",
+    "name": "یادداشت"
+  },
+  {
+    "analyzer_id": "be6ce6ac-611b-4106-90da-97930fe0a21b",
+    "name": "بلند"
+  },
+  {
+    "analyzer_id": "cb41c25a-ce0c-401a-a4ed-1b8e838dbc56",
+    "name": "باهم"
+  },
+  {
+    "analyzer_id": "b2ceffef-3dfd-4244-b35f-338b09783b9f",
+    "name": "قرار"
+  },
+  {
+    "analyzer_id": "d24146e8-1a48-414b-9e9b-c6a238fcb954",
+    "name": "طبیعت"
+  },
+  {
+    "analyzer_id": "717dff5e-ada9-428a-a782-e5db8d3b29f7",
+    "name": "فریاد"
+  },
+  {
+    "analyzer_id": "4675b5e5-cd8b-40b5-8d8a-03cb0574952f",
+    "name": "فرم"
+  },
+  {
+    "analyzer_id": "4827f8ab-700b-4203-b51f-f13b8daa3ed1",
+    "name": "قلب"
+  },
+  {
+    "analyzer_id": "6d42b58f-fae2-430b-ab62-a99db8a5d9a8",
+    "name": "تکرار"
+  },
+  {
+    "analyzer_id": "cfc4a82a-9627-4c34-bd11-e2c0b3c52a95",
+    "name": "تجارت"
+  },
+  {
+    "analyzer_id": "a597617a-9128-4425-829e-b173986e0a13",
+    "name": "نتیجه"
+  },
+  {
+    "analyzer_id": "e2917acb-9376-487e-89dd-d7a5a8871f1f",
+    "name": "لوله"
+  },
+  {
+    "analyzer_id": "255dbc02-5ad8-4b06-a5c5-b0be0f1e5a85",
+    "name": "لباس"
+  },
+  {
+    "analyzer_id": "d7f6b578-aa66-4b6a-872b-1a18bbedba13",
+    "name": "گروه"
+  },
+  {
+    "analyzer_id": "4a0dabee-14e8-4ff8-90f6-98f7d60e7ff3",
+    "name": "پوشاندن"
+  },
+  {
+    "analyzer_id": "73cb75dc-f8e6-4a3d-9105-c2bd0529715d",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "f80e0646-34c2-430a-89d7-b1628da1e8e4",
+    "name": "پسوند"
+  },
+  {
+    "analyzer_id": "a7931c67-c91f-43ab-8e37-e33511df460b",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "d5f6c047-fb11-41d2-9b54-0337968d5cda",
+    "name": "خانم"
+  },
+  {
+    "analyzer_id": "dbc0d2ff-c4db-43d9-8850-230419d66e6e",
+    "name": "کپی"
+  },
+  {
+    "analyzer_id": "730ce26b-e231-4d4d-bca2-cab9aa6d33b2",
+    "name": "عادلانه"
+  },
+  {
+    "analyzer_id": "3d3f036e-a344-4e57-be21-86015a495b4c",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "d31838c0-ca92-44b2-aa4d-53e1fbaa908d",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "2e7f2df2-d392-4830-86a1-40fa6bea67d0",
+    "name": "خنده"
+  },
+  {
+    "analyzer_id": "a5338464-c8f0-47a7-baf4-a9ea756014e3",
+    "name": "و"
+  },
+  {
+    "analyzer_id": "9de58fe0-4e0f-4f55-96f6-499d723630bf",
+    "name": "رویداد"
+  },
+  {
+    "analyzer_id": "357ca810-b1b2-4fc2-a921-5867e5c9e4e6",
+    "name": "مشابه"
+  },
+  {
+    "analyzer_id": "452088ec-a7f5-4014-89d2-bcf0b0be7db7",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "c771d65d-6a3f-4e43-a21c-f7f94fc2a42b",
+    "name": "ریشه"
+  },
+  {
+    "analyzer_id": "8c5a7f2e-ab15-4d4c-a9df-4d646afdaad4",
+    "name": "رشد"
+  },
+  {
+    "analyzer_id": "d6cce95b-2e5a-4443-922b-60cf6cf25209",
+    "name": "احساس"
+  },
+  {
+    "analyzer_id": "a6d28335-3bff-46b5-aee3-cc06650c3836",
+    "name": "هردو"
+  },
+  {
+    "analyzer_id": "e00b2a29-018e-488f-b278-86c4962d7ee3",
+    "name": "فرد"
+  },
+  {
+    "analyzer_id": "85ed7bbb-e822-4753-876f-5047028c68e0",
+    "name": "خواب"
+  },
+  {
+    "analyzer_id": "b9e7ff86-6db1-4c1b-80bc-c327a2f398c5",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "916578e2-6973-4cf2-8066-2a095769ec91",
+    "name": "ببینید"
+  },
+  {
+    "analyzer_id": "5929cd0c-0017-4c08-9f45-98bfcedd9355",
+    "name": "سریع"
+  },
+  {
+    "analyzer_id": "28f065d1-f119-4cfa-9aa1-4c38f991f25e",
+    "name": "انرژی"
+  },
+  {
+    "analyzer_id": "263960fc-0143-4f8e-bdc7-e14ce1b8a81f",
+    "name": "گروه"
+  },
+  {
+    "analyzer_id": "fc34b6ad-39cc-40de-8ca7-d6fd27020f97",
+    "name": "اطلاع"
+  },
+  {
+    "analyzer_id": "fa341c22-5192-4fc0-bfed-68f36221ad4a",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "b23f5206-6cb0-4886-9062-a80d2820fde2",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "92c4132b-5d8f-4a94-97ea-189fc6982214",
+    "name": "نشستن"
+  },
+  {
+    "analyzer_id": "22fc795d-fee0-491c-9f6a-bc8da9205cf3",
+    "name": "نزدیک"
+  },
+  {
+    "analyzer_id": "59061c6e-0d1d-4230-a7b5-28aa30d10615",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "8e6e7465-7639-4a76-99f3-e6e658bca248",
+    "name": "می‌گویند"
+  },
+  {
+    "analyzer_id": "ef713adb-9298-48b6-b397-5feda6d353bf",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "a634db59-d0fc-4504-b5d4-3b674236e54a",
+    "name": "گفت"
+  },
+  {
+    "analyzer_id": "286932e3-2b9f-4991-8fa7-928030cbab6b",
+    "name": "دو"
+  },
+  {
+    "analyzer_id": "866260ef-1a5d-4b56-82d3-b997d80bfd8d",
+    "name": "دقیقه"
+  },
+  {
+    "analyzer_id": "afc9cec7-1980-40d0-b288-051e9ee40d59",
+    "name": "کامل"
+  },
+  {
+    "analyzer_id": "3274a8f9-23f6-4c8e-a332-22fb0597c997",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "44fe7ea6-979f-450d-9d43-e556f9181212",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "cc8b1318-d3a8-4b6c-aa75-82dde88adf1f",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "0ca82580-7fe6-4e03-891c-a96ba677f0f2",
+    "name": "مردم"
+  },
+  {
+    "analyzer_id": "9e4db5db-ffae-4e2d-a53f-e1cb4684b902",
+    "name": "شش"
+  },
+  {
+    "analyzer_id": "071a647b-7a04-4917-95cf-ef9f152338d7",
+    "name": "آبی"
+  },
+  {
+    "analyzer_id": "42f962e9-6c85-49e3-b2cb-a3deecf9c4a7",
+    "name": "ملاقات"
+  },
+  {
+    "analyzer_id": "dc23ae23-0479-4d82-8eb0-51849bef6a79",
+    "name": "حکم"
+  },
+  {
+    "analyzer_id": "94043c53-9ac7-4ac7-aebb-b8014da01419",
+    "name": "رشته"
+  },
+  {
+    "analyzer_id": "56fbc08c-4f5d-48d7-bbe2-0e8dffa41f54",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "0e46c364-424e-4c4e-9616-173c6ccbb135",
+    "name": "رشد"
+  },
+  {
+    "analyzer_id": "861c6610-b6d9-43e6-99b7-34933f23b909",
+    "name": "آبی"
+  },
+  {
+    "analyzer_id": "798d241d-411c-45ef-b2da-ee6eaee0d2db",
+    "name": "قطار"
+  },
+  {
+    "analyzer_id": "448bd031-2c73-4327-b873-19f5efc3ea5f",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "3b5a4c08-34cb-42eb-bb2f-3c1797552ed9",
+    "name": "سریع"
+  },
+  {
+    "analyzer_id": "5097b5b8-47b6-4e7f-bb89-933f4d267c45",
+    "name": "می‌گویند"
+  },
+  {
+    "analyzer_id": "090270f5-75f4-4c08-94b1-a96be7e684fe",
+    "name": "ابر"
+  },
+  {
+    "analyzer_id": "e2ecc604-59fe-425c-8925-5a31e0097e31",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "e6106830-c147-4899-b7d6-68af7bcf4daa",
+    "name": "مایل"
+  },
+  {
+    "analyzer_id": "ccdb4b94-dbbe-499b-89b4-e3cca5872e63",
+    "name": "پایین"
+  },
+  {
+    "analyzer_id": "8684c522-1db5-4e75-9821-d7f2d56a094e",
+    "name": "سرد"
+  },
+  {
+    "analyzer_id": "470ac32b-33ef-40d1-bc07-fe5a446a4420",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "d697578a-5a92-4730-8fda-fba74a7984ee",
+    "name": "تاریخ"
+  },
+  {
+    "analyzer_id": "b11ab36d-e6d2-4c87-aae7-e83320fc6458",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "417575e3-0d48-46e0-a2cb-b6cd238b29bb",
+    "name": "اضافه"
+  },
+  {
+    "analyzer_id": "78de7f77-08f6-4046-9a0c-4299a198ca6c",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "0c87ec0c-1b7f-4a27-b79d-a290315d543e",
+    "name": "کشتی"
+  },
+  {
+    "analyzer_id": "c5110c7c-655e-4cb6-9de0-91e65afac052",
+    "name": "ضخامت"
+  },
+  {
+    "analyzer_id": "0bd0abf4-c786-4d33-8504-0fb160cf67cf",
+    "name": "نگاه"
+  },
+  {
+    "analyzer_id": "5e1c9a14-7c98-4080-aff0-6473f3643418",
+    "name": "خیابان"
+  },
+  {
+    "analyzer_id": "bf6196ca-177e-4053-9fa5-f389d90ec50f",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "ddd4b113-69e5-415e-8cbe-cce7ebd5c88d",
+    "name": "سر"
+  },
+  {
+    "analyzer_id": "8de51518-edf6-48b5-833c-ac980f7842a9",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "57edd2ec-5f35-41eb-a497-b5155958458e",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "99960077-0c34-4f07-b725-57406140e765",
+    "name": "اردوگاه"
+  },
+  {
+    "analyzer_id": "b17c436f-564e-4433-ae0a-3fecbf64211e",
+    "name": "مقاله"
+  },
+  {
+    "analyzer_id": "bb3546ea-48fe-4b91-93b4-f592ee6001e1",
+    "name": "وجوددارد"
+  },
+  {
+    "analyzer_id": "a6d1d4ff-ca62-4838-9b3c-ea07353f216c",
+    "name": "دکتر"
+  },
+  {
+    "analyzer_id": "1582598f-be9c-4265-94fe-959ef107c642",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "9ebca5e0-f25c-42d3-a135-a9f6595fdd62",
+    "name": "دربرابر"
+  },
+  {
+    "analyzer_id": "f1ffa15f-4d24-4afd-b53b-d38080556593",
+    "name": "مثال"
+  },
+  {
+    "analyzer_id": "8fd5883c-e469-4ead-8836-dfdbe80bffb1",
+    "name": "هوا"
+  },
+  {
+    "analyzer_id": "2b01f565-0495-4595-bd91-0338549f5cc2",
+    "name": "غنی"
+  },
+  {
+    "analyzer_id": "ac8d1793-27d3-4aa1-8170-c8c5e074c77c",
+    "name": "شمار"
+  },
+  {
+    "analyzer_id": "bc86ba9a-9f9f-4a28-8c90-c2554919d782",
+    "name": "ایستادن"
+  },
+  {
+    "analyzer_id": "b3b8c71f-a408-4d70-b850-e8fcf1da8299",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "40bc153c-d77e-4099-8e4a-c6a3aae2b682",
+    "name": "پوشاندن"
+  },
+  {
+    "analyzer_id": "54213965-e5b8-4c7d-ad08-9d2ee15c667b",
+    "name": "بودن"
+  },
+  {
+    "analyzer_id": "d3f0493a-04ec-48b0-8eae-2ee59ca1fc79",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "810a8743-69d0-427e-8378-ddcf202a34ac",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "8e6714f8-ac2a-488b-8d2b-dc936de128fe",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "f614a614-01cf-4f1d-98ba-f12b92c4292d",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "e6599ba7-7edd-4812-b799-350a60ae24db",
+    "name": "همچنین"
+  },
+  {
+    "analyzer_id": "fa3ab1e1-363c-400c-9a5e-44a9e0e26242",
+    "name": "فروش"
+  },
+  {
+    "analyzer_id": "aed6dfae-324f-4cbd-8808-f2e8b1fd9ecb",
+    "name": "سفر"
+  },
+  {
+    "analyzer_id": "8f1d0a00-cdae-4286-9a23-32d7858764ae",
+    "name": "استفاده"
+  },
+  {
+    "analyzer_id": "6d3dacd5-6826-41ae-83d1-40a6a0c14d51",
+    "name": "سفر"
+  },
+  {
+    "analyzer_id": "85b1418a-abc7-4d0f-bce9-5b7ce2251558",
+    "name": "مدت"
+  },
+  {
+    "analyzer_id": "f336d80e-15f2-497e-b4e9-d7bf75c18fc9",
+    "name": "ورق"
+  },
+  {
+    "analyzer_id": "cf68c4df-1124-49a0-b2c3-9e9bda15f90e",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "3f711171-6391-4e80-afd0-d649436092ac",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "214527c8-706b-454e-8561-fa5c5dbad859",
+    "name": "بحث"
+  },
+  {
+    "analyzer_id": "3fc16ab4-601e-4973-add2-73629e6fe269",
+    "name": "طولانی"
+  },
+  {
+    "analyzer_id": "ccf3dbd5-4236-4547-90db-3a45f7b78b27",
+    "name": "نیم"
+  },
+  {
+    "analyzer_id": "7fb444f9-0745-4264-b146-4c3287bdb496",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "81e2cf53-464f-4b6e-a8f1-896355b4625f",
+    "name": "مزرعه"
+  },
+  {
+    "analyzer_id": "e10ef899-8542-4e99-ab04-f5c808ca0f44",
+    "name": "زرد"
+  },
+  {
+    "analyzer_id": "e3873dfc-b460-4767-b19c-b9f8a8edf0d4",
+    "name": "این‌ها"
+  },
+  {
+    "analyzer_id": "c679e1a0-4eca-419d-8c58-f19e654284f9",
+    "name": "بحث"
+  },
+  {
+    "analyzer_id": "631fb537-ebd1-4f5f-af19-ba22abf824b6",
+    "name": "عنوان"
+  },
+  {
+    "analyzer_id": "3b86f155-2d52-459c-85b9-fc489831c8d8",
+    "name": "پایین"
+  },
+  {
+    "analyzer_id": "a10f73cf-8b35-4c60-a6a8-adee0876f520",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "60055087-603e-432c-8932-401f5250b91c",
+    "name": "بوی"
+  },
+  {
+    "analyzer_id": "8dfcdd8d-386c-4ff3-97fb-343a79451297",
+    "name": "دوره"
+  },
+  {
+    "analyzer_id": "99ed0162-3d3f-48b5-b21b-61415ae9291a",
+    "name": "چه"
+  },
+  {
+    "analyzer_id": "44f90944-0cd3-4a71-b02a-255b3c0d258d",
+    "name": "بال"
+  },
+  {
+    "analyzer_id": "cafc2aa0-22e1-4294-9ef9-bb688a2f39e2",
+    "name": "پایه"
+  },
+  {
+    "analyzer_id": "2923a93c-2c7a-4cc5-8be6-e1fccf843350",
+    "name": "کراوات"
+  },
+  {
+    "analyzer_id": "5ceb0b62-acc9-4e16-a64f-c2943234ff25",
+    "name": "ماشین"
+  },
+  {
+    "analyzer_id": "855afa7e-fc20-44da-8230-1f50cafb1e1d",
+    "name": "طولانی"
+  },
+  {
+    "analyzer_id": "5633efa2-5b30-486a-b36a-f2b4286c6e9e",
+    "name": "اطلاع"
+  },
+  {
+    "analyzer_id": "fdd163e4-de4b-4ffe-b708-85023d251c04",
+    "name": "نقشه"
+  },
+  {
+    "analyzer_id": "043673ff-145e-4cca-a4e6-3f75b7b265db",
+    "name": "کاپیتان"
+  },
+  {
+    "analyzer_id": "908ec079-63ce-405d-9fe0-d43215037008",
+    "name": "حیاط"
+  },
+  {
+    "analyzer_id": "af569837-6958-4cdb-b9d9-e8363aed5204",
+    "name": "ذخیره"
+  },
+  {
+    "analyzer_id": "45c81bb3-6009-493a-aff4-c8d787db09d6",
+    "name": "دریافت"
+  },
+  {
+    "analyzer_id": "6a42baf6-ab11-437e-aabe-3f2d6f58d0e1",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "62c8325e-9d32-4d20-a17b-0c5362d9cb85",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "882bf47b-69f9-42e4-bd31-fabb13281e7b",
+    "name": "چرخ"
+  },
+  {
+    "analyzer_id": "9486c989-73b4-4d5f-a7ef-311598b88e4e",
+    "name": "ترک"
+  },
+  {
+    "analyzer_id": "91187037-f9c9-4781-b189-35d229dc1a3a",
+    "name": "کمتر"
+  },
+  {
+    "analyzer_id": "8a65c78c-4495-40f6-b264-c905ebf7ca45",
+    "name": "معین"
+  },
+  {
+    "analyzer_id": "2795170e-6c65-488f-b9fb-b6536c7671ae",
+    "name": "میلیون"
+  },
+  {
+    "analyzer_id": "de9f66c9-0cc3-480b-adf6-5cf781033240",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "26550cdc-1a69-4774-9b0b-99b291203ee4",
+    "name": "اقامت"
+  },
+  {
+    "analyzer_id": "f2bdede1-3c1d-4545-9b28-404704d34dce",
+    "name": "جمعیت"
+  },
+  {
+    "analyzer_id": "38f0fdfe-2aa8-43d3-8ae4-eccb902968f6",
+    "name": "زنان"
+  },
+  {
+    "analyzer_id": "184a8436-4bf6-41da-9d7e-4356cc69a99f",
+    "name": "باد"
+  },
+  {
+    "analyzer_id": "ff858f78-785a-470f-a4b5-a3abf1a7fdf5",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "e3cd0013-6a13-4038-8dbf-ceadb682930c",
+    "name": "احتمالی"
+  },
+  {
+    "analyzer_id": "fccf83ad-da8e-491e-ad46-0147072ec4bb",
+    "name": "اکسیژن"
+  },
+  {
+    "analyzer_id": "42eea08b-8829-486e-a006-8257b1e30c78",
+    "name": "صعود"
+  },
+  {
+    "analyzer_id": "78149340-d047-4cf6-859c-4e8d900ac182",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "c9c20622-8127-4ac1-920b-3ac34d89da0a",
+    "name": "شکست"
+  },
+  {
+    "analyzer_id": "9d102c71-39a0-4210-934d-647d5f3ec476",
+    "name": "ذهن"
+  },
+  {
+    "analyzer_id": "bf0cdf60-0ce6-48a9-8308-37ee202d2099",
+    "name": "ستاره"
+  },
+  {
+    "analyzer_id": "98af135c-44c7-4341-9ec8-618a9d735c06",
+    "name": "زمستان"
+  },
+  {
+    "analyzer_id": "98cf59a5-94e7-4245-83ef-247cd4d1aa63",
+    "name": "دلیل"
+  },
+  {
+    "analyzer_id": "6c0a0e1d-6366-4484-abe8-b924a3b2ecd1",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "0c080ab5-3810-429d-9fa9-e748289d0932",
+    "name": "چه"
+  },
+  {
+    "analyzer_id": "9a7bcc5b-8679-4d7c-a9d3-c0bf9e207c5e",
+    "name": "خواهد‌شد"
+  },
+  {
+    "analyzer_id": "2e8ff5dd-75c5-482f-9075-af5aa9dfb341",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "3465868b-52da-489d-a566-12acf3ae7dba",
+    "name": "قرار"
+  },
+  {
+    "analyzer_id": "e3b7be97-11d0-4f85-927c-a4ddd92e9c3c",
+    "name": "برادر"
+  },
+  {
+    "analyzer_id": "3076276d-f301-4df4-bec0-094c240e6a8e",
+    "name": "تجارت"
+  },
+  {
+    "analyzer_id": "7c18d587-a25e-42df-bba9-2712e3125e7c",
+    "name": "دهان"
+  },
+  {
+    "analyzer_id": "3ee765d0-a69c-4300-9fac-da74b698e065",
+    "name": "دیوار"
+  },
+  {
+    "analyzer_id": "57880bdf-c8ac-433f-9039-d8e4f9693545",
+    "name": "همه"
+  },
+  {
+    "analyzer_id": "197e355e-dc49-4ffd-b157-5c4cbaaf7075",
+    "name": "مطرح"
+  },
+  {
+    "analyzer_id": "868769ab-c6ea-4bc7-889c-78454b8229a8",
+    "name": "خواهر"
+  },
+  {
+    "analyzer_id": "55cc8a9b-28af-4bf5-bde9-00a7bef077cf",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "f6dfa7c0-3a81-4761-b08b-a13eb3f9b795",
+    "name": "کارخانه"
+  },
+  {
+    "analyzer_id": "3f308335-0ed8-407a-be52-e1deb5875538",
+    "name": "تپه"
+  },
+  {
+    "analyzer_id": "dcb2d741-415d-4b22-8c5e-b927d7124eea",
+    "name": "جلو"
+  },
+  {
+    "analyzer_id": "6e07eb7d-6163-4e89-89e7-456584860b70",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "bf7cff7e-24a6-459b-a8a7-106004829114",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "e10923f5-0e64-4797-8418-4cfadb5d1e53",
+    "name": "افزایش"
+  },
+  {
+    "analyzer_id": "e01d5a68-c06e-472b-8a68-73625a7f4f28",
+    "name": "گسترش"
+  },
+  {
+    "analyzer_id": "ce38cb2b-b81f-430b-a9ad-9bc5641a78a3",
+    "name": "برنده"
+  },
+  {
+    "analyzer_id": "3605e67e-4c93-418d-910f-e0b7c562c138",
+    "name": "جا"
+  },
+  {
+    "analyzer_id": "65eb1053-12b3-4cb4-ad84-434c1d3c519b",
+    "name": "سخت"
+  },
+  {
+    "analyzer_id": "7f0d9255-6553-4bf3-9f85-1c16010f5614",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "de680a55-3e36-4faa-82dc-3082da15a269",
+    "name": "سفر"
+  },
+  {
+    "analyzer_id": "a2af512b-83eb-468b-8294-30c03d85ae66",
+    "name": "قهوه‌ای"
+  },
+  {
+    "analyzer_id": "d5ccdc7b-7061-4c81-a3ce-11a6d8a6ce40",
+    "name": "شنبه"
+  },
+  {
+    "analyzer_id": "22178595-c8d5-478f-aee9-75364ff84d1e",
+    "name": "یک"
+  },
+  {
+    "analyzer_id": "ea6d22c6-e53e-4a59-87af-1353394aa071",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "414aca40-2b45-4c55-b9a1-18bd0c69e02f",
+    "name": "زرد"
+  },
+  {
+    "analyzer_id": "6ba38b11-6148-47d8-9750-5c1746ee7b88",
+    "name": "عزیز"
+  },
+  {
+    "analyzer_id": "f9798fae-bcaa-411b-9d96-642d4f5c76d0",
+    "name": "تاریخ"
+  },
+  {
+    "analyzer_id": "7fe8e27b-59cd-4212-8c2f-9ef0aec93196",
+    "name": "دلار"
+  },
+  {
+    "analyzer_id": "8d0bc9a4-3660-4b1b-be65-58fe9f6ba421",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "28a1a036-5af1-461a-90cf-23c88521ded9",
+    "name": "خواهر"
+  },
+  {
+    "analyzer_id": "cce92cea-c037-4c43-bb6f-013992e80fce",
+    "name": "آرزو"
+  },
+  {
+    "analyzer_id": "b4af6a1e-b516-4ce3-b267-bee0e11978d3",
+    "name": "ساخت"
+  },
+  {
+    "analyzer_id": "df8da440-17c6-46b7-9b9a-5037679c2d28",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "53d6c70b-8a16-4ae8-815a-c13db5bd097f",
+    "name": "اتصال"
+  },
+  {
+    "analyzer_id": "4ae237d5-2e76-48d1-9828-2ade8a5ab08a",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "149110c5-7171-4b23-bf22-d80b7c0f36a0",
+    "name": "نوشتن"
+  },
+  {
+    "analyzer_id": "f13821ad-6a8e-4c1f-8ada-b2ed909b9c37",
+    "name": "مناسب"
+  },
+  {
+    "analyzer_id": "f65820e7-23fe-4819-aea5-a9a7aa911a6c",
+    "name": "جوان"
+  },
+  {
+    "analyzer_id": "0976080c-a3d8-4d79-8f35-77ca19ed4f46",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "baf2d963-cd53-4667-bae3-c93dde00c226",
+    "name": "سگ"
+  },
+  {
+    "analyzer_id": "bca01e96-3edb-418b-8216-3bbfacfda6e8",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "325834f7-e785-4595-8021-6560caabd47f",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "aeccab52-04d9-4371-b4a1-342678cb372f",
+    "name": "عجله‌ای"
+  },
+  {
+    "analyzer_id": "cebad222-8b21-41be-9e2e-465f71fc0a16",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "aea49e14-a262-4d34-8874-252a9aa4076d",
+    "name": "ساخت"
+  },
+  {
+    "analyzer_id": "a5a9e7f4-ce80-4e0d-a7a9-fbcc5035ae96",
+    "name": "نهایی"
+  },
+  {
+    "analyzer_id": "81f267cc-6f01-44b8-b9de-ce1d73508edb",
+    "name": "ذهن"
+  },
+  {
+    "analyzer_id": "4c106146-6513-42cb-8e84-429835520ae4",
+    "name": "مادر"
+  },
+  {
+    "analyzer_id": "b2943184-cabf-4aa8-bb49-0c83bb4fbdc8",
+    "name": "دریافت"
+  },
+  {
+    "analyzer_id": "cbe8c2ef-47fe-43c8-aa46-099030322fba",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "30bf9759-e8cb-45b7-9274-49a45dd6ed71",
+    "name": "بدن"
+  },
+  {
+    "analyzer_id": "d90448bd-33dc-4e14-8a7d-bb1c7dcd66fa",
+    "name": "مرکز"
+  },
+  {
+    "analyzer_id": "6fb3fb37-57a8-4e19-a7e0-040c1a5ff9db",
+    "name": "مبارزه"
+  },
+  {
+    "analyzer_id": "b072e93e-c2a5-466a-9a95-c62441957e63",
+    "name": "همچنین"
+  },
+  {
+    "analyzer_id": "9ccf0b72-338c-4b0a-b7e7-bdd517aad151",
+    "name": "جستجو"
+  },
+  {
+    "analyzer_id": "9c7eaa5a-66d7-459e-811c-d7d459299277",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "68e38f7f-849f-4ffb-8fec-5f6fb1995867",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "e38b63d9-033e-418a-87ad-1055bb32b375",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "728de76b-079d-4947-b311-bda665afbaa9",
+    "name": "آتش"
+  },
+  {
+    "analyzer_id": "2a05b4b8-5210-48fd-8a39-fbc5146e18b9",
+    "name": "همیشه"
+  },
+  {
+    "analyzer_id": "60aa9305-9984-47be-b6e4-4a55a9640104",
+    "name": "گسترش"
+  },
+  {
+    "analyzer_id": "d1e2b9a3-2ef8-4272-b8ac-fa9170b1bc73",
+    "name": "جهان"
+  },
+  {
+    "analyzer_id": "c9650c8f-1cd5-4e45-8119-10559a70fe10",
+    "name": "تعجب"
+  },
+  {
+    "analyzer_id": "37a37f9c-b3c6-43a9-a501-73f733fc8872",
+    "name": "بیست"
+  },
+  {
+    "analyzer_id": "eae75e7b-b0b6-40f2-97cf-7dee7fa065e9",
+    "name": "ممکن"
+  },
+  {
+    "analyzer_id": "9ed6ab54-0d2a-4921-a822-924f8597c67d",
+    "name": "شنبه"
+  },
+  {
+    "analyzer_id": "6c003285-cb5e-4e5d-81fa-dc61e73454ee",
+    "name": "برای"
+  },
+  {
+    "analyzer_id": "4e90a904-ff2d-41f7-8695-a7be7e03cfd8",
+    "name": "فرار"
+  },
+  {
+    "analyzer_id": "960a8ac3-f933-4f34-ad23-4eb84a835036",
+    "name": "جوجه"
+  },
+  {
+    "analyzer_id": "0269db1d-0510-4464-9ea6-da87e91fda2c",
+    "name": "اب"
+  },
+  {
+    "analyzer_id": "43106ffc-741d-44bb-8ce8-7f17bcd412c1",
+    "name": "امیدوارم"
+  },
+  {
+    "analyzer_id": "cd81af0c-f681-47c8-827d-49e3734ed8d5",
+    "name": "جلو"
+  },
+  {
+    "analyzer_id": "5e044901-2dc3-48ce-bf07-522eac44305f",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "945fa5df-c275-48ea-ba36-2a0e90893061",
+    "name": "کامل"
+  },
+  {
+    "analyzer_id": "3515d92e-97e4-4c95-a1e6-1cc5dcba0334",
+    "name": "قطار"
+  },
+  {
+    "analyzer_id": "be20c28e-5c24-4a6f-9770-b8248460a42e",
+    "name": "قادر"
+  },
+  {
+    "analyzer_id": "165c6cb1-7361-4c07-a28c-28ad04dd310a",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "f8677fe7-963e-4134-8c11-349c22f878be",
+    "name": "جفت"
+  },
+  {
+    "analyzer_id": "de77f448-ae87-4566-859d-f43455dab75c",
+    "name": "ضرب"
+  },
+  {
+    "analyzer_id": "d429d599-e0cd-4fae-b703-13efa4aaa8fc",
+    "name": "روند"
+  },
+  {
+    "analyzer_id": "cf5f7332-80b3-4a17-b2bd-f8a0edd63e7c",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "7d42e695-f3e3-4149-a310-ebc6b6a56faf",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "b7ffb6ad-2dd7-4478-aed3-da231dcdba43",
+    "name": "خوردن"
+  },
+  {
+    "analyzer_id": "da593bf0-c610-4bea-afa3-200616476e01",
+    "name": "نزدیک"
+  },
+  {
+    "analyzer_id": "f6dbe4cd-1b24-4dfe-bf11-78d1739e42c4",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "1f85e6bc-0cce-4b3c-bcf2-247d56c2cc54",
+    "name": "سرمایه"
+  },
+  {
+    "analyzer_id": "b2d1af1d-58e5-4326-bd7d-2c0f5d4a2916",
+    "name": "سیب"
+  },
+  {
+    "analyzer_id": "7de66d4e-81b5-4782-ba1f-977fda95cb4d",
+    "name": "ستون"
+  },
+  {
+    "analyzer_id": "dc70bc5c-15b0-4735-a231-5844a7a85c78",
+    "name": "قادر"
+  },
+  {
+    "analyzer_id": "36bd686c-7661-4dbc-aa0b-ddd0d400e54f",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "3424f4c2-aa3d-4d4b-a58a-a614c54a664e",
+    "name": "بررسی"
+  },
+  {
+    "analyzer_id": "1fd9102d-ea98-4abd-9e82-5dfe1a8fdf2a",
+    "name": "حمل"
+  },
+  {
+    "analyzer_id": "41903bf9-451d-41ff-bc27-50aca445308e",
+    "name": "متولد"
+  },
+  {
+    "analyzer_id": "ce473e06-9fa1-4de1-9d48-35fae23572e7",
+    "name": "نرم"
+  },
+  {
+    "analyzer_id": "d79ad324-56b9-4fdf-8ae4-bc567a8e618c",
+    "name": "خدمت"
+  },
+  {
+    "analyzer_id": "edfd9f6a-e7a7-43f0-91af-bffb130902de",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "a9b33a11-14cc-4873-91fa-a0a93a39bfa7",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "1c219ef5-fd25-40e5-a012-35ca14785c18",
+    "name": "مهارت"
+  },
+  {
+    "analyzer_id": "512350fc-a612-4540-8676-88f56b7fcfb8",
+    "name": "اتصال"
+  },
+  {
+    "analyzer_id": "b219470b-7528-4325-9b9f-1962df8b1b9f",
+    "name": "حکم"
+  },
+  {
+    "analyzer_id": "56925ae8-5482-4be6-8935-aedb27f20fa2",
+    "name": "کنترل"
+  },
+  {
+    "analyzer_id": "9772e06a-8935-4968-b30a-f97569adc186",
+    "name": "شنیده"
+  },
+  {
+    "analyzer_id": "62d6146d-03e5-4884-a14d-a2c5b0e4a8ae",
+    "name": "نکن"
+  },
+  {
+    "analyzer_id": "f178e9eb-8e9b-45bc-9ddd-f9b585dbeda6",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "ddf346a1-518c-4927-b544-dbfd5ee86f35",
+    "name": "نقشه"
+  },
+  {
+    "analyzer_id": "33475d58-1352-46b8-a010-ea767796d822",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "c5d19510-20c6-4492-8443-4f09ecfc4c54",
+    "name": "هفت"
+  },
+  {
+    "analyzer_id": "87fd62c4-6220-4249-b5a4-3f012996d4a1",
+    "name": "شکل"
+  },
+  {
+    "analyzer_id": "2b12299e-92fd-4a15-bad3-f6dd0f887c93",
+    "name": "تیز"
+  },
+  {
+    "analyzer_id": "341f9069-92b8-472d-aa5e-7b28db628e99",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "b16e62f2-d21f-4e5f-8e94-8a43e04d8c99",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "cb2d7cd3-da4d-4536-ba9b-88172570ff0a",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "3d9b827e-4a5f-4cce-b9ec-c73102b1a881",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "060d0e7c-072e-4a47-bb58-a6f7370b5cb9",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "4632c1b0-9835-4ea1-9109-d987710159f4",
+    "name": "مثال"
+  },
+  {
+    "analyzer_id": "b71f96c8-842f-4c5d-a169-e53473b3b6b2",
+    "name": "مایل"
+  },
+  {
+    "analyzer_id": "e2ef0f79-09f9-4c3c-abf0-1fa74f869117",
+    "name": "فرم"
+  },
+  {
+    "analyzer_id": "9d3e0511-3d3b-4179-9f67-27aa4f544b47",
+    "name": "محل"
+  },
+  {
+    "analyzer_id": "f3e1e25d-0c58-48e7-9cb6-88889de17cfa",
+    "name": "این‌ها"
+  },
+  {
+    "analyzer_id": "f07be4d4-1665-445d-8181-754810fdae51",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "75be7c85-c010-483a-9c57-50fc83ab72ac",
+    "name": "کارت"
+  },
+  {
+    "analyzer_id": "13d6e989-c622-43fa-9919-3fa0f3e0861e",
+    "name": "هرگز"
+  },
+  {
+    "analyzer_id": "ec8ec293-6ee6-4cc6-a073-e0dadbdba0cf",
+    "name": "کوه"
+  },
+  {
+    "analyzer_id": "e73e0175-4fa9-47cd-b471-1fd280ffa052",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "83bcfe02-f031-40ef-853d-b06b46fd9aa4",
+    "name": "توصیف"
+  },
+  {
+    "analyzer_id": "a8f2659d-3080-4513-ba79-88d4f57c289a",
+    "name": "پایه"
+  },
+  {
+    "analyzer_id": "b79818a3-881b-4483-8750-6c7b152d8cab",
+    "name": "دندانها"
+  },
+  {
+    "analyzer_id": "b9d0c729-e0d6-4455-8bd9-fe880ce47c12",
+    "name": "جا"
+  },
+  {
+    "analyzer_id": "07ece0e9-203d-4edc-a38b-0722178ac20a",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "ffe2d37a-df50-4655-ae84-213fd4cb8e52",
+    "name": "باید"
+  },
+  {
+    "analyzer_id": "33a57c58-0e44-47b5-b55d-4a3a4e462ca2",
+    "name": "ستون"
+  },
+  {
+    "analyzer_id": "4a3a60e6-ecf6-4e53-8c31-e094a6d3dec3",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "61e1b2d3-b254-40aa-b54a-d19436f7835e",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "3ebeb4f1-fd68-4914-a71d-d3703b1ddd80",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "402c7445-486b-4f74-b4f4-969e20adc526",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "0b1be1b4-16d6-426e-961d-c8255f5bdbfa",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "97f78d79-212c-489f-9beb-d7668dcd0ffa",
+    "name": "نفت"
+  },
+  {
+    "analyzer_id": "9ce5ba33-be16-4d93-8f61-da86e461a175",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "bf006ff8-f2cd-49dd-881c-8c1647171183",
+    "name": "حلقه"
+  },
+  {
+    "analyzer_id": "b0a46d74-4fd4-427d-b792-4c083ee799eb",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "7969470c-d79e-4414-8983-ba4aac48e3ee",
+    "name": "ساحل"
+  },
+  {
+    "analyzer_id": "2aa4b807-2c6b-4436-b60f-8fce83caf6b7",
+    "name": "مهارت"
+  },
+  {
+    "analyzer_id": "6d71422a-0451-4c42-8cf4-fba739b01760",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "3a525911-6aad-4f4c-a7a0-a75c78d1c77c",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "7659e8c9-eea0-495d-b40a-3651192321af",
+    "name": "نازک"
+  },
+  {
+    "analyzer_id": "a713ed21-ea92-459f-ab86-542dec91c596",
+    "name": "طبیعت"
+  },
+  {
+    "analyzer_id": "71fa0866-04d2-4403-8018-9f566c3f0cd7",
+    "name": "برق"
+  },
+  {
+    "analyzer_id": "086ba672-c1da-44e0-b6e8-f0f6cbccdb36",
+    "name": "سوال"
+  },
+  {
+    "analyzer_id": "c52b0fa3-c669-46d1-8907-486c1ffe7fe8",
+    "name": "دربرابر"
+  },
+  {
+    "analyzer_id": "d81dd822-6628-4bf2-a9a4-c8da6c16b6b6",
+    "name": "ساحل"
+  },
+  {
+    "analyzer_id": "2f82d5d4-e066-45d1-aad0-93ab607e71e7",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "33e132b1-b1d0-4029-80fd-85defc314c91",
+    "name": "مبارزه"
+  },
+  {
+    "analyzer_id": "f170acc4-8256-41d5-a08c-7acc4bd89ccd",
+    "name": "حرکت"
+  },
+  {
+    "analyzer_id": "f088fc5f-eb8a-4fd5-ad5a-e4c952890530",
+    "name": "دکتر"
+  },
+  {
+    "analyzer_id": "77e7b0f8-2322-41b3-b2bb-f8a58755f3f1",
+    "name": "پادشاه"
+  },
+  {
+    "analyzer_id": "af8e0cfa-e061-4add-9d2b-40e484e7562b",
+    "name": "مدت"
+  },
+  {
+    "analyzer_id": "9dd218b8-9132-4edf-afd6-450dce251847",
+    "name": "کودک"
+  },
+  {
+    "analyzer_id": "55016717-e2df-462e-9e3a-e940a0c633f9",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "9353e807-94e4-4bc9-9b73-b2a7eb4fd6ba",
+    "name": "احساس"
+  },
+  {
+    "analyzer_id": "75ed50e1-cd8b-4065-946c-d0a24ee1ce78",
+    "name": "طبیعی"
+  },
+  {
+    "analyzer_id": "5f2b2ef9-7f82-4aaf-a2ed-d32f1ead7e86",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "43f3b597-ca03-4625-bc33-b1145e5c5d69",
+    "name": "تحمل"
+  },
+  {
+    "analyzer_id": "f8b2835d-f058-4c5d-b504-33186f628cdb",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "2f53ed9f-8056-413c-9d96-03d135430624",
+    "name": "ملودی"
+  },
+  {
+    "analyzer_id": "3f2b901d-7aae-49d7-a656-c05f2399b4d1",
+    "name": "سیاره"
+  },
+  {
+    "analyzer_id": "4ce83734-93cd-458b-874b-f201b727a283",
+    "name": "قهوه‌ای"
+  },
+  {
+    "analyzer_id": "5ea42934-d561-4c42-aad0-836170120da6",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "f5d93fe9-18f7-42d4-85e1-b5d504ed3a08",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "08b6ad9c-41d2-44de-ae94-fb36e3011530",
+    "name": "خانواده"
+  },
+  {
+    "analyzer_id": "736cda04-d3cd-4e1f-824b-47f2faa77487",
+    "name": "نشستن"
+  },
+  {
+    "analyzer_id": "d5ec1574-63a9-415a-97b3-4f1477ed5768",
+    "name": "یا"
+  },
+  {
+    "analyzer_id": "5e5ac939-bf0c-4b0c-9a8d-df0408427777",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "91f8b419-c3c8-468d-a15c-b3a458877cf1",
+    "name": "زنگ"
+  },
+  {
+    "analyzer_id": "752f54a6-dcab-48af-b75d-fc8bcb95120a",
+    "name": "ساخته"
+  },
+  {
+    "analyzer_id": "17fa2e45-dfd7-4207-b8e0-9d70acd680e0",
+    "name": "پدر"
+  },
+  {
+    "analyzer_id": "8e95e6d8-3ea8-43e1-9e78-2182ef651103",
+    "name": "حمل"
+  },
+  {
+    "analyzer_id": "db2f005c-65ac-4069-94dd-6114712ae891",
+    "name": "عادلانه"
+  },
+  {
+    "analyzer_id": "c88aaaaa-e134-44af-a0f0-147287c0bb69",
+    "name": "رشد"
+  },
+  {
+    "analyzer_id": "1d2bf4d7-9494-48f5-b472-78ec515e797f",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "9156edd8-0a54-4a2a-be2d-7a3cbc074598",
+    "name": "افزایش"
+  },
+  {
+    "analyzer_id": "67eb80b8-8146-4739-ac41-2d45a5f20ed7",
+    "name": "اما"
+  },
+  {
+    "analyzer_id": "dacd50c8-5435-4b44-ad18-a8fd70f9ea5f",
+    "name": "پسوند"
+  },
+  {
+    "analyzer_id": "213bf425-5aaf-437c-94b1-63595481047f",
+    "name": "یخ"
+  },
+  {
+    "analyzer_id": "57037dc0-ec97-475f-bf00-51b85a2162da",
+    "name": "رول"
+  },
+  {
+    "analyzer_id": "30af6152-edd1-4098-a4ab-cdbf689b0cd2",
+    "name": "بازدید"
+  },
+  {
+    "analyzer_id": "50e727d3-81cd-4777-8b34-0eaf85913826",
+    "name": "دره"
+  },
+  {
+    "analyzer_id": "68ea081d-c94b-4cdf-a0cf-82e3012b914d",
+    "name": "موج"
+  },
+  {
+    "analyzer_id": "82694b39-0bac-4152-9c05-599159a1cbe9",
+    "name": "جدول"
+  },
+  {
+    "analyzer_id": "1abf4b53-64b9-4ddf-961b-70916c786f47",
+    "name": "چوب"
+  },
+  {
+    "analyzer_id": "76f7e0fa-5ca8-47b1-9c96-0f7e6fc13c52",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "01a45fcb-09c1-483e-a1c1-a38ab62985ba",
+    "name": "بد"
+  },
+  {
+    "analyzer_id": "824e1c5c-894d-4cd6-8ab3-b10f94c60863",
+    "name": "چربی"
+  },
+  {
+    "analyzer_id": "fdbf2c30-9028-46f1-bba4-2ca954085a52",
+    "name": "ورزش"
+  },
+  {
+    "analyzer_id": "cd2d7e04-25db-461c-a40e-98e82c2be92e",
+    "name": "غالبا"
+  },
+  {
+    "analyzer_id": "b241d3f4-9486-4136-80be-df7330268812",
+    "name": "آمده"
+  },
+  {
+    "analyzer_id": "677fa062-7484-4e4e-a4fc-5fe80d74f341",
+    "name": "گفت:"
+  },
+  {
+    "analyzer_id": "295e87c7-585f-4649-9bf0-f9fa6bd189ab",
+    "name": "رهبری"
+  },
+  {
+    "analyzer_id": "e78e75fa-c0e3-47b4-9307-4ee69bdd0279",
+    "name": "آسان"
+  },
+  {
+    "analyzer_id": "05a71688-bf68-48e7-9d47-0d68ab046e1a",
+    "name": "ایجاد"
+  },
+  {
+    "analyzer_id": "d2c37b5f-d341-4d4f-99fc-cfbf5095f3c0",
+    "name": "حکم"
+  },
+  {
+    "analyzer_id": "ff7e708c-8c69-4170-b1fc-c72485b7afe8",
+    "name": "شرکت"
+  },
+  {
+    "analyzer_id": "e55495a2-7004-4d9b-a52c-c4716c6b2fc5",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "644b5094-64d9-46bf-99e9-044d0e1bfce7",
+    "name": "کشیدن"
+  },
+  {
+    "analyzer_id": "54679a8d-4e1d-43a8-b19c-e3b25e8376a0",
+    "name": "اواخر"
+  },
+  {
+    "analyzer_id": "edd07c73-9d75-4c30-81b5-aacc125683b6",
+    "name": "ماشین"
+  },
+  {
+    "analyzer_id": "42451484-b0e2-4418-81b1-8aefdb27762b",
+    "name": "آبی"
+  },
+  {
+    "analyzer_id": "3488714f-32cd-469e-9093-635b0362094a",
+    "name": "چربی"
+  },
+  {
+    "analyzer_id": "9de277e2-5fd1-45e2-8170-ed5fdb57f2d1",
+    "name": "گرم"
+  },
+  {
+    "analyzer_id": "f30bd81e-c86c-4e0d-a1a5-be65da4735ea",
+    "name": "مشاهده"
+  },
+  {
+    "analyzer_id": "72f19b94-564e-48e4-ad41-2e9b138f4e0e",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "10d6e7bf-3915-4ff8-90d3-0394b9b5e57a",
+    "name": "مدرن"
+  },
+  {
+    "analyzer_id": "9a5fb809-f9e3-43b3-82ca-557de5808bb0",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "ff2ae50f-259a-4971-a189-95aaff5b3c46",
+    "name": "زبان"
+  },
+  {
+    "analyzer_id": "085e0bf6-28a8-49b3-82f7-b673553efab9",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "78c91b38-44f3-4f30-8b72-32c1ed2586aa",
+    "name": "علامت"
+  },
+  {
+    "analyzer_id": "3172477d-ee7e-4402-b45f-a76c71df461c",
+    "name": "روند"
+  },
+  {
+    "analyzer_id": "c55c45f0-dcc4-41dc-b99f-191aa9475f2e",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "8e1645f7-f493-4ec5-86ea-30fd1405ad4a",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "53c9388a-4015-40d3-96cb-10cd37ac7a53",
+    "name": "بیشترین"
+  },
+  {
+    "analyzer_id": "1edf1818-c236-4845-ae6f-1787d5a1a41b",
+    "name": "ارزش"
+  },
+  {
+    "analyzer_id": "e9d6192c-bf00-4f61-9afe-2c857ab32761",
+    "name": "مبارزه"
+  },
+  {
+    "analyzer_id": "ced82668-caf6-479a-bf11-fe179fcc3a50",
+    "name": "بقیه"
+  },
+  {
+    "analyzer_id": "ced5bcfe-f16a-4ef8-a1ae-eff4ab080320",
+    "name": "دختر"
+  },
+  {
+    "analyzer_id": "6c5f2b4b-2dcd-43db-94af-491e459f6428",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "729e1942-91e1-4519-bd1c-330ab492ddb4",
+    "name": "رویا"
+  },
+  {
+    "analyzer_id": "ad62f3fd-c614-4aca-af7e-e83ed2062f98",
+    "name": "صبح"
+  },
+  {
+    "analyzer_id": "cbe8e32c-8df4-4481-a980-c1bb061acfda",
+    "name": "اتم"
+  },
+  {
+    "analyzer_id": "b2ce8855-465b-496b-a7c5-7ef56b3527a8",
+    "name": "مجموعه"
+  },
+  {
+    "analyzer_id": "61ae077d-d9b2-444f-b62d-bbc15ac95a68",
+    "name": "آفتاب"
+  },
+  {
+    "analyzer_id": "a895c82a-7273-465c-91e3-afaa4b6486e7",
+    "name": "پایین"
+  },
+  {
+    "analyzer_id": "8be4fa0b-f483-4b6f-9eda-c49717e658f6",
+    "name": "لبخند"
+  },
+  {
+    "analyzer_id": "5992fa46-c1d4-4dad-8583-673c43ec6807",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "af3cb230-1014-4625-9bea-15c4f827fb52",
+    "name": "اوایل"
+  },
+  {
+    "analyzer_id": "8d9d61de-fc2c-4dd3-9274-d5e0fb9a0efd",
+    "name": "زور"
+  },
+  {
+    "analyzer_id": "ec683e13-6ebb-4241-8fab-1e63b6095d92",
+    "name": "حشرات"
+  },
+  {
+    "analyzer_id": "2be04d37-bfc2-40c5-a5dc-b2d593cfe402",
+    "name": "همچنین"
+  },
+  {
+    "analyzer_id": "03a9d58d-8635-444b-8570-65c8ee9769fd",
+    "name": "سرد"
+  },
+  {
+    "analyzer_id": "4b3bf567-46cd-4e1c-be28-6a2ed038c60e",
+    "name": "تکرار"
+  },
+  {
+    "analyzer_id": "9f73856c-7390-4e7c-bbeb-c85933527988",
+    "name": "برخی"
+  },
+  {
+    "analyzer_id": "af1edb32-7aa9-496c-a46a-14f7e8440635",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "e022855d-ca65-4f42-a0b6-d387e93e0c0a",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "271e26b1-2c47-4e72-8600-a67cf5cd8b5d",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "91661b1c-b815-4346-802d-c1be71651d30",
+    "name": "نازک"
+  },
+  {
+    "analyzer_id": "434cfc6a-fb7e-4aab-a60a-dd0217044fde",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "5ff3d2c6-2054-4110-baa9-12124b3ca3f9",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "df75a9fc-812c-4943-86b4-4af1d84c3587",
+    "name": "تغییر"
+  },
+  {
+    "analyzer_id": "2855f9a8-f407-41e2-afcc-83c3ed6fd34c",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "0e6c3235-3bc6-40ba-8c27-130cd5dd37c2",
+    "name": "علت"
+  },
+  {
+    "analyzer_id": "88bee6f0-345d-4df1-bedf-0bc552d5726c",
+    "name": "اردک"
+  },
+  {
+    "analyzer_id": "79b1cefa-8f62-4941-9feb-2fa72bd56d22",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "d66bfaa1-0475-4f07-bad3-15e914e376f6",
+    "name": "گرم"
+  },
+  {
+    "analyzer_id": "77b41821-5294-481f-86d5-62b065ebcb82",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "48e46eda-8ef6-4b1c-a5b3-48731c381a6c",
+    "name": "طلسم"
+  },
+  {
+    "analyzer_id": "8a958ccf-a03d-45e7-9cbe-f7364ae919d8",
+    "name": "اشتباه"
+  },
+  {
+    "analyzer_id": "096586d3-5118-4aa4-9e91-9e3ad281b7ff",
+    "name": "مولکول"
+  },
+  {
+    "analyzer_id": "3137b9e2-28a1-4e16-880f-bc3a7eed5bee",
+    "name": "نقشه"
+  },
+  {
+    "analyzer_id": "a61a6c4b-e9f6-4377-97a5-d402bbd4e803",
+    "name": "شب"
+  },
+  {
+    "analyzer_id": "4c28f5b6-3478-42fd-b84c-cbb3ea28e402",
+    "name": "کوچک"
+  },
+  {
+    "analyzer_id": "e9fa61dc-53b6-4961-829c-88093cb46685",
+    "name": "اثر"
+  },
+  {
+    "analyzer_id": "c015a987-e85d-42d9-9dd5-8302c397ac9d",
+    "name": "ماه"
+  },
+  {
+    "analyzer_id": "ac876a21-1edd-4d84-8b81-90d832519245",
+    "name": "هنوز"
+  },
+  {
+    "analyzer_id": "b7afb3ba-25df-469b-8ba5-e9b060b5d50e",
+    "name": "درخت"
+  },
+  {
+    "analyzer_id": "d40dafe7-d9e1-49e2-bfa6-79af61f3adbc",
+    "name": "قاره"
+  },
+  {
+    "analyzer_id": "0d9a6dd4-5ef3-4f50-96ca-3714dd98f2a4",
+    "name": "وحشی"
+  },
+  {
+    "analyzer_id": "e1ddfef9-c0fc-468a-832f-e75b4114becc",
+    "name": "ابر"
+  },
+  {
+    "analyzer_id": "970d28d6-c613-42bf-bc5e-1c43c94fa2c0",
+    "name": "طراحی"
+  },
+  {
+    "analyzer_id": "718ae3ec-0c97-40b9-b2bc-dadf6955caa9",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "fdd0581c-de8b-4fe7-8f49-bf431664520e",
+    "name": "همخوان"
+  },
+  {
+    "analyzer_id": "e8f87955-088e-40b4-8f8c-93e5e018c46a",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "ff46bf2a-9096-4154-94e1-ff88ca1ea8ce",
+    "name": "دم"
+  },
+  {
+    "analyzer_id": "6d077b2b-547f-4688-a0ce-ae0bc21196aa",
+    "name": "لباس"
+  },
+  {
+    "analyzer_id": "ccf94348-97f4-405e-9adf-daf3f8dd7067",
+    "name": "طلا"
+  },
+  {
+    "analyzer_id": "fb740344-61db-4e3e-a1a3-53c9dea9bb33",
+    "name": "متفاوت"
+  },
+  {
+    "analyzer_id": "154abcc9-2ba9-47bf-ab00-22e9d2c9767d",
+    "name": "شی"
+  },
+  {
+    "analyzer_id": "d905d979-039b-422a-b1b8-490fe347f39f",
+    "name": "بپرسید"
+  },
+  {
+    "analyzer_id": "dd7de3b9-7005-413b-a8fb-96c45594ed43",
+    "name": "ماهی"
+  },
+  {
+    "analyzer_id": "7f3cb98a-4fa6-4bdd-9ccf-7bc9e3ab80d5",
+    "name": "پیش"
+  },
+  {
+    "analyzer_id": "84eea6eb-445a-4a68-bd6e-99b4ea07e986",
+    "name": "صد"
+  },
+  {
+    "analyzer_id": "1f18524b-f6ae-483c-a672-0b51f4061af4",
+    "name": "افزایش"
+  },
+  {
+    "analyzer_id": "796e5e67-89bc-41c1-9c68-ebc4d6331070",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "1d4a29af-1086-4166-9361-02d623b84a11",
+    "name": "بگو"
+  },
+  {
+    "analyzer_id": "068f1b06-f6b5-4c52-aa3e-18bec6d28857",
+    "name": "عبور"
+  },
+  {
+    "analyzer_id": "7abf918a-8b35-4b7f-87fe-6a872f5c39c8",
+    "name": "سبز"
+  },
+  {
+    "analyzer_id": "e13668c9-e160-40c1-82a4-44e885b76e49",
+    "name": "هشت"
+  },
+  {
+    "analyzer_id": "a21c60d5-c58f-4104-84c4-b64842173876",
+    "name": "درمیان"
+  },
+  {
+    "analyzer_id": "767fc240-b0d0-4241-9644-416b9a25d57f",
+    "name": "جاده"
+  },
+  {
+    "analyzer_id": "a5418470-1bcc-4d29-a11f-66879ee63343",
+    "name": "آمد"
+  },
+  {
+    "analyzer_id": "2fc1039b-0353-4a4e-95f1-0171569d77d5",
+    "name": "نمره"
+  },
+  {
+    "analyzer_id": "b1dfaa25-4404-4eb3-9d8d-8d3848836ec0",
+    "name": "مرکز"
+  },
+  {
+    "analyzer_id": "9d7ac83f-a6e8-4e72-a1fd-92235c98c314",
+    "name": "شرق"
+  },
+  {
+    "analyzer_id": "83d13ca3-4c92-4f41-adda-21077064a9b9",
+    "name": "رایگان"
+  },
+  {
+    "analyzer_id": "00a019c1-8155-4186-9500-d655891153f1",
+    "name": "واقعی"
+  },
+  {
+    "analyzer_id": "23513f35-4b8d-4bd1-87e7-4f5b61491146",
+    "name": "باهم"
+  },
+  {
+    "analyzer_id": "2c05b88b-2c5f-4480-8888-f76f16003f31",
+    "name": "جرم"
+  },
+  {
+    "analyzer_id": "e2509301-f197-498d-a1dd-d0a7c456d5da",
+    "name": "کپی"
+  },
+  {
+    "analyzer_id": "1626fab5-5f0a-4427-a064-841fc99caca4",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "55521300-27d6-44a7-b07f-2b7ffa6c4070",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "2eb05c9a-1efc-40c9-9857-7b263d8ef064",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "e6394107-5dee-4602-b50e-bbfdc8fdca5c",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "cb9a084e-7382-4053-873e-575b3702723d",
+    "name": "دروغ"
+  },
+  {
+    "analyzer_id": "51e5b5e7-f096-430f-b9f8-a5f597a428fc",
+    "name": "اسم"
+  },
+  {
+    "analyzer_id": "b6087f96-d8f1-49e5-8e1e-e00504607d42",
+    "name": "منظور"
+  },
+  {
+    "analyzer_id": "767ee36f-b8fc-4a95-8971-cd98bf7860fe",
+    "name": "شانس"
+  },
+  {
+    "analyzer_id": "a2019f65-d21d-41d3-8269-2520e667b6fe",
+    "name": "مناسب"
+  },
+  {
+    "analyzer_id": "8cf9c618-a254-4ef3-ac23-f9a11e28d9a5",
+    "name": "اولین"
+  },
+  {
+    "analyzer_id": "d90782aa-01f0-4cfb-b37b-e9cae0844b1f",
+    "name": "شروع"
+  },
+  {
+    "analyzer_id": "07da62d8-0283-4f1e-a8c8-3e97738d2cf1",
+    "name": "شانه"
+  },
+  {
+    "analyzer_id": "69d44891-84e4-4489-99ba-f48eaa7f6562",
+    "name": "ممکن"
+  },
+  {
+    "analyzer_id": "66fe1456-2d3c-4c4e-9af2-f6616acb2450",
+    "name": "البته"
+  },
+  {
+    "analyzer_id": "2553bb83-dca9-4dc2-ab09-2976c7436f41",
+    "name": "قانون"
+  },
+  {
+    "analyzer_id": "c3facca8-0cf9-47f0-a5de-c9d14eb26cd7",
+    "name": "می‌گویند"
+  },
+  {
+    "analyzer_id": "341d235e-faef-4549-9583-571d09b5a9a8",
+    "name": "باهم"
+  },
+  {
+    "analyzer_id": "fe26e3e6-14d6-4ceb-968b-f51e97175a2a",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "1ec79af7-3e48-4f25-b8d3-622f43f67721",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "971d0208-735a-42e0-a1bc-17ce49b61bd2",
+    "name": "مطالعه"
+  },
+  {
+    "analyzer_id": "624d491b-050b-4829-b953-446a6ea00e71",
+    "name": "آه"
+  },
+  {
+    "analyzer_id": "5f0e0556-1f8a-49a8-b1d1-4cd909118028",
+    "name": "ورزش"
+  },
+  {
+    "analyzer_id": "87c38577-edf1-4f95-a41f-ea41f4a1d651",
+    "name": "زمان"
+  },
+  {
+    "analyzer_id": "d01bb95c-222e-41ed-bf6c-6fc511a0c2a1",
+    "name": "سرباز"
+  },
+  {
+    "analyzer_id": "7f6f42e5-431c-4c35-9df5-3d250852dd1b",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "780da0fe-10fa-495d-b2df-4e975bc0e5ec",
+    "name": "چمن"
+  },
+  {
+    "analyzer_id": "1d16692f-17a4-4304-8cad-dc0ae3bf199d",
+    "name": "کاپیتان"
+  },
+  {
+    "analyzer_id": "0d3661f8-85e3-4a63-a9f2-6ce7bf4ecb26",
+    "name": "اثر"
+  },
+  {
+    "analyzer_id": "a198eb0a-aecd-49fa-b1bc-c7fa43b74e72",
+    "name": "مناسب"
+  },
+  {
+    "analyzer_id": "3451b023-6f56-44a0-aab8-b987dca68505",
+    "name": "انجیر"
+  },
+  {
+    "analyzer_id": "4ca48972-ee82-42e0-af4f-b2c99d98986f",
+    "name": "سبز"
+  },
+  {
+    "analyzer_id": "38b4c5ca-3c15-4678-9941-f82ebdd97c7d",
+    "name": "انرژی"
+  },
+  {
+    "analyzer_id": "0886d77f-dafe-44df-8633-cd208ddce1db",
+    "name": "هردو"
+  },
+  {
+    "analyzer_id": "db402b8b-6b42-4eb8-8c79-20ea5aa61179",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "82d78144-7ba3-4f9b-8804-dadfea3edf47",
+    "name": "جنوب"
+  },
+  {
+    "analyzer_id": "6fe27efb-e888-45d9-bb8b-33ffb9156e2c",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "f1dc8420-cdb8-4219-9c11-26cd1604a1e0",
+    "name": "نماد"
+  },
+  {
+    "analyzer_id": "7544d86c-b085-4635-8561-1ccb0b638382",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "f7f5773e-f524-4fad-8c23-eaf6905729aa",
+    "name": "اماده"
+  },
+  {
+    "analyzer_id": "235556ab-7310-4c6a-9615-f297078933da",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "c72583fc-3aa4-4d07-b2a9-d5771f345c42",
+    "name": "پوست"
+  },
+  {
+    "analyzer_id": "fc86ebcd-c5e3-42a9-b9af-8fc3ceae46ce",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "dd4153f2-290d-43b7-8e42-4516f15d76d6",
+    "name": "غنی"
+  },
+  {
+    "analyzer_id": "712b3e54-fa25-4bc6-ae77-2ed19406ccd6",
+    "name": "پوند"
+  },
+  {
+    "analyzer_id": "1bde4494-0835-4571-a502-f324aab74ef2",
+    "name": "تفریق"
+  },
+  {
+    "analyzer_id": "3de5e438-1e33-4c7c-a1dd-6b68a6973a8a",
+    "name": "درایو"
+  },
+  {
+    "analyzer_id": "4152b896-2935-4e0c-ad5e-14de67e3705c",
+    "name": "خواب"
+  },
+  {
+    "analyzer_id": "7fb7a38e-4c23-4665-9250-5137c0e03f7a",
+    "name": "کپی"
+  },
+  {
+    "analyzer_id": "18eb61a7-9d15-482f-be77-099d0dda061b",
+    "name": "یافت"
+  },
+  {
+    "analyzer_id": "4dbd19a3-47ef-44d6-a9d4-66aaa4ad1158",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "c8e91423-86b0-4667-aa2c-374a3af652a0",
+    "name": "صورت"
+  },
+  {
+    "analyzer_id": "b26f275e-b95d-4d8c-8448-04c3af86ab2f",
+    "name": "ضربه"
+  },
+  {
+    "analyzer_id": "cc0ed77c-9b33-452c-97ce-69958e0c43c0",
+    "name": "سعی‌کنید"
+  },
+  {
+    "analyzer_id": "8b9ab90c-289c-4acb-b8fb-c993adcc4bb9",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "b234f4e3-8717-43e3-9030-16e963788296",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "60c60728-0669-4f5b-a95c-3ee797e40394",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "bd0f43c0-2833-4548-a91c-6682127263f0",
+    "name": "پول"
+  },
+  {
+    "analyzer_id": "ac21e261-2edc-42cf-ab1f-676c30d9260d",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "e196a6a2-2572-43a1-8de9-44fce9c41549",
+    "name": "رایگان"
+  },
+  {
+    "analyzer_id": "dfe5d0a3-594d-4096-b03f-797f442f1657",
+    "name": "بهار"
+  },
+  {
+    "analyzer_id": "ff1620e3-58e1-408c-8c4c-d14b398cb9db",
+    "name": "مدرن"
+  },
+  {
+    "analyzer_id": "b66948c5-2e3a-4914-921f-a363e66f3d1d",
+    "name": "کار"
+  },
+  {
+    "analyzer_id": "490ecb1a-4aa4-4360-81da-7483d2089295",
+    "name": "دیوار"
+  },
+  {
+    "analyzer_id": "1a72b23c-1c1f-4455-a068-f36df1c120c6",
+    "name": "دایره"
+  },
+  {
+    "analyzer_id": "38629294-17c8-41b5-940a-1efc5bfe28ca",
+    "name": "عبارت"
+  },
+  {
+    "analyzer_id": "4f07c091-48e5-4628-8d5b-abf20b3ba2c4",
+    "name": "قراردادن"
+  },
+  {
+    "analyzer_id": "38649cc4-2898-48bf-8df6-2bdc597333df",
+    "name": "مطالعه"
+  },
+  {
+    "analyzer_id": "7437ceed-6c54-44fc-95f9-3d4f0308dca2",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "73ce1707-4e9c-4945-be24-f3702419db16",
+    "name": "جدید"
+  },
+  {
+    "analyzer_id": "fdfea684-fa21-4ded-8fb4-5c10aac0e5d0",
+    "name": "شاید"
+  },
+  {
+    "analyzer_id": "1ba3b9dd-bdb1-4077-8261-f8c728edb10e",
+    "name": "پنج"
+  },
+  {
+    "analyzer_id": "57503119-3499-4062-9708-6f489848dbe0",
+    "name": "مادر"
+  },
+  {
+    "analyzer_id": "1cffbc67-d7a1-4ecf-ace6-5ef2bcfed89a",
+    "name": "علامت"
+  },
+  {
+    "analyzer_id": "7b09b044-f739-4f67-94f5-1e5c5ea45a21",
+    "name": "اینجا"
+  },
+  {
+    "analyzer_id": "7e050c22-07d4-4746-b408-68314415fb87",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "a51a1865-0fad-4188-b52f-57dfb9d14fe1",
+    "name": "توقف"
+  },
+  {
+    "analyzer_id": "3eeb157e-cea7-4f54-9c9e-2ea6df822969",
+    "name": "سیم"
+  },
+  {
+    "analyzer_id": "8f96e438-dc77-429f-8072-b08a17a8ebdf",
+    "name": "اندازه"
+  },
+  {
+    "analyzer_id": "f23b39e4-4aab-4dee-83bf-b8ba6580048c",
+    "name": "جداگانه"
+  },
+  {
+    "analyzer_id": "18e82ae1-a8a9-44cd-bdcd-23d6216b77fe",
+    "name": "آموزش"
+  },
+  {
+    "analyzer_id": "80fdd38b-3092-4296-a08f-086eef1ba2e6",
+    "name": "رویا"
+  },
+  {
+    "analyzer_id": "d0650a1e-b445-4292-ae1d-3893c0cffdcc",
+    "name": "تکرار"
+  },
+  {
+    "analyzer_id": "7339b033-75e0-4d3b-9f65-0bc1f6d333a3",
+    "name": "نازک"
+  },
+  {
+    "analyzer_id": "d69f9d56-8806-4917-a113-7ac480398c30",
+    "name": "خاموش"
+  },
+  {
+    "analyzer_id": "edd5743c-9404-43a5-81d1-7c6e24164148",
+    "name": "ریشه"
+  },
+  {
+    "analyzer_id": "7090a34a-938e-4aeb-ae99-b79fe5640074",
+    "name": "سعی‌کنید"
+  },
+  {
+    "analyzer_id": "0c8d030c-dc26-4c8f-bc4c-f46df75f77eb",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "92d9472e-f339-4a8f-a4cc-e88df2a700e1",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "58e43089-01ec-4025-88c6-8e4b347bb892",
+    "name": "دروغ"
+  },
+  {
+    "analyzer_id": "bc1eb18f-54f4-43d1-8cbe-bf4820e61be1",
+    "name": "تازه"
+  },
+  {
+    "analyzer_id": "230da2b3-5159-4947-bc5b-f7167fbe96b7",
+    "name": "رودخانه"
+  },
+  {
+    "analyzer_id": "06170dc9-dc16-415f-a22a-641013ab9674",
+    "name": "موقعیت"
+  },
+  {
+    "analyzer_id": "e3b356b1-40d8-43b5-a652-a944fdbeba9e",
+    "name": "طول"
+  },
+  {
+    "analyzer_id": "e6c55071-1d01-42be-b5b5-e34b1bcd17fa",
+    "name": "شما"
+  },
+  {
+    "analyzer_id": "da14f122-d358-406c-b696-cac3dee85870",
+    "name": "خیابان"
+  },
+  {
+    "analyzer_id": "53eac593-5f9e-46b6-87f9-125ed8708487",
+    "name": "ساخته"
+  },
+  {
+    "analyzer_id": "fd418790-d580-453f-9dcb-b23281b9c76e",
+    "name": "بپرسید"
+  },
+  {
+    "analyzer_id": "cba1c79a-b47a-4950-9db6-99fd8e2dce8f",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "eaec4126-d1e1-4482-98ea-214a9fc5fdf3",
+    "name": "فضا"
+  },
+  {
+    "analyzer_id": "e5d201d7-4f79-45a9-9ea0-a98bef29d51b",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "ab21e906-2da5-43e2-8b21-2670a58622a3",
+    "name": "عجله‌ای"
+  },
+  {
+    "analyzer_id": "768c6e4b-d169-4640-b611-264f90ed3159",
+    "name": "سرد"
+  },
+  {
+    "analyzer_id": "e096e95d-cbc3-42eb-bd9f-219d5c8ae276",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "c8f15462-8eec-45e6-9168-008fab0a5110",
+    "name": "کوارت"
+  },
+  {
+    "analyzer_id": "59b04ccd-e996-4bb7-adfa-c44426a7d916",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "a7b713ff-6535-488d-8067-1e0569ba6646",
+    "name": "باد"
+  },
+  {
+    "analyzer_id": "f9c896c4-0fe5-40ca-af43-9cec7be2d1d9",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "c2984e5a-333d-49c5-af1c-114e65006cd6",
+    "name": "رئیس"
+  },
+  {
+    "analyzer_id": "455e1b2d-3b6e-43da-b6b3-c547c0bf8e20",
+    "name": "سرگرم"
+  },
+  {
+    "analyzer_id": "fb41539d-fa22-4077-93dc-f07392b0d7f7",
+    "name": "شش"
+  },
+  {
+    "analyzer_id": "637ca51d-5075-4328-a6c6-4e69f75ccb53",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "18b95d05-f8a1-433a-8e3f-d24f762d0382",
+    "name": "راهنمایی"
+  },
+  {
+    "analyzer_id": "bfb74082-7cdd-4be3-941d-d56aad3013ae",
+    "name": "بانک"
+  },
+  {
+    "analyzer_id": "6cfc351d-262b-4d60-a25c-6be93818138a",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "dc686d8c-5923-4984-82ed-bc69c161fff0",
+    "name": "برخی"
+  },
+  {
+    "analyzer_id": "55b8685c-b9f7-4e1a-97a0-e20d586244c1",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "7220619c-dfe6-4ee1-bd23-73228f89f1cc",
+    "name": "خوراک"
+  },
+  {
+    "analyzer_id": "02346713-3270-450e-9c9a-72a496b5202f",
+    "name": "رادیو"
+  },
+  {
+    "analyzer_id": "c253a6a8-7a96-474c-9f8a-1f04f3c6e407",
+    "name": "مرده"
+  },
+  {
+    "analyzer_id": "1519384f-5681-45a5-8e9c-ed56d55a8a67",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "e0de9740-e9fc-46b8-998d-e0a9e39d66b5",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "d251b52e-34f1-488f-af94-142fe7fb78ca",
+    "name": "عرضه"
+  },
+  {
+    "analyzer_id": "efb0bebb-3b72-4c10-bb7f-a9d299342f40",
+    "name": "چه"
+  },
+  {
+    "analyzer_id": "13f6b5be-5e34-4edb-83b6-471c333f6978",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "dab79c4b-6dbe-48a8-8142-a83429227e2d",
+    "name": "توسعه"
+  },
+  {
+    "analyzer_id": "a66cf685-193a-432a-93ed-ff0ffa4bef55",
+    "name": "سیب"
+  },
+  {
+    "analyzer_id": "11c2edd4-b03b-496e-b8c5-74e729aa5f91",
+    "name": "کشتن"
+  },
+  {
+    "analyzer_id": "b05bf66e-0a55-4e4a-999a-7cff2a2f24fd",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "01cc9c23-b8a6-4127-a28e-72c651404ab7",
+    "name": "عمل"
+  },
+  {
+    "analyzer_id": "cbf163e1-82cc-448e-badb-6fe6ebd66be1",
+    "name": "طبیعی"
+  },
+  {
+    "analyzer_id": "07a47c2e-e30a-4b8e-a33f-b73c2cb640b9",
+    "name": "کوارت"
+  },
+  {
+    "analyzer_id": "5682bacc-0edd-4f02-93a3-61792bdea410",
+    "name": "قرن"
+  },
+  {
+    "analyzer_id": "e0747445-cbe6-4c22-b25b-38726dfb520d",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "d26cfbe2-a20c-46f4-a6c6-14724cf7cc37",
+    "name": "زرد"
+  },
+  {
+    "analyzer_id": "b6610ac1-5af3-4a10-9e43-68a000191c6c",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "458b196c-82d3-4161-affc-1d5c79feddff",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "628c83f9-5ed5-4045-833f-3991891c7a95",
+    "name": "کودک"
+  },
+  {
+    "analyzer_id": "e358326f-7f8c-4068-9a24-6b8effc88560",
+    "name": "چگونه"
+  },
+  {
+    "analyzer_id": "5d4f0d1c-a212-4c7d-9d21-4eb99578da37",
+    "name": "پست"
+  },
+  {
+    "analyzer_id": "557ed610-b985-4e8b-b748-0abd165981b7",
+    "name": "آن"
+  },
+  {
+    "analyzer_id": "d7f00cd5-6379-4383-a2d8-62699f53934b",
+    "name": "دوم"
+  },
+  {
+    "analyzer_id": "d61f4829-657e-460c-ad89-a226c7e3461d",
+    "name": "من"
+  },
+  {
+    "analyzer_id": "d50258de-2ad2-4d51-ab53-32656c80d6b5",
+    "name": "پادشاه"
+  },
+  {
+    "analyzer_id": "7ba14ead-70a3-4e60-a653-a9462a72022e",
+    "name": "کودکان"
+  },
+  {
+    "analyzer_id": "0d6e6565-17ca-44e5-a3de-bc49e219aa7a",
+    "name": "اره"
+  },
+  {
+    "analyzer_id": "7a65c354-80fe-45cc-b929-62b0d3e5c4f0",
+    "name": "شش"
+  },
+  {
+    "analyzer_id": "1365ea6d-ff64-4ad2-b990-307a8f8f86d9",
+    "name": "درمورد"
+  },
+  {
+    "analyzer_id": "2be96287-38dc-4428-ab5f-8e0e49f8e523",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "a7863882-1c08-424a-bfa0-7a27cd48fd94",
+    "name": "می‌خواهم"
+  },
+  {
+    "analyzer_id": "6e924b64-85b8-4e45-86db-f535b72e5c6a",
+    "name": "هنوز"
+  },
+  {
+    "analyzer_id": "753360d4-07eb-4243-912b-781cd8bd8127",
+    "name": "شما"
+  },
+  {
+    "analyzer_id": "d344afea-cb56-4117-a379-a23644e4fc8f",
+    "name": "کت"
+  },
+  {
+    "analyzer_id": "4a43b4be-2bf5-4a8a-a81f-02de075e5a86",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "7a64f717-9c4b-4b5b-b1c0-e59d58c028d1",
+    "name": "انگشت"
+  },
+  {
+    "analyzer_id": "cdbe8f3e-5bda-47b9-88c4-4a7a66444744",
+    "name": "ماهی"
+  },
+  {
+    "analyzer_id": "ffd5da8d-45c0-4916-9865-cd53d6f7d169",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "9700215b-3bf1-480b-9df4-24fd9cebc5d0",
+    "name": "یادداشت"
+  },
+  {
+    "analyzer_id": "8296eb81-287e-4706-aa49-af97b3b70126",
+    "name": "ماه"
+  },
+  {
+    "analyzer_id": "eb76caca-8e9c-41f5-ac60-710fbe950652",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "c60a2e22-fc7e-4c48-b544-b4c4672b11fe",
+    "name": "گردن"
+  },
+  {
+    "analyzer_id": "44de2824-3756-49be-bda9-9267c6ee2d23",
+    "name": "شکل"
+  },
+  {
+    "analyzer_id": "9eb8c730-c6d8-4567-9aee-29ea3a0902bd",
+    "name": "تک"
+  },
+  {
+    "analyzer_id": "5ed23ab2-781f-4869-b240-efd6079b14e5",
+    "name": "خانه"
+  },
+  {
+    "analyzer_id": "34a29803-aaaa-40d1-8adf-699361f07779",
+    "name": "فروش"
+  },
+  {
+    "analyzer_id": "1f5af612-bd03-45ad-b746-a49fbfa63830",
+    "name": "سه"
+  },
+  {
+    "analyzer_id": "a2535447-17aa-46f1-85d7-4313a9f87d85",
+    "name": "صد"
+  },
+  {
+    "analyzer_id": "4ee3803e-5d78-406a-9939-847e55d309c8",
+    "name": "سریع"
+  },
+  {
+    "analyzer_id": "09e057d1-c373-4ae0-99bc-5dde6a6be1a6",
+    "name": "کامل"
+  },
+  {
+    "analyzer_id": "5dff9dea-6b7c-4e44-b68f-a8a7dea3623f",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "acaf59c3-2f3d-40c3-b960-e293195db4ac",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "0ecdd5d2-aae7-4886-ae54-c242126ad1f0",
+    "name": "اکسیژن"
+  },
+  {
+    "analyzer_id": "07b2d0c3-649f-4643-ba6f-6891ffe0efef",
+    "name": "زور"
+  },
+  {
+    "analyzer_id": "94af516f-c927-44f6-85eb-acea48ae47aa",
+    "name": "شروع"
+  },
+  {
+    "analyzer_id": "490bcb73-db0d-4eef-9e39-3616e8293ed7",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "70e0f7b1-016a-4d6a-b35e-cca0d930ae50",
+    "name": "و"
+  },
+  {
+    "analyzer_id": "8f0bb44d-1cd9-47d5-a014-3efe7c216d92",
+    "name": "پنجره"
+  },
+  {
+    "analyzer_id": "5fa3fe7e-f24d-438b-9e13-8da6f2bdabf0",
+    "name": "دهان"
+  },
+  {
+    "analyzer_id": "f3c8ed81-7000-46fc-a418-c6470359c75a",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "1f17d41c-8de0-4c52-b791-731f89bad278",
+    "name": "کوتاه"
+  },
+  {
+    "analyzer_id": "2c487c89-8a52-4b2b-b2f0-e6402a06924d",
+    "name": "آرام"
+  },
+  {
+    "analyzer_id": "9062795e-ce7d-4478-b8be-d3ba58bf2f58",
+    "name": "شب"
+  },
+  {
+    "analyzer_id": "a94aa708-ad4d-493f-a2e7-1a515a9f95cf",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "d639038b-bdd2-4dda-954f-2313ae87eb67",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "a6833416-c965-4af1-8469-2870aaafb462",
+    "name": "بخش"
+  },
+  {
+    "analyzer_id": "cd8fe56a-2589-4ee0-bebb-077fb569dd1e",
+    "name": "بینی"
+  },
+  {
+    "analyzer_id": "17b7f526-4ce7-447a-a0a6-9b9b1e549c10",
+    "name": "پشتیبانی"
+  },
+  {
+    "analyzer_id": "cd61dd51-22ff-4893-bf17-c505a5fafb64",
+    "name": "سخنرانی"
+  },
+  {
+    "analyzer_id": "c751fe4f-0bc4-4069-9830-4e53da1a6039",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "9c0733d3-1c92-497b-942c-e2afc6d4ead7",
+    "name": "کوه"
+  },
+  {
+    "analyzer_id": "64ce92d2-32ba-49c5-8da3-efdef4d851bd",
+    "name": "رفته"
+  },
+  {
+    "analyzer_id": "9f66ef75-b46a-43ff-86e4-c1a0a1ccc559",
+    "name": "فرار"
+  },
+  {
+    "analyzer_id": "cc4ccee7-03c5-467f-8894-b8ab8fbcf4cf",
+    "name": "تماشای"
+  },
+  {
+    "analyzer_id": "7ce700b1-75ac-494c-bab5-fb5e29c30206",
+    "name": "ببینید"
+  },
+  {
+    "analyzer_id": "f4af73c4-761d-40d9-bb07-7a7a303c9c9c",
+    "name": "شکل"
+  },
+  {
+    "analyzer_id": "fc852859-513b-4de7-a3ee-4e1e94e8aa61",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "5d996965-acbe-41bc-8ac6-e21e8b06cd4b",
+    "name": "است"
+  },
+  {
+    "analyzer_id": "94bcd63e-bbf5-48af-805b-9b8c2abe3df6",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "d698ffc5-e2f7-4d4c-9aa8-c8b812f2238d",
+    "name": "جمع"
+  },
+  {
+    "analyzer_id": "6fa226b1-919a-4a19-8345-0f6abe2fe0aa",
+    "name": "چشم"
+  },
+  {
+    "analyzer_id": "a697f86f-d235-4e22-bde3-a93de51c34ff",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "a9e1c0d4-5d28-4081-87d7-c584bf8bb127",
+    "name": "خریداری"
+  },
+  {
+    "analyzer_id": "c5a166e2-7190-4725-8413-0e1323d63b35",
+    "name": "کمترین"
+  },
+  {
+    "analyzer_id": "10f32f38-5e74-4c6d-bfa0-fdad70ed84af",
+    "name": "هنوز"
+  },
+  {
+    "analyzer_id": "0d77c0da-0a96-4583-8773-1c9ddd1d9480",
+    "name": "تاریخ"
+  },
+  {
+    "analyzer_id": "57d4f1f7-e80c-4110-a484-fa94f30f1b05",
+    "name": "آمده"
+  },
+  {
+    "analyzer_id": "f476c56e-e178-4a8a-83aa-650c251b9a2a",
+    "name": "کلید"
+  },
+  {
+    "analyzer_id": "74119b50-982d-4be5-8b8e-d12750ed77ef",
+    "name": "مردم"
+  },
+  {
+    "analyzer_id": "5f9c9b8c-d530-4ffe-a09c-fca7c4938d67",
+    "name": "فعل"
+  },
+  {
+    "analyzer_id": "b102716d-efc3-4e6f-95b4-f28f0e021540",
+    "name": "ملاقات"
+  },
+  {
+    "analyzer_id": "469e0028-dbb1-4a19-b87f-67ccf1be60fd",
+    "name": "حتی"
+  },
+  {
+    "analyzer_id": "56a8ed3c-060d-40fe-ac00-d8139eba1f3d",
+    "name": "اینچ"
+  },
+  {
+    "analyzer_id": "7aa19f7f-abba-4dc1-850f-5d4d3aa5afa4",
+    "name": "ضخامت"
+  },
+  {
+    "analyzer_id": "d144ea0e-b8ad-4e16-a395-229e69993a1c",
+    "name": "بالابردن"
+  },
+  {
+    "analyzer_id": "cfee81c6-981d-4f9f-b5b7-9f20437c734b",
+    "name": "گروه"
+  },
+  {
+    "analyzer_id": "1bb37ec4-e7e1-4ab7-a7ac-e9f9026a317d",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "e9ae6f0a-2a26-4e43-891a-3522624b3460",
+    "name": "بانک"
+  },
+  {
+    "analyzer_id": "108e8192-8c92-4fbb-bff8-46a273e8b5b5",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "30677b61-9020-4229-b743-832a8385cce9",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "c37c06a8-d874-4085-ac64-bbdf17c0bc38",
+    "name": "واحد"
+  },
+  {
+    "analyzer_id": "e94b6142-6a92-4236-ad1c-9c340e72749e",
+    "name": "مناسب"
+  },
+  {
+    "analyzer_id": "e05caddd-3c5a-46e5-b74b-f5113d52a725",
+    "name": "اساسی"
+  },
+  {
+    "analyzer_id": "dd794ced-e011-4249-9746-49ab034c044f",
+    "name": "زنگ"
+  },
+  {
+    "analyzer_id": "e57fef3c-20bd-4865-b2a6-a0b401f2f31b",
+    "name": "دفتر"
+  },
+  {
+    "analyzer_id": "7d658271-1c11-4947-8dfb-b98fc26f3615",
+    "name": "احساس"
+  },
+  {
+    "analyzer_id": "755f95f9-8dda-4ca7-a8f5-60f978e01c4b",
+    "name": "تمیز"
+  },
+  {
+    "analyzer_id": "8a6144fd-f936-480a-9548-580ad76910de",
+    "name": "پوسته"
+  },
+  {
+    "analyzer_id": "114c3c0c-60e6-47e0-98d9-83f1fc619711",
+    "name": "ضخامت"
+  },
+  {
+    "analyzer_id": "933b9e14-737e-44e1-8353-eb73dcc6f34b",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "e8c6a609-c3bf-4a6c-9c04-97ad8632ad6e",
+    "name": "کلاه"
+  },
+  {
+    "analyzer_id": "c0644a97-6366-4936-b517-48a582becd1d",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "14a43bc0-4ff3-4850-ae90-73553e1e8135",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "b0a9e02b-22be-42d3-884b-df1ba083b47e",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "162d4c7e-3c55-44dd-a8b6-d6693a3f7dc1",
+    "name": "ایستگاه"
+  },
+  {
+    "analyzer_id": "9a624d9f-3f4a-469a-aaee-cdb4421b8f42",
+    "name": "کمی"
+  },
+  {
+    "analyzer_id": "93ab2785-6f81-4792-8e0d-c3086c7c7de7",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "1816eec4-119d-4c62-9fe2-2bc95878beb5",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "cc1898cb-cb4a-4fea-8c90-97fde4683fc9",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "94df1423-b433-459b-a03d-8c873e62d38d",
+    "name": "زمستان"
+  },
+  {
+    "analyzer_id": "e4fec852-5f70-441e-83ff-abf072e23792",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "84464230-1226-4411-bb5d-59627a370973",
+    "name": "سخت"
+  },
+  {
+    "analyzer_id": "b4a5e133-5088-411f-a0a0-93fbe2dce2e1",
+    "name": "حرکت"
+  },
+  {
+    "analyzer_id": "3956b608-af58-4b90-a3dc-eec6021263bc",
+    "name": "جعبه"
+  },
+  {
+    "analyzer_id": "42268c58-97f1-422e-81c3-87002fbcd721",
+    "name": "زنگ"
+  },
+  {
+    "analyzer_id": "6adff57f-0f15-4a15-a779-a4a97d8acb0c",
+    "name": "دور"
+  },
+  {
+    "analyzer_id": "e3582892-5cc2-4b22-a711-db7f0b4ae10e",
+    "name": "تاریک"
+  },
+  {
+    "analyzer_id": "a70451dc-41ba-4d73-a17a-82c334470cb6",
+    "name": "سنگ"
+  },
+  {
+    "analyzer_id": "1e434f23-b6e1-4471-8673-c74847127e1d",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "ed45fb7d-94a4-41d8-802c-f9c961c4e24b",
+    "name": "فوری"
+  },
+  {
+    "analyzer_id": "7a8bb81f-9669-4e3e-9b88-08f89a87918b",
+    "name": "جوجه"
+  },
+  {
+    "analyzer_id": "e39033bb-3782-43d6-8754-c3c0d61ddf15",
+    "name": "دقیقه"
+  },
+  {
+    "analyzer_id": "d9f3e980-e8ff-444b-a3c2-66321a4850c9",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "290d5b8b-303f-423c-bd05-9729c02b977b",
+    "name": "ساحل"
+  },
+  {
+    "analyzer_id": "ee5ff30d-9dfb-48ae-96e7-c1fcff82feab",
+    "name": "محل"
+  },
+  {
+    "analyzer_id": "865d3c5c-6a1c-44a0-b316-075fad7e3f23",
+    "name": "ریشه"
+  },
+  {
+    "analyzer_id": "7e7dd9f4-e032-4941-ba47-43dc0c4bfc22",
+    "name": "دربرابر"
+  },
+  {
+    "analyzer_id": "6beff41c-bc24-40be-9513-47fa4fb97cf9",
+    "name": "صنعت"
+  },
+  {
+    "analyzer_id": "4d03f96f-fed2-4680-86d3-0a0544900229",
+    "name": "موج"
+  },
+  {
+    "analyzer_id": "4e6d1a51-93f3-4adc-9527-12b6776beb3f",
+    "name": "سفید"
+  },
+  {
+    "analyzer_id": "7b4abb78-26bb-4d2d-92ba-ba83befb16cb",
+    "name": "بحث"
+  },
+  {
+    "analyzer_id": "f7771aa6-3692-47ec-a8fa-f7a8ee2c1b65",
+    "name": "دو"
+  },
+  {
+    "analyzer_id": "960d805d-71f2-481a-9dc1-fb932eca734a",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "e328bade-9e0e-42a6-9e01-ae8bd02e3475",
+    "name": "شاخه"
+  },
+  {
+    "analyzer_id": "ddbcf1d8-a9a7-49d5-9fb2-8a234e7b9fc7",
+    "name": "اهن"
+  },
+  {
+    "analyzer_id": "be9fad71-d065-4969-874a-46ab59e13426",
+    "name": "امیدوارم"
+  },
+  {
+    "analyzer_id": "9cbd6f36-630e-4d58-804e-228d2968a6d9",
+    "name": "آهنگ"
+  },
+  {
+    "analyzer_id": "757ce5a5-db62-4873-9883-680c6ba364bc",
+    "name": "نرده"
+  },
+  {
+    "analyzer_id": "24a4338f-83a4-4795-99b7-f255f8e2a4fe",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "a0db9e8b-51d0-41e6-810a-a9d4a0550cd1",
+    "name": "برای"
+  },
+  {
+    "analyzer_id": "5e3418f9-f408-481e-afe8-3620094047a0",
+    "name": "گاز"
+  },
+  {
+    "analyzer_id": "a287ea71-4872-4e18-b61e-66ccdfc8e3a4",
+    "name": "مقایسه"
+  },
+  {
+    "analyzer_id": "f3b46273-3ebe-41cb-bf7d-b540ae8eae6c",
+    "name": "کتاب"
+  },
+  {
+    "analyzer_id": "5a1fdbfc-212c-405d-913a-b8c89ee2ac9a",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "ca727a09-3327-481b-a378-72c2ad24dfc3",
+    "name": "رودخانه"
+  },
+  {
+    "analyzer_id": "a85c3788-a18e-4709-bf58-e3fa131635ae",
+    "name": "پیشنهاد"
+  },
+  {
+    "analyzer_id": "7193e6c1-aa78-4ce7-ac17-af3cb0b018ad",
+    "name": "روشن"
+  },
+  {
+    "analyzer_id": "902f744a-528f-447b-8ed0-d71a7664d53a",
+    "name": "درخشش"
+  },
+  {
+    "analyzer_id": "4a0d746e-51cc-4bda-ad61-0389ae70edde",
+    "name": "سرمایه"
+  },
+  {
+    "analyzer_id": "b7bdd9b5-1175-432c-8a86-6d937227c359",
+    "name": "نهایی"
+  },
+  {
+    "analyzer_id": "d67a2c8d-3d70-408b-89e4-4f3fd1e32bd0",
+    "name": "قند"
+  },
+  {
+    "analyzer_id": "ae4ac9d2-2799-4225-b9a7-a7f145249ff9",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "c8dc2ac1-f54e-4db3-b397-67c107c2c967",
+    "name": "بند"
+  },
+  {
+    "analyzer_id": "16fa0dd6-ce87-403d-89c0-6d1e6c27f28a",
+    "name": "درست"
+  },
+  {
+    "analyzer_id": "860f2011-1e0e-4aea-aee9-a9fda232b320",
+    "name": "گرفتار"
+  },
+  {
+    "analyzer_id": "ad497374-76f3-4ac3-9df4-c85182c06f18",
+    "name": "دو"
+  },
+  {
+    "analyzer_id": "f7898e5f-d94d-4676-9287-acb1b461d094",
+    "name": "حشرات"
+  },
+  {
+    "analyzer_id": "750f2525-3239-46ec-9e37-f9abc80a8056",
+    "name": "دایره"
+  },
+  {
+    "analyzer_id": "5333387d-bfe5-491d-8f74-6e139d59a6b6",
+    "name": "ملایم"
+  },
+  {
+    "analyzer_id": "869224e3-bf43-4a60-901c-b696d76e0c93",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "7a75b84a-8f63-4c55-aa2f-1e8f6ac1cf1f",
+    "name": "مطرح"
+  },
+  {
+    "analyzer_id": "365af905-58e2-4d4d-862f-c467f6edb4d4",
+    "name": "آهنگ"
+  },
+  {
+    "analyzer_id": "35b65673-bbe3-4160-944c-c4b136640114",
+    "name": "ابزار"
+  },
+  {
+    "analyzer_id": "d51328c8-57d7-4127-9fc4-64621f96ecdb",
+    "name": "باید"
+  },
+  {
+    "analyzer_id": "4129bc98-0238-4fe6-b959-d9408065a07d",
+    "name": "بنابراین"
+  },
+  {
+    "analyzer_id": "6ddd21ec-4ae2-4c04-9819-2f84f8d2a2ad",
+    "name": "خوردن"
+  },
+  {
+    "analyzer_id": "1997f402-8a29-4f4c-8ba2-4ce43ddf79e4",
+    "name": "کوچک"
+  },
+  {
+    "analyzer_id": "2312e088-a3cd-4f0d-ab5d-c4097d3f7e73",
+    "name": "زیبایی"
+  },
+  {
+    "analyzer_id": "76d5a86c-5d87-4948-8217-4cb6f3b78a25",
+    "name": "با"
+  },
+  {
+    "analyzer_id": "207fc2dd-31bf-4904-8a4e-d025663ec9e4",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "15781c54-cf2c-4dac-8629-651fe97a0a55",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "fcc54bb6-dcc6-4346-8868-2d85c9ab51d7",
+    "name": "بزودی"
+  },
+  {
+    "analyzer_id": "fb1b8c03-d1f3-48ac-8d57-aee893207127",
+    "name": "ابزار"
+  },
+  {
+    "analyzer_id": "9c3eeff4-0d9e-4da1-9a4b-eeb36f60c7ea",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "fd07acd3-842f-4e54-a56a-519037632f60",
+    "name": "حرارت"
+  },
+  {
+    "analyzer_id": "f4106892-174f-4292-b4e6-64a348fc0dcf",
+    "name": "سوم"
+  },
+  {
+    "analyzer_id": "5555f982-2df5-4290-b68b-be03eaefdc44",
+    "name": "محل"
+  },
+  {
+    "analyzer_id": "d08d44f7-6697-4f3c-bce3-214c26c7c97a",
+    "name": "رنگ"
+  },
+  {
+    "analyzer_id": "70e26f2a-37f3-4ba3-97d9-1a1e4343f4f4",
+    "name": "لاستیک"
+  },
+  {
+    "analyzer_id": "2aaf84ea-1e63-4a7b-b8c1-a3ea1666c8d9",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "7270175e-fbae-4dc4-b57f-b28e7d3fb6c8",
+    "name": "کم"
+  },
+  {
+    "analyzer_id": "626a2e73-f874-431f-8887-ed9d6f5a936e",
+    "name": "بگو"
+  },
+  {
+    "analyzer_id": "e38bfcb0-aad5-422a-8a39-68b7e3248c7c",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "6f8569c8-bea5-4fb5-8ac2-f52734fa00db",
+    "name": "پیش"
+  },
+  {
+    "analyzer_id": "c4331cd8-f6f3-418e-aa29-3a2fa7dc5177",
+    "name": "بال"
+  },
+  {
+    "analyzer_id": "1e20a542-bd68-4369-9076-fd1daf0611a7",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "8ac0f51b-d2ab-4eca-90b8-34162e696e78",
+    "name": "برنامه"
+  },
+  {
+    "analyzer_id": "e86b7a74-3ba4-4a44-a61d-3981e195fae8",
+    "name": "شاید"
+  },
+  {
+    "analyzer_id": "18edd58a-5fea-429c-8481-80c001ebe044",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "11acc355-8660-4282-b197-ca9e2e56e39c",
+    "name": "کشش"
+  },
+  {
+    "analyzer_id": "13a0582c-94f0-47f6-8d47-e57633474f23",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "46a78990-e84b-4e2d-9789-1005523cbd5d",
+    "name": "فصل"
+  },
+  {
+    "analyzer_id": "9cf25096-0d4e-4f6f-8ed8-084c008d547c",
+    "name": "می‌توانید"
+  },
+  {
+    "analyzer_id": "7f6da322-aadf-4266-9a11-d8adeda2259e",
+    "name": "نوع"
+  },
+  {
+    "analyzer_id": "ab94acee-9af8-474e-b10a-c9e25cecd00b",
+    "name": "معروف"
+  },
+  {
+    "analyzer_id": "7641269a-b9ea-474a-a78b-493f019081c9",
+    "name": "دامنه"
+  },
+  {
+    "analyzer_id": "ed540b57-4797-4376-8761-4db81f7a47c8",
+    "name": "تاریخ"
+  },
+  {
+    "analyzer_id": "782a47e7-c982-4a9b-a6bd-9b5772b02eb1",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "1f846d7f-e639-4e69-9971-cb8200505137",
+    "name": "کوه"
+  },
+  {
+    "analyzer_id": "51932256-32f8-47a0-9d3c-1536d8db2f09",
+    "name": "نرم"
+  },
+  {
+    "analyzer_id": "be2baa58-f642-4518-992b-fd4d651905fe",
+    "name": "دریاچه"
+  },
+  {
+    "analyzer_id": "0c9c4496-07dc-4b28-9004-2eadd8c71652",
+    "name": "شود"
+  },
+  {
+    "analyzer_id": "fd60bbe9-73f5-4449-9073-47f261dfb4e9",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "77fc6d18-5ab9-41c5-a4d2-4d05ce93e10e",
+    "name": "حتی"
+  },
+  {
+    "analyzer_id": "e80107c6-e98c-43c7-9c05-19bdcb9208b9",
+    "name": "ملایم"
+  },
+  {
+    "analyzer_id": "0a076573-9118-44e7-bdab-8df97b63bec0",
+    "name": "باز"
+  },
+  {
+    "analyzer_id": "2f850925-5e5a-4130-90bb-aa052958b9ee",
+    "name": "خون"
+  },
+  {
+    "analyzer_id": "13a2c319-22f5-426f-8483-37902d5aae1b",
+    "name": "تماشای"
+  },
+  {
+    "analyzer_id": "9084cfe7-d5af-45c4-b4f4-76e510613ac5",
+    "name": "سطح"
+  },
+  {
+    "analyzer_id": "23e267c9-5478-43d9-bd31-19dc5148ac43",
+    "name": "سطح"
+  },
+  {
+    "analyzer_id": "3803becd-4e77-4dd7-aaf1-c11e44bb0514",
+    "name": "شهرستان"
+  },
+  {
+    "analyzer_id": "0e694f4b-9740-4f51-a92c-37ae0374073d",
+    "name": "ضربه"
+  },
+  {
+    "analyzer_id": "161bcd61-fb3a-4035-bb04-e73179290471",
+    "name": "ایده"
+  },
+  {
+    "analyzer_id": "8bb50010-8c57-4ef0-a1fd-e75e2860724f",
+    "name": "یخ"
+  },
+  {
+    "analyzer_id": "c4c60546-d093-4464-9c26-84a146703ea6",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "9acc07a5-8f85-4725-b736-4b4ccc82628b",
+    "name": "سبز"
+  },
+  {
+    "analyzer_id": "2c706133-7498-4e08-b1ab-32bb665a609f",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "b8356ae3-e80e-4ee0-bc7c-8cb5f7faa412",
+    "name": "دکتر"
+  },
+  {
+    "analyzer_id": "c9e4a16e-9e51-471c-9326-dbde235d1a25",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "e55ee7c0-053d-4643-a29d-425c1e45ce9b",
+    "name": "گاو"
+  },
+  {
+    "analyzer_id": "af0f3e92-039d-48b4-88be-8c54abada317",
+    "name": "اثر"
+  },
+  {
+    "analyzer_id": "0eb19dc1-37ce-431d-adcd-1f48c94e3fc9",
+    "name": "تعداد"
+  },
+  {
+    "analyzer_id": "387f00cc-5496-4520-815a-54e28c64f682",
+    "name": "شعر"
+  },
+  {
+    "analyzer_id": "45985e4d-98c7-49ba-9960-b663e18424aa",
+    "name": "هرچند"
+  },
+  {
+    "analyzer_id": "3cfbb922-2355-479d-8dd0-559906098d87",
+    "name": "خانواده"
+  },
+  {
+    "analyzer_id": "bd85ec13-8c0b-4c8d-9b2f-d5880dc924d2",
+    "name": "لطفا"
+  },
+  {
+    "analyzer_id": "e4f4b97e-fc12-4d49-a3c0-e5555588c9ec",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "c7551a50-183b-4e6a-b5a5-a0241a2d83f3",
+    "name": "تیز"
+  },
+  {
+    "analyzer_id": "156cc05b-d89b-4f21-b1d3-3fa40b035378",
+    "name": "نیم"
+  },
+  {
+    "analyzer_id": "df6812ff-fd17-40e8-b1c7-bcc6e4919d04",
+    "name": "کاپیتان"
+  },
+  {
+    "analyzer_id": "dd6a63eb-51bc-4f25-8672-485f056e2064",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "4c6c003f-4aa8-4d7c-a6d5-4d77ced9fadb",
+    "name": "تابستان"
+  },
+  {
+    "analyzer_id": "e508b94c-20c0-4bce-9f32-213c395f7f95",
+    "name": "برای"
+  },
+  {
+    "analyzer_id": "fad87c4f-0d1a-4197-876e-e42f198b05b9",
+    "name": "مدت"
+  },
+  {
+    "analyzer_id": "f158222f-486a-425e-85b1-4fd6397243e4",
+    "name": "نامه"
+  },
+  {
+    "analyzer_id": "b3e702ce-a490-4593-af5d-883b493a0a8f",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "27bd40e0-e7ca-4ebf-97c1-b5cad6793c4e",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "6b613923-65f1-4892-b31a-d8cbad305f36",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "44e8449e-b6b2-4288-bfa2-6c9b78ea18cb",
+    "name": "دریا"
+  },
+  {
+    "analyzer_id": "86fbd1b6-7efb-4d53-bac0-1ab677822c16",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "9757f03b-4286-4519-ac6f-89b9e2409cc6",
+    "name": "مرد"
+  },
+  {
+    "analyzer_id": "3a3aea79-c4e7-49ba-806d-198ef46a3f48",
+    "name": "نور"
+  },
+  {
+    "analyzer_id": "a83aeff4-e33b-48da-b9ca-67950556e8a2",
+    "name": "درایو"
+  },
+  {
+    "analyzer_id": "7d4941cb-ac57-4214-8172-023350221022",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "69902cff-4fa7-4a20-a3bc-fdcfa4d67d63",
+    "name": "دکتر"
+  },
+  {
+    "analyzer_id": "f00e26a8-0990-45eb-9fa2-a098bf63a754",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "52f0c74d-4e7d-4d1f-94f8-014d662119cc",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "e5014dc9-24cf-4e42-9b31-339f9cb0205f",
+    "name": "آن‌ها"
+  },
+  {
+    "analyzer_id": "11115c85-0e0e-4f19-8791-1728b0f6fcdc",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "3762eb4e-47cb-4744-88cc-a21c4091966d",
+    "name": "احتمالی"
+  },
+  {
+    "analyzer_id": "57b7d189-18b8-4c41-a397-7fc153eaceb2",
+    "name": "صبر"
+  },
+  {
+    "analyzer_id": "1bba3403-7f6b-4573-b9bb-9cbf25e305c9",
+    "name": "رسیدن"
+  },
+  {
+    "analyzer_id": "2f526559-01ae-443c-a32e-ef751abc6f88",
+    "name": "کشتی"
+  },
+  {
+    "analyzer_id": "0a11a68b-f809-4fe3-a0be-a7089227efc3",
+    "name": "صعود"
+  },
+  {
+    "analyzer_id": "3a27d1fe-b783-484d-8b23-9ac713f88de3",
+    "name": "ضعیف"
+  },
+  {
+    "analyzer_id": "6449d8ca-3a2b-46c4-b048-a0d689481254",
+    "name": "لبخند"
+  },
+  {
+    "analyzer_id": "a58642a7-1881-4a08-bc1e-d3d8118c8a1a",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "345bbde9-5ca3-410f-8e39-2e15ca442470",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "fc16bfdd-76dd-46b9-b937-e68216c87d7b",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "e5f9ee7f-e30e-4a4f-bf05-6976a7c93937",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "d917479b-dbb0-426a-801a-7dd8261f9aa1",
+    "name": "باد"
+  },
+  {
+    "analyzer_id": "f93a2d42-b5ad-4ce8-a068-f28b6aa62a3a",
+    "name": "سخت"
+  },
+  {
+    "analyzer_id": "754dc551-f281-4848-bb2e-df4a481178f9",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "0d96512e-6a57-4f9f-8b37-84fc6526d67d",
+    "name": "سمت"
+  },
+  {
+    "analyzer_id": "2bf0adf7-f631-4526-af90-ac632593dfdd",
+    "name": "شنا"
+  },
+  {
+    "analyzer_id": "8024913a-9284-4cb6-9ad1-7480e34b9228",
+    "name": "دیگر"
+  },
+  {
+    "analyzer_id": "ca4f5db3-fc74-43d3-95e4-660b88781d28",
+    "name": "ماهی"
+  },
+  {
+    "analyzer_id": "222daceb-9652-41fd-8608-b289e9605321",
+    "name": "وجوددارد"
+  },
+  {
+    "analyzer_id": "b53cf47a-587e-4e73-a3b9-72e1d248bbd5",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "6d05b495-0b8a-4881-8f8a-ad89df38a305",
+    "name": "چهار"
+  },
+  {
+    "analyzer_id": "563bf24a-630a-4747-bd98-4b1fa8382c90",
+    "name": "دفتر"
+  },
+  {
+    "analyzer_id": "0a40a43b-64d0-4062-8ab3-9ee5382ae4a1",
+    "name": "سفید"
+  },
+  {
+    "analyzer_id": "78191331-d22b-4123-b1db-28eade9bc0bc",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "db8bc3b5-82c8-49fe-881b-1fd445a22048",
+    "name": "بازی"
+  },
+  {
+    "analyzer_id": "eee5154f-60a0-4f1b-90bc-b62be2cf56dc",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "09576239-0aa2-4548-8cef-168d803f6019",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "f8cbe12c-595e-434d-b1d8-34ed288eefc8",
+    "name": "شهر"
+  },
+  {
+    "analyzer_id": "51d486ee-54fa-4622-a852-d6a136d3253d",
+    "name": "پوشاندن"
+  },
+  {
+    "analyzer_id": "980fe780-b3e2-4f1c-a2f3-39240df387b0",
+    "name": "مایع"
+  },
+  {
+    "analyzer_id": "961fc774-c682-4722-af1f-c7c6fcda8058",
+    "name": "اسب"
+  },
+  {
+    "analyzer_id": "5e17dfae-3523-4c63-9692-2a8ce6daea8e",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "24c9bef4-f2e8-416b-bbda-c6cd9fcee43e",
+    "name": "ذرت"
+  },
+  {
+    "analyzer_id": "e9fa561f-4500-46d9-b6bb-8b873799fe68",
+    "name": "سرعت"
+  },
+  {
+    "analyzer_id": "7c25cbc7-f2bc-40a9-abb3-9b36fae06f33",
+    "name": "عضویت"
+  },
+  {
+    "analyzer_id": "9f8aaafd-8b0c-4c50-a968-8067cdfcb7f5",
+    "name": "هوا"
+  },
+  {
+    "analyzer_id": "7373f638-bd1a-47f8-9abe-8223c3fbd29b",
+    "name": "بالا"
+  },
+  {
+    "analyzer_id": "021c194a-8b96-4a10-bdd9-9d155771d75f",
+    "name": "آتش"
+  },
+  {
+    "analyzer_id": "380b891d-1e69-4d9f-841d-816f8247cf19",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "ff684894-7482-49e8-b429-30c02cb5adab",
+    "name": "تکرار"
+  },
+  {
+    "analyzer_id": "4a77f8d8-e7ad-4acb-b583-2ad6ccb023cd",
+    "name": "روستای"
+  },
+  {
+    "analyzer_id": "af7f5cce-84c4-4884-b2d7-7ea1ab1c9069",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "88e3faf6-7612-47e8-851f-325ca460ce97",
+    "name": "محصول"
+  },
+  {
+    "analyzer_id": "f908bc1f-6612-4663-919c-69d709d2c16f",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "fbb9435b-3243-4954-9682-0ed45a325fca",
+    "name": "اسلحه"
+  },
+  {
+    "analyzer_id": "b05cd74b-9aba-4383-b6f5-3b61def4ac7c",
+    "name": "غرب"
+  },
+  {
+    "analyzer_id": "09c04e00-6167-48d9-9103-56132a26f493",
+    "name": "کلید"
+  },
+  {
+    "analyzer_id": "5601eae5-16d7-42cd-b044-063823bd43e5",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "f06fdaa1-032d-4c66-bbf2-05738aeda440",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "fed7086d-76e7-4b39-b5ad-845c7de97e48",
+    "name": "نمد"
+  },
+  {
+    "analyzer_id": "ad32796b-039d-4e8d-8321-05aec025b0ef",
+    "name": "مراقبت"
+  },
+  {
+    "analyzer_id": "e654ada2-ab64-4d23-bea6-0ae0ca2491e1",
+    "name": "شمال"
+  },
+  {
+    "analyzer_id": "ff156d1b-73c2-4417-b77c-7d2a08644120",
+    "name": "تازه"
+  },
+  {
+    "analyzer_id": "8911f4c3-426e-4639-a0e2-83f0794f6c8c",
+    "name": "ثابت"
+  },
+  {
+    "analyzer_id": "18845136-a713-4e48-84ff-c7ffe1e8c4a8",
+    "name": "گام"
+  },
+  {
+    "analyzer_id": "7f0920e6-1819-47b6-926b-1da0c61cf565",
+    "name": "حوزه"
+  },
+  {
+    "analyzer_id": "e2fc4deb-2f4c-48d6-b96c-68a23a003176",
+    "name": "کل"
+  },
+  {
+    "analyzer_id": "99a976b6-cbeb-45ee-bdb5-a7b78d4854e3",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "5dbee7db-af3d-4488-9373-0ef7fad30576",
+    "name": "ضربه"
+  },
+  {
+    "analyzer_id": "d86359ab-1000-4043-b6dd-4f8a817bb502",
+    "name": "جز"
+  },
+  {
+    "analyzer_id": "39390092-6dcd-48ba-88fa-1289eb7a5606",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "5e4d4c10-21e7-4308-b2e5-3d21a1c2f948",
+    "name": "بانک"
+  },
+  {
+    "analyzer_id": "8d649c5b-ba16-4e78-ae75-ea03ada0ab3d",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "51d7ef14-4e2d-4344-908c-d499b899cab5",
+    "name": "برای"
+  },
+  {
+    "analyzer_id": "702bafd6-670c-4a43-915c-b33a09fbb47e",
+    "name": "کودکان"
+  },
+  {
+    "analyzer_id": "51bda543-5433-463d-8155-66048bd3ea57",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "978689ac-cbff-4d39-ac4c-f706e8da4025",
+    "name": "می‌دانم"
+  },
+  {
+    "analyzer_id": "8cd1ab44-e69f-4de8-95a5-2de1681bace3",
+    "name": "نرم"
+  },
+  {
+    "analyzer_id": "f79b5f21-ca7a-4eda-a4aa-ea33156a52fd",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "4f8d0728-1258-44f1-a6f2-1b9b8157d5ca",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "b3a98db3-13ed-4fa1-b617-64f6b500fab9",
+    "name": "اساسی"
+  },
+  {
+    "analyzer_id": "1438db4b-6628-47eb-9227-5953469b5529",
+    "name": "قند"
+  },
+  {
+    "analyzer_id": "22719001-2e34-494e-8d55-3acf1e06f207",
+    "name": "شانس"
+  },
+  {
+    "analyzer_id": "0769136d-0c28-4bb7-81c8-e7343ca251a7",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "85f6cb0f-34d5-4092-a4d2-4a8c55294cfd",
+    "name": "بازار"
+  },
+  {
+    "analyzer_id": "f07c9e7e-5397-40dc-bed3-8356681c63e0",
+    "name": "آرام"
+  },
+  {
+    "analyzer_id": "9ce465d0-bba4-4541-b1ff-c5255edfc967",
+    "name": "خشم"
+  },
+  {
+    "analyzer_id": "4febe11c-4849-407d-a461-968cc06bb9ef",
+    "name": "دندانها"
+  },
+  {
+    "analyzer_id": "c664a352-ddcc-4b1c-b31b-2f507fa70c59",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "d33b0c93-0e00-49ef-aa71-5345b9e6e26e",
+    "name": "در‌صد"
+  },
+  {
+    "analyzer_id": "a470b5b4-a819-40ff-a5bc-81cb08d31fc8",
+    "name": "ایستگاه"
+  },
+  {
+    "analyzer_id": "8dccf021-a4a1-4889-955d-666827805d29",
+    "name": "متفاوت"
+  },
+  {
+    "analyzer_id": "6c93b718-5661-48ed-b0a9-f4b10d6f6a5c",
+    "name": "پوشاندن"
+  },
+  {
+    "analyzer_id": "88a7a652-f5c5-41e5-a594-9c470750e58f",
+    "name": "متفاوت"
+  },
+  {
+    "analyzer_id": "db8ea6cb-78bb-431b-96fd-cf10c72070be",
+    "name": "شرق"
+  },
+  {
+    "analyzer_id": "c3dde46c-90fd-4c06-a578-f05181874c0b",
+    "name": "بازار"
+  },
+  {
+    "analyzer_id": "b57c06c0-caec-456c-a1bf-f139274541dd",
+    "name": "باز"
+  },
+  {
+    "analyzer_id": "e5ad9a85-c5d1-4187-b001-1f5442b5cf42",
+    "name": "ظهر"
+  },
+  {
+    "analyzer_id": "17d0defc-6b50-482c-847f-f7ba75a9012b",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "29981c25-8299-4f17-a6d2-10ac53e9cf74",
+    "name": "برق"
+  },
+  {
+    "analyzer_id": "1ca2c9fb-d907-47be-a6ef-b6a229a7ddf1",
+    "name": "سرد"
+  },
+  {
+    "analyzer_id": "c66fafd6-91cc-4be5-b1fe-9907314cd722",
+    "name": "سبز"
+  },
+  {
+    "analyzer_id": "cb27db8d-92ee-4471-862e-8e325f5be5c3",
+    "name": "رایگان"
+  },
+  {
+    "analyzer_id": "fb8d95ab-252b-4d30-85c8-f34a9d02b520",
+    "name": "صحبت"
+  },
+  {
+    "analyzer_id": "0e1cae9a-37a2-4cf2-8d7c-09e2aad54689",
+    "name": "رئیس"
+  },
+  {
+    "analyzer_id": "259e3cbf-a42f-422e-8818-af82a6cf2d7a",
+    "name": "جدول"
+  },
+  {
+    "analyzer_id": "bc724ecf-b2c7-4759-b444-7a3cdce92a2c",
+    "name": "نفت"
+  },
+  {
+    "analyzer_id": "0b2160fa-7377-444f-9836-8f73e4be4799",
+    "name": "می‌توانید"
+  },
+  {
+    "analyzer_id": "5be3c95a-8d10-4f9d-8c39-de5fb031cb7f",
+    "name": "خطر"
+  },
+  {
+    "analyzer_id": "38dd22c0-123d-489e-869b-0346539d3275",
+    "name": "تماشای"
+  },
+  {
+    "analyzer_id": "1e7d7b88-c8d7-457f-b292-b7144cda953c",
+    "name": "بقیه"
+  },
+  {
+    "analyzer_id": "536abd73-ce99-4c19-8542-58a6cd9784cd",
+    "name": "درست"
+  },
+  {
+    "analyzer_id": "a056aa09-4414-4bc3-a1c7-e44b30edde7f",
+    "name": "بگو"
+  },
+  {
+    "analyzer_id": "72ee6784-e46a-4fe7-ae40-220cb86bd21c",
+    "name": "دقیق"
+  },
+  {
+    "analyzer_id": "429f2b2c-264b-4306-ae40-9de563aaa9d5",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "b6200bd7-2a49-44f9-a3c4-17ddb29dcf1f",
+    "name": "چوب"
+  },
+  {
+    "analyzer_id": "3ab2e410-1216-464d-89f6-5b3c42e24e59",
+    "name": "شانس"
+  },
+  {
+    "analyzer_id": "15887431-bae7-4158-a7c3-10f7118b0cee",
+    "name": "فروشگاه"
+  },
+  {
+    "analyzer_id": "7b79d03b-76ba-4e44-9fa1-c1362b77e49a",
+    "name": "اتصال"
+  },
+  {
+    "analyzer_id": "60d1851a-651a-4745-b1f1-99d6e24d49ac",
+    "name": "جا"
+  },
+  {
+    "analyzer_id": "5aaed80d-1233-4e48-81b9-640dfee11aaf",
+    "name": "دندانها"
+  },
+  {
+    "analyzer_id": "ac3783ef-3336-40a7-b8ff-df2e5f04ba64",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "8bf308bc-f77c-4df3-adee-ac0899485ec4",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "c33d1c5a-4222-42d4-8db8-a0f76703a12f",
+    "name": "روش"
+  },
+  {
+    "analyzer_id": "a52a6287-37d9-4a20-9b55-aea707eb3955",
+    "name": "برق"
+  },
+  {
+    "analyzer_id": "37e47024-5df5-4420-beca-c3c1b1783bd4",
+    "name": "به"
+  },
+  {
+    "analyzer_id": "24e2b76a-7af4-4722-9e8b-48c2d11bf79e",
+    "name": "نشستن"
+  },
+  {
+    "analyzer_id": "cd7fa41a-870b-4599-a63b-5bac9ee30455",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "0c3f27c2-0f02-418b-a519-4e87cc199756",
+    "name": "سبز"
+  },
+  {
+    "analyzer_id": "9573adfe-e366-4d1c-93fc-2aaadda01043",
+    "name": "جنگل"
+  },
+  {
+    "analyzer_id": "ac5d4cd8-53c7-49b5-9ad4-5e6e31c31f29",
+    "name": "سعی‌کنید"
+  },
+  {
+    "analyzer_id": "96d5d15f-c52f-495b-bc9d-166805a50bfa",
+    "name": "قدرت"
+  },
+  {
+    "analyzer_id": "2452daa0-30f5-4204-9900-eeaa5e065f62",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "20a344a5-d4ee-4268-a0cb-74eb1ba58169",
+    "name": "نازک"
+  },
+  {
+    "analyzer_id": "6f90d4b4-3458-43d4-9fd9-2ba21dca8683",
+    "name": "نمایندگی"
+  },
+  {
+    "analyzer_id": "eb9777e0-9f09-4937-adc4-d3014f4e49ea",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "387c5a7b-58e4-4962-ab24-0feaa41ca89e",
+    "name": "کامیون"
+  },
+  {
+    "analyzer_id": "4e7c1f9f-2d43-48ca-ae66-f125a49b8bb7",
+    "name": "هرچند"
+  },
+  {
+    "analyzer_id": "4fc42112-eb27-4440-b19d-93647dc3796b",
+    "name": "کامل"
+  },
+  {
+    "analyzer_id": "54d96eea-930b-448e-9af1-dad60ad18c54",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "6cbeabf4-fd85-4c0c-99a1-390826eecf34",
+    "name": "مجموعه"
+  },
+  {
+    "analyzer_id": "e2e038c0-8183-4295-ab39-853befefecd6",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "3aa91103-26e3-4585-842b-1988128c8ede",
+    "name": "رکورد"
+  },
+  {
+    "analyzer_id": "b12c2601-c296-4d11-985f-5fd489c35d57",
+    "name": "بقیه"
+  },
+  {
+    "analyzer_id": "1a6ce19f-a2c9-4966-b7ba-caee43555bfe",
+    "name": "شستشو"
+  },
+  {
+    "analyzer_id": "212105ee-2af5-40b9-b456-697d05596cdd",
+    "name": "نتیجه"
+  },
+  {
+    "analyzer_id": "cca97a96-09df-498f-a3bd-ab99e9aae4d1",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "4c959cf3-d182-41de-8ffd-d9f49089976d",
+    "name": "سهم"
+  },
+  {
+    "analyzer_id": "4e4333f3-c99e-4f81-9d2c-72c29b708cd6",
+    "name": "سفید"
+  },
+  {
+    "analyzer_id": "e9851d3f-4fe2-429f-b987-78c5038f92dd",
+    "name": "شاید"
+  },
+  {
+    "analyzer_id": "766d6f38-1802-4ea8-b10c-98216ffd1163",
+    "name": "نوشتن"
+  },
+  {
+    "analyzer_id": "3ba9b8bd-bb2e-426d-811c-dc32f8f35999",
+    "name": "منطقه"
+  },
+  {
+    "analyzer_id": "a0e87cf4-37b4-487e-b8f7-3433c8e6ff71",
+    "name": "توسعه"
+  },
+  {
+    "analyzer_id": "00f01441-a42c-494c-8a5e-b2f8c9ead952",
+    "name": "اسلحه"
+  },
+  {
+    "analyzer_id": "e5a03506-31c4-4678-a7ea-9df848ad8a43",
+    "name": "جمع"
+  },
+  {
+    "analyzer_id": "2a531e22-2c78-488e-b42f-6b5c4ccc9cde",
+    "name": "توپ"
+  },
+  {
+    "analyzer_id": "c1ca7ea9-eb3d-4584-9f3c-fd792d844b95",
+    "name": "هفت"
+  },
+  {
+    "analyzer_id": "aefa08b9-87e6-4d8c-95c3-514ff447c42b",
+    "name": "تن"
+  },
+  {
+    "analyzer_id": "f691abc2-90b1-4033-8324-8a5d63f5594b",
+    "name": "زنده"
+  },
+  {
+    "analyzer_id": "0d75363d-56da-469f-b689-7dd72b858e97",
+    "name": "ویژه"
+  },
+  {
+    "analyzer_id": "53d4fe0b-ebe4-4d57-8151-87dc4d85f267",
+    "name": "می‌دانم"
+  },
+  {
+    "analyzer_id": "ede4552f-d5a6-445f-b961-e94e08839052",
+    "name": "چینی"
+  },
+  {
+    "analyzer_id": "cd20e866-5834-4a15-893d-d8c62e7abf1f",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "0c2680b2-4538-4cd8-a5d8-c5a77046919f",
+    "name": "قانون"
+  },
+  {
+    "analyzer_id": "92ba78c9-584f-4cec-8b86-02462f6a42a5",
+    "name": "هجاز"
+  },
+  {
+    "analyzer_id": "276b952f-0ff6-481e-aa35-920e2a770f5b",
+    "name": "می‌دانم"
+  },
+  {
+    "analyzer_id": "223e50b0-68e1-47a4-9ea2-58a7edb0eb8f",
+    "name": "ارائه"
+  },
+  {
+    "analyzer_id": "86277944-0af4-429b-8c03-dbbd3594e0ae",
+    "name": "پرنده"
+  },
+  {
+    "analyzer_id": "c8188992-ec39-4508-992a-6d734928b1f5",
+    "name": "بالا"
+  },
+  {
+    "analyzer_id": "33924b7d-2ce0-4aff-b14d-ddad7a3b002c",
+    "name": "لوله"
+  },
+  {
+    "analyzer_id": "0d2b50b0-fa51-46c8-8d9f-aa856478c33b",
+    "name": "متولد"
+  },
+  {
+    "analyzer_id": "e3fcf173-fb8e-4418-b0fb-8732c358a2f2",
+    "name": "اما"
+  },
+  {
+    "analyzer_id": "098148e4-7a5a-4876-8037-fe1dcf88ee88",
+    "name": "پول"
+  },
+  {
+    "analyzer_id": "3f2d231c-47d5-4e92-bdbf-b50a89970817",
+    "name": "مراقبت"
+  },
+  {
+    "analyzer_id": "e11d5e70-2a57-4e71-9aa5-bf5ee2a02581",
+    "name": "آمده"
+  },
+  {
+    "analyzer_id": "a2277c12-255b-497b-8193-e321f352db0f",
+    "name": "حرکت"
+  },
+  {
+    "analyzer_id": "a4a0d53b-50b5-40f8-b774-b40ef588d610",
+    "name": "گل"
+  },
+  {
+    "analyzer_id": "d16a98fc-6f8f-4752-8cb8-79beb2d243aa",
+    "name": "دربرابر"
+  },
+  {
+    "analyzer_id": "51f2320e-e4e3-4a0f-9ad8-c21b7d0260d4",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "ea5838e6-6cb4-4e88-96ee-4c0bdea1b78b",
+    "name": "تحریک"
+  },
+  {
+    "analyzer_id": "5651b58b-4177-4552-80ab-0df1b1a328f9",
+    "name": "مبارزه"
+  },
+  {
+    "analyzer_id": "14851e3b-07a5-4f8e-9355-59e60fc8d249",
+    "name": "هواپیما"
+  },
+  {
+    "analyzer_id": "1a7b42c7-482d-47da-8bb7-f75b0e40d653",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "316a60f8-3873-4758-9687-04e5c3c9b7ff",
+    "name": "رودخانه"
+  },
+  {
+    "analyzer_id": "0fccc7e1-2eb6-4a52-9873-00f025058e50",
+    "name": "البته"
+  },
+  {
+    "analyzer_id": "0d80e40b-48ee-4f87-bec4-8105e883402a",
+    "name": "صورت"
+  },
+  {
+    "analyzer_id": "8982976a-1553-4f9d-9736-50c2f53c6cc7",
+    "name": "گربه"
+  },
+  {
+    "analyzer_id": "64d49e4e-1c43-4299-8eaf-fb00b2be6be8",
+    "name": "ورق"
+  },
+  {
+    "analyzer_id": "157f041c-1aca-4aa6-8ef4-c24c2a85f29d",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "ce41aae3-51bd-45a3-866f-a133a26306d0",
+    "name": "صعود"
+  },
+  {
+    "analyzer_id": "4778e0de-6fbc-4c99-b6e9-c1aa8171064f",
+    "name": "ورق"
+  },
+  {
+    "analyzer_id": "c0eacc55-e959-478e-ac8e-e2da96c4db74",
+    "name": "نیم"
+  },
+  {
+    "analyzer_id": "7958aaf7-5538-4e44-a606-3736584c9158",
+    "name": "علت"
+  },
+  {
+    "analyzer_id": "9da546ea-8e8d-4a0d-bbea-4b2415d8e7d9",
+    "name": "شخصیت"
+  },
+  {
+    "analyzer_id": "c869d54d-5db2-4987-afe8-5d942f1187b4",
+    "name": "آشپز"
+  },
+  {
+    "analyzer_id": "8e3c4456-b647-47d9-92bc-3ab26a0bfb3f",
+    "name": "قطار"
+  },
+  {
+    "analyzer_id": "eb626e2b-6322-4e86-99ec-8b2d770747ff",
+    "name": "اتم"
+  },
+  {
+    "analyzer_id": "7dff7f67-74c5-464b-9671-4c7f4a576eb0",
+    "name": "بهترین"
+  },
+  {
+    "analyzer_id": "98fcb44a-b669-4a76-8fad-e5c6d2e7dcc2",
+    "name": "مدرن"
+  },
+  {
+    "analyzer_id": "f0ea34e4-5bfa-458e-a711-81054105c412",
+    "name": "اندازه"
+  },
+  {
+    "analyzer_id": "8c9b3e49-5539-45c0-a4e7-d2b1c56dba84",
+    "name": "سه"
+  },
+  {
+    "analyzer_id": "44945fb7-a8b5-4d99-936e-edc20d9cddba",
+    "name": "بنابراین"
+  },
+  {
+    "analyzer_id": "b9a10817-057b-4bc2-a352-a67bff0e9f45",
+    "name": "کودکان"
+  },
+  {
+    "analyzer_id": "7c7e99ce-ce9e-4721-b399-2433e0f51583",
+    "name": "ضربه"
+  },
+  {
+    "analyzer_id": "4a74f351-d425-4065-af6e-84a677aee410",
+    "name": "پسر"
+  },
+  {
+    "analyzer_id": "cbdb90ca-91bb-4785-8a15-e472a56cea7c",
+    "name": "ستون"
+  },
+  {
+    "analyzer_id": "ae693b0d-eace-4d79-b518-922b68a8c32d",
+    "name": "اقیانوس"
+  },
+  {
+    "analyzer_id": "478fbe94-ac84-46ed-a090-21b5ee20e300",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "54644531-ce6a-4564-bf29-3f3aa74aa291",
+    "name": "داستان"
+  },
+  {
+    "analyzer_id": "979da9bc-d616-43d5-b3bc-f4719dc8ac28",
+    "name": "رویا"
+  },
+  {
+    "analyzer_id": "997b65e1-550b-45ee-92f6-97dbc536d1e1",
+    "name": "خود"
+  },
+  {
+    "analyzer_id": "76795dfc-5d53-468b-89f7-9e85c116dada",
+    "name": "غرب"
+  },
+  {
+    "analyzer_id": "fc79a120-7ca1-4c86-8c60-81c05aa49b34",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "a89b2ecb-d54b-4c45-acf6-b1cb70ef635e",
+    "name": "سفر"
+  },
+  {
+    "analyzer_id": "6a2dab32-0a1e-4400-9fca-b3583d2cbe57",
+    "name": "صلیب"
+  },
+  {
+    "analyzer_id": "1954746a-6775-4cbb-9b42-0d03d717f904",
+    "name": "این"
+  },
+  {
+    "analyzer_id": "00bc127e-9f9c-4e3d-9a33-4444adb784f6",
+    "name": "مستعمره"
+  },
+  {
+    "analyzer_id": "e59cfb4a-a8ef-4805-877c-657569dd8537",
+    "name": "کند"
+  },
+  {
+    "analyzer_id": "be7690e4-2528-4745-9a6d-e89452c5de22",
+    "name": "موتور"
+  },
+  {
+    "analyzer_id": "6fbd07b1-4b6d-47da-bffe-4f3d3941a407",
+    "name": "اجازه"
+  },
+  {
+    "analyzer_id": "054f7054-8b6e-42f4-8e0d-4203ebff032f",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "dcdf197d-341f-4309-82ad-67034cd4388e",
+    "name": "نمره"
+  },
+  {
+    "analyzer_id": "f5a70525-c8c7-48f8-9181-252926169f09",
+    "name": "هفته"
+  },
+  {
+    "analyzer_id": "7ebadc21-87c5-419b-ad4b-a28eafb99004",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "7eeb0fca-daf0-4bb5-8ff0-f21d8cb79c92",
+    "name": "مرگ"
+  },
+  {
+    "analyzer_id": "5eb3af74-3070-4891-8aaa-1da8ce8c102a",
+    "name": "معروف"
+  },
+  {
+    "analyzer_id": "022c71cb-fe55-4bfc-8b06-b83d9925abc4",
+    "name": "وزن"
+  },
+  {
+    "analyzer_id": "a4833b4e-2b8f-4f0e-8567-705f21e56248",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "de9e25d4-dace-4acf-8ba3-75e4bc44041d",
+    "name": "معدن"
+  },
+  {
+    "analyzer_id": "b132aab9-fcc8-4ed7-93e2-2c02f70a1948",
+    "name": "شکار"
+  },
+  {
+    "analyzer_id": "e1915c4b-8ca3-46ff-a7f8-d17bf5283ffc",
+    "name": "اجازه"
+  },
+  {
+    "analyzer_id": "fd6da67a-2d09-49fc-b44e-bcdaf80305ef",
+    "name": "آرام"
+  },
+  {
+    "analyzer_id": "e89f270a-65b8-4b38-a4eb-99d9966c1b8c",
+    "name": "چشم"
+  },
+  {
+    "analyzer_id": "687a2fc8-969e-47fa-91b7-bb9d87e7ef7b",
+    "name": "مسابقه"
+  },
+  {
+    "analyzer_id": "b01c90aa-1652-4c5a-98c1-b1a6b7b4b029",
+    "name": "مورد"
+  },
+  {
+    "analyzer_id": "ea585440-219f-4aef-afea-05ce4863c66b",
+    "name": "شب"
+  },
+  {
+    "analyzer_id": "5a3b1487-2e97-4679-890c-f67f1be66ecc",
+    "name": "بانک"
+  },
+  {
+    "analyzer_id": "9c0c45c2-a4ff-4eb6-b703-f92453d38762",
+    "name": "مخلوط"
+  },
+  {
+    "analyzer_id": "f288314c-58b3-4f20-8f1b-53881456a1e3",
+    "name": "عضویت"
+  },
+  {
+    "analyzer_id": "629c60ec-394f-4ebb-a6f2-34bcebb851e5",
+    "name": "عنوان"
+  },
+  {
+    "analyzer_id": "16555294-da2e-46c7-abbb-0d857faf706d",
+    "name": "مجموعه"
+  },
+  {
+    "analyzer_id": "31179ef8-452a-4e42-bff9-b5dc4a6afc47",
+    "name": "اهن"
+  },
+  {
+    "analyzer_id": "9e1f6b26-047f-492c-b488-d5d134ac07f5",
+    "name": "هجاز"
+  },
+  {
+    "analyzer_id": "43edc1e0-4265-4d07-b2c7-7585ed26f27d",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "f597c2df-64ed-4f3c-aa7a-80e5930d1c6a",
+    "name": "را"
+  },
+  {
+    "analyzer_id": "73458b83-ebba-4c49-9c3a-83b1ce73754c",
+    "name": "دست"
+  },
+  {
+    "analyzer_id": "a1ebbc44-9d6c-4398-be0c-5e2b892a21ea",
+    "name": "قادر"
+  },
+  {
+    "analyzer_id": "a2d9fcf9-30c2-4339-a33f-a2537309bf6c",
+    "name": "شامل"
+  },
+  {
+    "analyzer_id": "b368daa0-32c6-46e1-8229-ec2fac8d11bd",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "eeb9cd22-cb5e-4761-a613-307acc5ad90d",
+    "name": "ایده"
+  },
+  {
+    "analyzer_id": "327a6b1b-6f5f-4d60-b919-74d45796d67b",
+    "name": "نه"
+  },
+  {
+    "analyzer_id": "442f0ab9-96aa-4354-ac3f-aa2d055e7716",
+    "name": "ادعا"
+  },
+  {
+    "analyzer_id": "f6612fc1-9139-4aff-8588-237ca936e059",
+    "name": "مردم"
+  },
+  {
+    "analyzer_id": "5f25c543-9456-4593-add0-b01d33b749de",
+    "name": "کارخانه"
+  },
+  {
+    "analyzer_id": "a9997558-a185-4cb7-98c6-db0bf0ae80fc",
+    "name": "نان"
+  },
+  {
+    "analyzer_id": "a360357e-5fee-444c-90ef-6d9bf776b064",
+    "name": "آمده"
+  },
+  {
+    "analyzer_id": "045e7821-3f2c-4da5-9fcc-da3887412c8c",
+    "name": "کودکان"
+  },
+  {
+    "analyzer_id": "7fcf45b3-0429-4a76-ba68-28ca3237327f",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "7a3ae9ea-a243-4f4c-9e61-67fa1b4dc974",
+    "name": "قانون"
+  },
+  {
+    "analyzer_id": "f8e7cf4d-ecc8-4e86-9bce-50e7b000f28f",
+    "name": "سقوط"
+  },
+  {
+    "analyzer_id": "ff569d0c-b7a6-463c-9cd6-bd8e99599f4e",
+    "name": "نقطه"
+  },
+  {
+    "analyzer_id": "93321456-eb2a-4c0c-b0bf-99d6c2a7327b",
+    "name": "او"
+  },
+  {
+    "analyzer_id": "eea77252-8e1e-4493-82a5-973655a74513",
+    "name": "من"
+  },
+  {
+    "analyzer_id": "7fc8933c-891e-4855-87f0-fadd942c90be",
+    "name": "آسمان"
+  },
+  {
+    "analyzer_id": "46278a2a-dc77-4a1d-856d-b2387d3b93a3",
+    "name": "رنگ"
+  },
+  {
+    "analyzer_id": "e25b075a-9ba7-48aa-9b08-6850a55fb1ce",
+    "name": "تماس"
+  },
+  {
+    "analyzer_id": "fbb69cfd-d4db-4b55-9d52-e7186bad1881",
+    "name": "متوسط"
+  },
+  {
+    "analyzer_id": "2cef97dc-2cbd-44e1-a267-ed864bbfbb2a",
+    "name": "رفته"
+  },
+  {
+    "analyzer_id": "6a794515-015e-4a81-885a-8c4df3f9d7b9",
+    "name": "کلید"
+  },
+  {
+    "analyzer_id": "3ba6a1a8-12d1-4ae0-a791-8b2fc88e7515",
+    "name": "سرعت"
+  },
+  {
+    "analyzer_id": "7e23ac54-01ba-432c-a0ef-a02b3319a078",
+    "name": "تماس"
+  },
+  {
+    "analyzer_id": "c55e02bb-274a-47e2-820c-d4c778408528",
+    "name": "تقسیم"
+  },
+  {
+    "analyzer_id": "07dd64e4-45fb-45d8-92ab-434ac828e2a0",
+    "name": "نوشتن"
+  },
+  {
+    "analyzer_id": "6e5cd313-1e6e-4a5c-887e-1f75f82415b5",
+    "name": "خاموش"
+  },
+  {
+    "analyzer_id": "be07aa5b-1a65-4693-a2e0-0270229ad6ea",
+    "name": "پاسخ"
+  },
+  {
+    "analyzer_id": "7849c073-e5cd-4e1f-a4ab-b56da3b3151e",
+    "name": "چشم"
+  },
+  {
+    "analyzer_id": "e63c5592-2af6-4e5e-9d99-73ae4af0986c",
+    "name": "مطبوعات"
+  },
+  {
+    "analyzer_id": "ec34e341-202c-414b-9938-505d629178e2",
+    "name": "دامنه"
+  },
+  {
+    "analyzer_id": "17504475-c211-4f9a-a5f1-2b297bb16043",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "5d9e9622-dbe6-4a34-aef0-d1750fae76bd",
+    "name": "برش"
+  },
+  {
+    "analyzer_id": "48682690-2b52-43e1-b07d-7a781497d1f7",
+    "name": "فلز"
+  },
+  {
+    "analyzer_id": "b458b1ca-39bf-4763-b580-cfe296d0f11f",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "2c383d02-15c6-4f02-9d7f-a437e7e837f0",
+    "name": "سمت"
+  },
+  {
+    "analyzer_id": "3e109bb3-264c-43a6-a344-579289f6880b",
+    "name": "خوراک"
+  },
+  {
+    "analyzer_id": "219a6a8e-06ba-4b38-81a6-df2a215c63c3",
+    "name": "آسانسور"
+  },
+  {
+    "analyzer_id": "0b72b1f3-882e-4579-ba6e-8a048bc9e44b",
+    "name": "دهان"
+  },
+  {
+    "analyzer_id": "45b76186-3d10-4b2d-acf3-bc5966ca04dd",
+    "name": "انجام"
+  },
+  {
+    "analyzer_id": "2982cee4-d277-4a94-b6aa-8220c4bb6b6d",
+    "name": "گروه"
+  },
+  {
+    "analyzer_id": "89e6f476-d5e5-4865-9ce8-177bdbfdf247",
+    "name": "قدیمی"
+  },
+  {
+    "analyzer_id": "ab1a3ac8-b7db-4c09-b443-313ec028a8fd",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "24dc3640-0196-4e6f-ae46-fdf7628553ec",
+    "name": "ابزار"
+  },
+  {
+    "analyzer_id": "f9b39947-a808-4102-bf44-c076bbc68e79",
+    "name": "ملایم"
+  },
+  {
+    "analyzer_id": "80e3ccf7-ba6e-46bd-a603-0d2e758136f6",
+    "name": "مستقیم"
+  },
+  {
+    "analyzer_id": "7d6fc68b-58d4-4fbc-bf08-692022d51bf6",
+    "name": "آرزو"
+  },
+  {
+    "analyzer_id": "75429f16-4faa-4703-981f-812dd5fcc6b0",
+    "name": "ممکن"
+  },
+  {
+    "analyzer_id": "821ae843-2eeb-451f-9dc1-65c67b0f7809",
+    "name": "زمین"
+  },
+  {
+    "analyzer_id": "5d75df5a-7465-4d7c-bad8-caeec5407e3d",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "149649ce-dffe-4ca6-b6f4-e8cc922ee588",
+    "name": "چهار"
+  },
+  {
+    "analyzer_id": "9b5450ed-9f79-4fa1-899a-b11613bee388",
+    "name": "صورت"
+  },
+  {
+    "analyzer_id": "df72ad06-edd4-4b40-9fe4-5acedd80b035",
+    "name": "با"
+  },
+  {
+    "analyzer_id": "a5532efe-0ed8-46f3-bf82-d09aefea34ac",
+    "name": "آتش"
+  },
+  {
+    "analyzer_id": "b41c0d25-eef7-40fd-9fb4-4da6a64a4796",
+    "name": "بگو"
+  },
+  {
+    "analyzer_id": "9b548df7-9688-4f35-8fcf-d1a831c9fb92",
+    "name": "دم"
+  },
+  {
+    "analyzer_id": "ea982ccf-c64c-4afe-b290-83d5e07827a0",
+    "name": "دریافت"
+  },
+  {
+    "analyzer_id": "7b1c275d-d953-4576-b598-ff1314e78452",
+    "name": "زنده"
+  },
+  {
+    "analyzer_id": "ae8030df-19d0-4af3-9218-30ff413c18c3",
+    "name": "بلند"
+  },
+  {
+    "analyzer_id": "bf50b3ef-fc4d-431a-8790-e616de00d2c6",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "714ec1fc-cb90-4204-9ada-9ebf90119e3e",
+    "name": "آخرین"
+  },
+  {
+    "analyzer_id": "0fa02cca-a614-4fb6-810a-39ff933edd46",
+    "name": "ذرت"
+  },
+  {
+    "analyzer_id": "2cf058f5-57c5-4e6a-8de4-d675222b14f7",
+    "name": "راه"
+  },
+  {
+    "analyzer_id": "07266420-6db3-46d8-aa34-5067f9e11948",
+    "name": "گردن"
+  },
+  {
+    "analyzer_id": "d743efa6-9f09-4f74-adff-6c27f0470482",
+    "name": "نیاز"
+  },
+  {
+    "analyzer_id": "9761fe46-e813-4c31-a124-24415dec55f3",
+    "name": "رفته"
+  },
+  {
+    "analyzer_id": "17f7855a-08e0-41f5-bd6c-a4c7c56b42ad",
+    "name": "شان"
+  },
+  {
+    "analyzer_id": "aa4134b2-5227-4f5c-8c77-2e869c923e90",
+    "name": "انگشت"
+  },
+  {
+    "analyzer_id": "ff531646-2edc-4f49-816d-8db6220d7c87",
+    "name": "تنها"
+  },
+  {
+    "analyzer_id": "1ad577b4-fc14-4820-9189-f4dbe5b53dca",
+    "name": "سمت"
+  },
+  {
+    "analyzer_id": "6790155b-2ef9-4a9e-a519-a557f3b92935",
+    "name": "زمستان"
+  },
+  {
+    "analyzer_id": "cf262783-1399-4019-9b7a-aeb048531d4a",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "4b465a3c-1ee0-47ec-a0df-ea111ca19056",
+    "name": "بله"
+  },
+  {
+    "analyzer_id": "3d605e6f-e1c8-47cf-9d3b-b3348ae83ddf",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "2675c7e1-349e-4303-bbab-2e8334f6b535",
+    "name": "یا"
+  },
+  {
+    "analyzer_id": "61c32c3a-1e35-4246-94b1-160d178c6587",
+    "name": "ازجمله"
+  },
+  {
+    "analyzer_id": "bfc623a9-d1f4-4556-9d1c-548e459f91e4",
+    "name": "وزن"
+  },
+  {
+    "analyzer_id": "93c04113-7c96-486e-8800-b82e407f41d4",
+    "name": "لوله"
+  },
+  {
+    "analyzer_id": "5f4eb063-d3ad-4a22-a5b8-867af30348d8",
+    "name": "سخت"
+  },
+  {
+    "analyzer_id": "cc1a9a53-1ef5-4434-8ec7-9df85de0d566",
+    "name": "می‌کند"
+  },
+  {
+    "analyzer_id": "041e3a29-0e82-488f-b706-43e541e3589f",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "b63285f7-4456-4e16-83b7-f2ff16bfd7e3",
+    "name": "جلو"
+  },
+  {
+    "analyzer_id": "39712b0b-1777-48f3-8c01-d81d55d5de2c",
+    "name": "مغناطیس"
+  },
+  {
+    "analyzer_id": "d965480d-3ab9-4471-9f41-ef8011d8ec95",
+    "name": "خاموش"
+  },
+  {
+    "analyzer_id": "700d475c-e776-4275-8234-1903a4efe3b0",
+    "name": "باز"
+  },
+  {
+    "analyzer_id": "72a01981-c483-4864-ab0b-09691fdcc887",
+    "name": "طبیعی"
+  },
+  {
+    "analyzer_id": "b287e2a8-ff9e-470f-8468-fbbba00e5c8f",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "b6e57dd8-c594-4cb2-a5fa-b14f29be11a4",
+    "name": "اسم"
+  },
+  {
+    "analyzer_id": "8eeeb1ee-3e07-43ce-9eb9-40edf3443f9a",
+    "name": "درب"
+  },
+  {
+    "analyzer_id": "b5a6bb8a-d2da-4fd4-a49e-3a97f5b495b4",
+    "name": "مثال"
+  },
+  {
+    "analyzer_id": "0fa15b65-0947-4378-b443-bfa59f5acef6",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "971c2246-cb76-457b-9b91-e36b01e66dd5",
+    "name": "نظر"
+  },
+  {
+    "analyzer_id": "79cdaaba-1adc-4c01-86ee-bde441497b44",
+    "name": "ایده"
+  },
+  {
+    "analyzer_id": "642b4ee4-7e32-4cb0-a2b3-7a37900e2bae",
+    "name": "هوا"
+  },
+  {
+    "analyzer_id": "d7b5d0fd-be2e-4702-bf9e-efb579f73a1a",
+    "name": "اواخر"
+  },
+  {
+    "analyzer_id": "ff0077e0-353b-4bd9-bc5f-fb5bb831d314",
+    "name": "شود"
+  },
+  {
+    "analyzer_id": "2e8bd7a4-a763-4d0c-bdce-1a546dd43830",
+    "name": "رایگان"
+  },
+  {
+    "analyzer_id": "c0ecfcb7-7401-448b-88e1-0b483d4a3e1d",
+    "name": "برنده"
+  },
+  {
+    "analyzer_id": "8fd4ac76-4770-42fe-a4cf-b6fe9ee79cd4",
+    "name": "توافق"
+  },
+  {
+    "analyzer_id": "31a67931-d7d3-46db-a2be-90e363810141",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "87c866f3-bdca-4be0-8dac-d9e4f1828bdd",
+    "name": "خدمت"
+  },
+  {
+    "analyzer_id": "20ec8a6f-b6d1-4f9f-8f1b-9a5d662bc2ec",
+    "name": "رایت"
+  },
+  {
+    "analyzer_id": "7cf9e99a-3857-4043-bb62-8095fb099f67",
+    "name": "ذهن"
+  },
+  {
+    "analyzer_id": "0c12c25c-bce4-49c2-94f8-009109fead9c",
+    "name": "زبان"
+  },
+  {
+    "analyzer_id": "d39d0a2a-e2f1-460c-b659-e64e398895a5",
+    "name": "برف"
+  },
+  {
+    "analyzer_id": "c2bfc4ad-b398-4aff-a35b-56847674569f",
+    "name": "مایل"
+  },
+  {
+    "analyzer_id": "fdcfb2cc-60c8-46a5-a18c-95a93fdc20aa",
+    "name": "ارسال"
+  },
+  {
+    "analyzer_id": "d673a46a-a267-4b8a-8b57-93bcabee7ce7",
+    "name": "راهنمایی"
+  },
+  {
+    "analyzer_id": "4a09a238-a319-4aa5-a9d9-747811507ec9",
+    "name": "اقامت"
+  },
+  {
+    "analyzer_id": "71fbd296-fd5d-40cb-b7d3-c2d5164b67c2",
+    "name": "مایع"
+  },
+  {
+    "analyzer_id": "26f1fdd3-471e-4e30-819a-2dad796478f0",
+    "name": "من"
+  },
+  {
+    "analyzer_id": "221d1076-7e35-4b6c-a6f3-1cc13e17437e",
+    "name": "قدرت"
+  },
+  {
+    "analyzer_id": "cbdc164e-ed40-47c4-9dbd-6ad7e8e242cb",
+    "name": "سرباز"
+  },
+  {
+    "analyzer_id": "90ed47ae-b724-482e-89c5-52e3088baf22",
+    "name": "جمعیت"
+  },
+  {
+    "analyzer_id": "7e55d267-a813-4878-9025-7a131397be1c",
+    "name": "قرن"
+  },
+  {
+    "analyzer_id": "8ab9a47b-949d-4e4c-9acd-5efe91ad2501",
+    "name": "کامل"
+  },
+  {
+    "analyzer_id": "1cd45db4-bfee-4d01-bb64-a9855bfab458",
+    "name": "جاده"
+  },
+  {
+    "analyzer_id": "895ead26-721b-4321-85a7-cb828a2cffd8",
+    "name": "قوی"
+  },
+  {
+    "analyzer_id": "eac94718-f8d6-44b1-a873-cbaadcaaa72d",
+    "name": "ماهی"
+  },
+  {
+    "analyzer_id": "634eba6f-649e-4f15-bdcb-d9f5a02cd4c8",
+    "name": "سه"
+  },
+  {
+    "analyzer_id": "d030ee8a-f3ba-44f9-8403-783ebb9776a9",
+    "name": "آن"
+  },
+  {
+    "analyzer_id": "174b75b5-b1e6-4d12-9147-a7b62705d655",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "dbaa6133-ff15-494f-8b05-dd2dc680c274",
+    "name": "ادعا"
+  },
+  {
+    "analyzer_id": "00e29459-5f1b-4753-93f0-f790e0e1d1d9",
+    "name": "مرگ"
+  },
+  {
+    "analyzer_id": "0661722a-8541-49ab-9750-d09ec1a99df5",
+    "name": "گسترده"
+  },
+  {
+    "analyzer_id": "4798ec28-72bc-4f8d-b85d-9a8e791641ff",
+    "name": "بزرگ"
+  },
+  {
+    "analyzer_id": "dfefe6d0-c31d-4439-ad04-eff96320a63c",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "ee9de199-6001-482b-ac9e-dd3dbd42f04b",
+    "name": "مولکول"
+  },
+  {
+    "analyzer_id": "8bc07e8c-1d4f-461e-981b-92747a06c3ca",
+    "name": "لازم"
+  },
+  {
+    "analyzer_id": "beaccda0-9cc8-4af2-beee-3bea4292fd6e",
+    "name": "غرب"
+  },
+  {
+    "analyzer_id": "64e302fa-db3a-4bcd-8d12-d85e466b6d44",
+    "name": "زن"
+  },
+  {
+    "analyzer_id": "b88ce831-4794-4e19-a885-bd3ed8c9f77a",
+    "name": "خون"
+  },
+  {
+    "analyzer_id": "9d2675fc-2398-4ad5-941a-d1e6af853dab",
+    "name": "بلوک"
+  },
+  {
+    "analyzer_id": "d28c6139-72bc-419a-80d4-9581c7c36a3c",
+    "name": "نامه"
+  },
+  {
+    "analyzer_id": "2f95cfed-01ea-4472-a558-fbec9e5d974d",
+    "name": "حیوانات"
+  },
+  {
+    "analyzer_id": "828a659f-0f87-4f4c-9b2b-d35f72438a99",
+    "name": "دامنه"
+  },
+  {
+    "analyzer_id": "1b3bb7ad-8cc6-4676-98ba-e1abd77ecbaf",
+    "name": "در"
+  },
+  {
+    "analyzer_id": "9cc2de67-dd10-4877-8799-64ddc54f55c0",
+    "name": "کشتن"
+  },
+  {
+    "analyzer_id": "061d1ea7-9c5a-4abf-b09e-f0ad010a1a2e",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "809dfe23-73b4-4cae-9ae4-7dfec0de7f10",
+    "name": "قایق"
+  },
+  {
+    "analyzer_id": "621ec319-aaa3-482a-8dad-153098109277",
+    "name": "طول"
+  },
+  {
+    "analyzer_id": "00798d27-c8ff-49c2-859a-757b002e7664",
+    "name": "نمد"
+  },
+  {
+    "analyzer_id": "720deada-8f20-4918-8184-3964ea4d2830",
+    "name": "دانه"
+  },
+  {
+    "analyzer_id": "8d6afe6b-34b2-4f41-81be-265fc0bef5f1",
+    "name": "داغ"
+  },
+  {
+    "analyzer_id": "69ccaa47-5c5b-4cc8-9973-d651b1f3d62f",
+    "name": "واکه"
+  },
+  {
+    "analyzer_id": "ceee5175-d619-4520-9ec0-2ad2c0d84544",
+    "name": "غرب"
+  },
+  {
+    "analyzer_id": "a525599d-4635-473e-b78e-b9076458e40c",
+    "name": "تماس"
+  },
+  {
+    "analyzer_id": "1b58f927-d87e-46af-afc9-6008546ae94b",
+    "name": "سن"
+  },
+  {
+    "analyzer_id": "a4711957-39df-4b95-9d87-e00773bdb9c2",
+    "name": "معامله"
+  },
+  {
+    "analyzer_id": "dd7c7363-1f37-4117-9aad-5b6f7845244e",
+    "name": "آه"
+  },
+  {
+    "analyzer_id": "385b48d9-3a93-4b2b-8317-a16904bcee15",
+    "name": "خرید"
+  },
+  {
+    "analyzer_id": "4b4e00de-1580-405d-b238-c5aa08af9d8f",
+    "name": "خوراک"
+  },
+  {
+    "analyzer_id": "bb8dcad5-1a49-4085-a71e-aebcbbb3452c",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "1e69a8fc-fffd-4e83-a620-850c44d7e322",
+    "name": "شاخه"
+  },
+  {
+    "analyzer_id": "577b68d9-9f17-41c3-98f9-d1d2009ee498",
+    "name": "گذشته"
+  },
+  {
+    "analyzer_id": "46b11d03-d714-4d81-80e7-52a509e20c65",
+    "name": "ساخت"
+  },
+  {
+    "analyzer_id": "0cff000d-60b4-4dfb-b831-5cbe3e1427ec",
+    "name": "شعر"
+  },
+  {
+    "analyzer_id": "baae8715-02c6-408d-bdd2-91ba21798903",
+    "name": "باید"
+  },
+  {
+    "analyzer_id": "6d3c1475-b0c3-4da9-b15f-00fe9d01385b",
+    "name": "احساس"
+  },
+  {
+    "analyzer_id": "185b1037-734f-4aec-ba91-6606c71a0103",
+    "name": "موضوع"
+  },
+  {
+    "analyzer_id": "4462a6c2-ed58-4d73-b10b-27d4c6dcac8b",
+    "name": "ساخته"
+  },
+  {
+    "analyzer_id": "434bafc4-c717-4189-9fc8-1e92d5b38291",
+    "name": "یک"
+  },
+  {
+    "analyzer_id": "35cdd130-fd75-47b1-8fb1-dc707324ede7",
+    "name": "خوب"
+  },
+  {
+    "analyzer_id": "73710762-34ac-4fd7-90ca-b77fe60d8f95",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "cc75144d-5b14-46ba-bcbe-663ea9856d09",
+    "name": "وجوددارد"
+  },
+  {
+    "analyzer_id": "7d506d91-fab8-416f-b41b-78a07493ad36",
+    "name": "باغ"
+  },
+  {
+    "analyzer_id": "625d6532-144d-4508-bd14-3a256fa4b076",
+    "name": "توپ"
+  },
+  {
+    "analyzer_id": "fcd2464f-f2eb-42c7-aef7-31de9d0e3cac",
+    "name": "گوش"
+  },
+  {
+    "analyzer_id": "fad0e98c-2683-49d8-a292-9970a17750ed",
+    "name": "اسم"
+  },
+  {
+    "analyzer_id": "c1654863-3404-4f36-b9b0-869dc80813c2",
+    "name": "بوی"
+  },
+  {
+    "analyzer_id": "5608ff48-dfae-4a9b-aea3-dcbd443c6d58",
+    "name": "ضعیف"
+  },
+  {
+    "analyzer_id": "c7b4cbd1-bb0f-4009-ade5-237553dddb9e",
+    "name": "قانون"
+  },
+  {
+    "analyzer_id": "182cedb6-3f38-41fc-9195-5058ab9fc0c7",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "d22fab0f-cd5e-44db-a412-a9f87a805d8f",
+    "name": "ابر"
+  },
+  {
+    "analyzer_id": "401b3043-4c46-405f-83bd-c3954ca4abc6",
+    "name": "شنا"
+  },
+  {
+    "analyzer_id": "28fc2584-f5d6-4226-a160-19df1bdbb699",
+    "name": "مطالعه"
+  },
+  {
+    "analyzer_id": "9b0d1173-0076-4b1c-a118-bad337649b1c",
+    "name": "لغزش"
+  },
+  {
+    "analyzer_id": "8d5b17dc-6cc4-4a03-a4f7-f6df74656d60",
+    "name": "تابستان"
+  },
+  {
+    "analyzer_id": "badd1867-0470-456a-a163-a594e2dc05a8",
+    "name": "ساده"
+  },
+  {
+    "analyzer_id": "e4333f02-940f-4a41-b3fb-d762c87556bd",
+    "name": "پرداخت"
+  },
+  {
+    "analyzer_id": "71dd451d-4a69-4219-a44e-44b37f36f394",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "ee399da4-6011-4427-8c42-b0d9a82f0215",
+    "name": "کشور"
+  },
+  {
+    "analyzer_id": "39cf802f-2531-40bd-8286-0120eed09260",
+    "name": "کت"
+  },
+  {
+    "analyzer_id": "4feded76-457a-466c-9e00-7c14faf801e9",
+    "name": "یادگیری"
+  },
+  {
+    "analyzer_id": "79c722f1-3302-41a8-b8aa-116ffc521195",
+    "name": "آن"
+  },
+  {
+    "analyzer_id": "e8bad599-8c63-4152-a8de-9f4ca9c57ee4",
+    "name": "مشکل"
+  },
+  {
+    "analyzer_id": "262bfd96-36ed-4de4-8d76-fe866ebf60fb",
+    "name": "بخار"
+  },
+  {
+    "analyzer_id": "0b85808f-5626-43d2-b81a-934c5d93b618",
+    "name": "ملودی"
+  },
+  {
+    "analyzer_id": "230244f7-347e-4f12-8bc6-4e129804f802",
+    "name": "کلاه"
+  },
+  {
+    "analyzer_id": "c912fb08-b731-41c7-b7af-2ece908312c5",
+    "name": "باصدا"
+  },
+  {
+    "analyzer_id": "383e6be4-e65b-4258-950a-b8881cb09109",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "3cdb1417-b4e6-4a35-910a-28c081e89c9a",
+    "name": "خنده"
+  },
+  {
+    "analyzer_id": "e49a39a1-7cc3-43b1-b921-d110b24cd2e2",
+    "name": "صدا"
+  },
+  {
+    "analyzer_id": "b8d026d1-6a6a-4506-9234-590ca91ca1e9",
+    "name": "وتر"
+  },
+  {
+    "analyzer_id": "d161fdac-0549-4924-ad4a-ce635da3cfd0",
+    "name": "جریان"
+  },
+  {
+    "analyzer_id": "1ce538e6-5017-44fc-9a37-5a998df9011f",
+    "name": "درمیان"
+  },
+  {
+    "analyzer_id": "5880de0b-f56d-4025-8a0c-5dd73004fe93",
+    "name": "دارند"
+  },
+  {
+    "analyzer_id": "a9250ca8-2cb2-45c5-a11a-23a8e4b91231",
+    "name": "خانه"
+  },
+  {
+    "analyzer_id": "ae6c567f-d54b-4462-957e-6b252c226608",
+    "name": "عضویت"
+  },
+  {
+    "analyzer_id": "96f27ff4-5073-4ada-a713-ebe795e24441",
+    "name": "برابر"
+  },
+  {
+    "analyzer_id": "244decda-05f5-4cae-8227-23750fa85dd3",
+    "name": "سفر"
+  },
+  {
+    "analyzer_id": "36eeb7c2-07fd-4877-8eae-65771a5bfc23",
+    "name": "ساعت"
+  },
+  {
+    "analyzer_id": "9335ba2d-51c0-4dfd-96df-688a68640415",
+    "name": "رفت"
+  },
+  {
+    "analyzer_id": "db27f100-8bea-4bdf-9a33-a7616abc99bb",
+    "name": "انگشت"
+  },
+  {
+    "analyzer_id": "5b3da7f0-ff70-43f0-9cd2-0c39ae52d0b0",
+    "name": "شاخه"
+  },
+  {
+    "analyzer_id": "771a6ef7-4740-474b-a187-ef86165716f2",
+    "name": "کلمه"
+  },
+  {
+    "analyzer_id": "8a7aa5e9-a85c-49b3-90bf-e85dce09a4ea",
+    "name": "خشک"
+  },
+  {
+    "analyzer_id": "574f23d3-4401-406f-a331-d907b6f7c59f",
+    "name": "سلول"
+  },
+  {
+    "analyzer_id": "63987ebb-a21b-42af-ba6b-a1327d459ddb",
+    "name": "بیت"
+  },
+  {
+    "analyzer_id": "7290caa1-3624-4265-91c9-69355a9c12be",
+    "name": "شی"
+  },
+  {
+    "analyzer_id": "6c9b9c32-6aea-4e2c-9fa2-baf559da7c03",
+    "name": "سخنرانی"
+  },
+  {
+    "analyzer_id": "31b14560-4a2a-4b88-b7fe-4afadad23ea1",
+    "name": "بود"
+  },
+  {
+    "analyzer_id": "19570926-6bcf-43cb-982f-1bf59173da1b",
+    "name": "بسیار"
+  },
+  {
+    "analyzer_id": "e85d0479-f428-4b7f-a57e-ab179153b6ca",
+    "name": "ترس"
+  },
+  {
+    "analyzer_id": "2f7768e5-b1cf-4386-99c4-ac71d9aa2339",
+    "name": "حکومت"
+  },
+  {
+    "analyzer_id": "e1f566dd-f1c4-438a-bab5-a4c1c76e50a5",
+    "name": "بقیه"
+  },
+  {
+    "analyzer_id": "31c55f16-295f-40ed-9f65-736f820f9922",
+    "name": "جفت"
+  },
+  {
+    "analyzer_id": "e1f69b04-c607-4ba5-9df4-64a8c1f9c65c",
+    "name": "مدت"
+  },
+  {
+    "analyzer_id": "a4081c64-ee6c-44fc-a4f9-c84ccdcd47a9",
+    "name": "طلا"
+  },
+  {
+    "analyzer_id": "0a1b30a5-21c9-4d57-bb89-aaf0f28fcbca",
+    "name": "فوری"
+  },
+  {
+    "analyzer_id": "35f26d55-06f0-422b-8dc2-ec2b5ad9077e",
+    "name": "بین"
+  },
+  {
+    "analyzer_id": "99f5a019-0def-4f3e-8373-0c028ea57118",
+    "name": "برادر"
+  },
+  {
+    "analyzer_id": "58abcf54-f609-4b2b-bc01-fb35530c424f",
+    "name": "اطلاع"
+  },
+  {
+    "analyzer_id": "96047d58-a87a-4871-9925-d8bbdddae033",
+    "name": "تخت"
+  },
+  {
+    "analyzer_id": "2af1c635-3ccd-416b-a334-3df9a7c57e53",
+    "name": "پنج"
+  },
+  {
+    "analyzer_id": "c00c1922-a0ff-41cf-9460-11368a6e98bc",
+    "name": "ما"
+  },
+  {
+    "analyzer_id": "eaaa9a5d-b768-4464-8b26-fb70f7007dff",
+    "name": "اختراع"
+  },
+  {
+    "analyzer_id": "71c4aae3-b1a9-46e1-aaf8-a46086758f97",
+    "name": "احتمالی"
+  },
+  {
+    "analyzer_id": "fc9118eb-5c52-41df-801a-e48e6b08928f",
+    "name": "می‌تواند"
+  },
+  {
+    "analyzer_id": "29b90261-ac05-4b7d-afd0-ee893b471ef4",
+    "name": "کند"
+  },
+  {
+    "analyzer_id": "a0dbaaa5-97fa-4899-a67e-74d6ddba3735",
+    "name": "تن"
+  },
+  {
+    "analyzer_id": "8d612cbb-3e80-4be9-a68b-671c0d7719d1",
+    "name": "تجربه"
+  },
+  {
+    "analyzer_id": "c28e640d-1e1b-4044-a937-e3da76dbafc5",
+    "name": "مغناطیس"
+  },
+  {
+    "analyzer_id": "fbff9a9a-b66a-4c7e-b978-dffb71aef691",
+    "name": "معمول"
+  },
+  {
+    "analyzer_id": "c6a6f024-c02a-41f0-bb2f-4a53f942f335",
+    "name": "زبان"
+  },
+  {
+    "analyzer_id": "5f979746-3612-4673-857e-bf7a0a1d6707",
+    "name": "پایان"
+  },
+  {
+    "analyzer_id": "9efdbb99-bcf5-4cc4-80b8-552a964a374d",
+    "name": "مطالعه"
+  },
+  {
+    "analyzer_id": "e9ade3c8-6efb-4cb6-83f7-28accef5e985",
+    "name": "سریع"
+  },
+  {
+    "analyzer_id": "8d678de6-8814-4674-9f6b-628bbbc974f6",
+    "name": "غرب"
+  },
+  {
+    "analyzer_id": "5bb495ce-c9c0-4b89-b147-e0ada417f549",
+    "name": "پوست"
+  },
+  {
+    "analyzer_id": "3eee7006-a907-427f-b488-8d533ac0e41e",
+    "name": "راه"
+  },
+  {
+    "analyzer_id": "8b2b37ab-f785-4b96-b0ac-93eee8068b50",
+    "name": "اصلی"
+  },
+  {
+    "analyzer_id": "6342086c-9d98-45bb-892b-82fc078ff3d9",
+    "name": "آخرین"
+  },
+  {
+    "analyzer_id": "1d1ae0be-6ea2-4133-bb9f-ece4bf8aab39",
+    "name": "نان"
+  },
+  {
+    "analyzer_id": "23e33539-116f-4479-8d9d-7440c9efdc26",
+    "name": "پا"
+  },
+  {
+    "analyzer_id": "73742309-c2bf-407a-8b7f-cb520481c1d2",
+    "name": "باصدا"
+  },
+  {
+    "analyzer_id": "b8d2ba40-886f-4849-af2f-14943de8ae79",
+    "name": "زنده"
+  },
+  {
+    "analyzer_id": "51671068-9518-4030-8ad7-0306194678a0",
+    "name": "هفت"
+  },
+  {
+    "analyzer_id": "0ff63bf3-51a0-405f-9db5-6b5f98e288bf",
+    "name": "صندلی"
+  },
+  {
+    "analyzer_id": "e8c59a10-fa97-40f9-8b39-6bebad13bcb4",
+    "name": "جهان"
+  },
+  {
+    "analyzer_id": "b7f35358-a42a-4c7e-8522-88580d57edd8",
+    "name": "خاصیت"
+  },
+  {
+    "analyzer_id": "080046fd-e433-4b70-9954-5be7dd82c866",
+    "name": "کتاب"
+  },
+  {
+    "analyzer_id": "f4e54d5f-e1fa-4a21-b7d1-85a74a829d8f",
+    "name": "اما"
+  },
+  {
+    "analyzer_id": "1a4a576b-2acb-4f2d-8e6a-d424085e2653",
+    "name": "معامله"
+  },
+  {
+    "analyzer_id": "d89484cf-a943-4bf9-99b3-41ac027e768c",
+    "name": "آمده"
+  },
+  {
+    "analyzer_id": "9b921159-de57-435a-8ff9-e9a219c244ce",
+    "name": "دقیق"
+  },
+  {
+    "analyzer_id": "ceca4914-c13a-4501-b622-69120d0baf3b",
+    "name": "کلاس"
+  },
+  {
+    "analyzer_id": "3b92130e-5028-49c2-9a45-122963ea1467",
+    "name": "هر"
+  },
+  {
+    "analyzer_id": "554a687e-9511-4972-b1b6-925157f31816",
+    "name": "حاضر"
+  },
+  {
+    "analyzer_id": "e097eb2c-aa8a-4c1a-a9c5-3f2cd05bb1d0",
+    "name": "حوزه"
+  },
+  {
+    "analyzer_id": "44fbfd12-8c20-4b8b-b400-301c3550ef1b",
+    "name": "که"
+  },
+  {
+    "analyzer_id": "2717c012-fbe8-4d3e-b26d-7f8226ba0f30",
+    "name": "مادر"
+  },
+  {
+    "analyzer_id": "cf59404b-b834-444c-a37c-e030ab1aa2c3",
+    "name": "اردک"
+  },
+  {
+    "analyzer_id": "c4fda4a6-0728-4054-9070-b53496308351",
+    "name": "شرق"
+  },
+  {
+    "analyzer_id": "603c574f-1c71-4cc5-99a3-ef6ffcafbe0a",
+    "name": "از"
+  },
+  {
+    "analyzer_id": "6c4ba5ca-e1d9-48ce-b0af-0c8a5cbb4598",
+    "name": "مشاهده"
+  },
+  {
+    "analyzer_id": "7c097879-10cc-4ff5-bc21-65d5eea62c31",
+    "name": "چمن"
+  },
+  {
+    "analyzer_id": "ad6b65ce-2aeb-4afd-9a58-dc49c4f95750",
+    "name": "رسیدن"
+  },
+  {
+    "analyzer_id": "d45b3ad5-92a6-4bad-b2ce-3d7ea11af3ad",
+    "name": "ساحل"
+  }
+]
