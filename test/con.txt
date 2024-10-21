@@ -4,3 +4,5 @@ docker-compose logs -f redis
 docker-compose logs -f postgres
 docker-compose logs -f spark-master
 docker-compose logs -f spart-worker
+locust -f test_get_data.py --worker --master-host=127.0.0.1 --logfile locust.log
+locust -f test_get_data.py --master --web-port 8081 --logfile locust.log
