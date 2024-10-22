@@ -29,7 +29,7 @@ class ApiLog(models.Model):
     analyzer_id = models.UUIDField(default=uuid.uuid4, editable=False, db_index=True)
     phonenumber = models.CharField(max_length=13, db_index=True)
     response_time = models.FloatField(null=True, blank=True)
-    result_time = models.DateField(null=True, blank=True)
+    result_time = models.DateTimeField(null=True, blank=True)
     status = models.CharField(max_length=50, db_index=True, null=True, blank=True)
     request_size = models.IntegerField()
 
