@@ -6,3 +6,12 @@ docker-compose logs -f spark-master
 docker-compose logs -f spart-worker
 locust -f test_get_data.py --worker --master-host=127.0.0.1 --logfile locust.log
 locust -f test_get_data.py --master --web-port 8081 --logfile locust.log
+---------
+# send data to kafka : run in django app container :
+python send_to_kafka.py
+----------
+# read data from kafka: run in spark master container
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0 /app/shahkar_sample/read_from_kafka.py
+----------
+# show kafka data log :
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic api_log --from-beginning
