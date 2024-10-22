@@ -43,28 +43,29 @@ services:
     image: wurstmeister/kafka:latest
     ports:
       - "9092:9092"
+      - "9093:9093"
     environment:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:9092,OUTSIDE://localhost:9092
+      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:9092,OUTSIDE://localhost:9093
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
-      KAFKA_LISTENERS: INSIDE://0.0.0.0:9092,OUTSIDE://0.0.0.0:9092
+      KAFKA_LISTENERS: INSIDE://0.0.0.0:9092,OUTSIDE://0.0.0.0:9093
+      KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE 
     depends_on:
       - zookeeper
 
-# web ui for kafka
+# # web ui for kafka  
 
-  kafka-manager:
-    image: kafka-manager:latest
-    environment:
-      KM_VERSION: "latest"
-      KM_ARGS: "-Dconfig.file=/etc/kafka-manager/application.conf"
-      ZK_HOSTS: "zookeeper:2181"
-      KAFKA_MANAGER_USERNAME: "admin"
-      KAFKA_MANAGER_PASSWORD: "admin"
-    ports:
-      - "9000:9000"
-    depends_on:
-      - zookeeper
+#   kafka-manager:
+#     image: harness/kafka-manager:latest
+#     environment:
+#       ZK_HOSTS: zookeeper:2181
+#       KM_VERSION: 1.0.0
+#       KM_USER: admin
+#       KM_PASSWORD: admin
+#     ports:
+#       - "9000:9000"
+#     depends_on:
+#       - kafka
 
 
 # queue
@@ -87,7 +88,6 @@ services:
     container_name: shahkar_spark-master
     environment:
       - SPARK_MODE=master
-
     ports:
       - "7077:7077"  
       - "8082:8080"  
@@ -103,7 +103,6 @@ services:
     environment:
       - SPARK_MODE=worker
       - SPARK_MASTER_URL=spark://spark-master:7077  
-
     ports:
       - 8083:8081
     depends_on:
@@ -111,6 +110,28 @@ services:
     volumes:
       - .:/app
 
+
+
+  # prometheus:
+  #   image: prom/prometheus
+  #   container_name: prometheus
+  #   ports:
+  #     - "9090:9090"
+  #   volumes:
+  #     - ./prometheus.yml:/etc/prometheus/prometheus.yml
+  #   command:
+  #     - '--config.file=/etc/prometheus/prometheus.yml'
+
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin 
+    depends_on:
+      - prometheus
 
 
 
