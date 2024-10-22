@@ -34,9 +34,6 @@ services:
 
 
 
-
-
-
   celery:
     build: . 
     image: celery
@@ -49,31 +46,36 @@ services:
       - django
       - redis
 
-  # spark-master:
-  #   image: spark
-  #   container_name: shahkar_spark-master
-  #   environment:
-  #     - SPARK_MODE=master
-  #     - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-  #     - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
-  #   command: >
-  #     /bin/bash -c "chmod 644 /opt/bitnami/spark/jars/postgresql-42.2.23.jar &&
-  #                    /opt/bitnami/spark/bin/spark-submit --class your.main.Class your.jar"
-  #   ports:
-  #     - "7077:7077"  
-  #     - "8080:8080"  
+  spark-master:
+    image: spark_image
+    container_name: shahkar_spark-master
+    environment:
+      - SPARK_MODE=master
+      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+      - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
+
+    ports:
+      - "7077:7077"  
+      - "8082:8080"  
+    volumes:
+      - .:/app
  
 
-  # spark-worker:
-  #   image: spark
-  #   container_name: shahkar_spark-worker
-  #   environment:
-  #     - SPARK_MODE=worker
-  #     - SPARK_MASTER_URL=spark://spark-master:7077  
-  #     - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-  #     - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
-  #   depends_on:
-  #     - spark-master
+  spark-worker:
+    image: spark_image
+    container_name: shahkar_spark-worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077  
+      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+      - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
+    ports:
+      - 8083:8081
+    depends_on:
+      - spark-master
+    volumes:
+      - .:/app
+
 
 
 
