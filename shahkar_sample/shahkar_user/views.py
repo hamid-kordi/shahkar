@@ -58,12 +58,9 @@ class ViewUserData(APIView):
         ApiLog.objects.create(
             analyzer_id=analyzer_id,
             phonenumber=phone_number,
-            request_size=(
-                request.META["CONTENT_LENGTH"]
-                if "CONTENT_LENGTH" in request.META
-                else 0
-            ),
+            request_size=1,
             response_time=response_time,
+            task_id = task.id
         )
 
         return Response({"task_id": task.id}, status=202)
