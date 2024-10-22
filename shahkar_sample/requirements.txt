@@ -9,5 +9,7 @@ djangorestframework
 drf-spectacular
 pandas
 eventlet
+kafka-python
+
 
 
