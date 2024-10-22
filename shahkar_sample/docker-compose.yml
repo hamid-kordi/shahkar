@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-
+# database 
   postgres:
     image: postgres:16
     container_name: shahkar-postgres1.2
@@ -13,12 +13,12 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
-
+# celery massage broker
   redis:
     image: redis:alpine
 
 
-
+# app
   django:
     build: .
     container_name: django_app
@@ -32,8 +32,42 @@ services:
     volumes:
       - .:/app
 
+# kafka dependency
+  zookeeper:
+    image: wurstmeister/zookeeper:3.4.6
+    ports:
+      - "2181:2181"
+
+# kafka
+  kafka:
+    image: wurstmeister/kafka:latest
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:9092,OUTSIDE://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
+      KAFKA_LISTENERS: INSIDE://0.0.0.0:9092,OUTSIDE://0.0.0.0:9092
+    depends_on:
+      - zookeeper
+
+# web ui for kafka
+
+  kafka-manager:
+    image: kafka-manager:latest
+    environment:
+      KM_VERSION: "latest"
+      KM_ARGS: "-Dconfig.file=/etc/kafka-manager/application.conf"
+      ZK_HOSTS: "zookeeper:2181"
+      KAFKA_MANAGER_USERNAME: "admin"
+      KAFKA_MANAGER_PASSWORD: "admin"
+    ports:
+      - "9000:9000"
+    depends_on:
+      - zookeeper
 
 
+# queue
   celery:
     build: . 
     image: celery
@@ -46,13 +80,13 @@ services:
       - django
       - redis
 
+# streaming
+
   spark-master:
     image: spark_image
     container_name: shahkar_spark-master
     environment:
       - SPARK_MODE=master
-      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-      - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
 
     ports:
       - "7077:7077"  
@@ -61,14 +95,15 @@ services:
       - .:/app
  
 
+# streaming worker 
+
   spark-worker:
     image: spark_image
     container_name: shahkar_spark-worker
     environment:
       - SPARK_MODE=worker
       - SPARK_MASTER_URL=spark://spark-master:7077  
-      - JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-      - PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin:$PATH
+
     ports:
       - 8083:8081
     depends_on:
