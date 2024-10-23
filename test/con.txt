@@ -12,6 +12,8 @@ python send_to_kafka.py
 ----------
 # read data from kafka: run in spark master container
 spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0 /app/shahkar_sample/read_from_kafka.py
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0 /app/shahkar_sample/influx_db.py
+
 ----------
 # show kafka data log :
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic api_log --from-beginning
