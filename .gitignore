@@ -79,6 +79,5 @@ wheels/
 
 # Docker
 **/docker-compose.override.yml
-**/Dockerfile
 
 files/
